@@ -1,0 +1,140 @@
+{
+  "name": "林小鹰",
+  "series": "日常营业",
+  "created": "2026-11-24",
+  "type": "static",
+  "count": 16,
+  "source_character": "知核",
+  "reference": "references/character-original.png",
+  "generation_tool": "imagegen builtin",
+  "stickers": [
+    {
+      "id": "01",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-33c45e0e-266b-4f2d-9cb3-9e4d9f233981.png",
+      "scene": "确认收到",
+      "raw": "raw/01.png",
+      "prompt_file": "prompts/01.md",
+      "caption": "收到"
+    },
+    {
+      "id": "02",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-e9ee3532-7e77-4efd-a1ae-246864648e63.png",
+      "scene": "开心庆祝",
+      "raw": "raw/02.png",
+      "prompt_file": "prompts/02.md",
+      "caption": "好耶"
+    },
+    {
+      "id": "03",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-44e575ee-efd8-4e4d-9137-69dba08e225e.png",
+      "scene": "真诚感谢",
+      "raw": "raw/03.png",
+      "prompt_file": "prompts/03.md",
+      "caption": "谢谢你"
+    },
+    {
+      "id": "04",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f0805d44-0ec0-4a8b-b36e-c62289e79364.png",
+      "scene": "安慰拥抱",
+      "raw": "raw/04.png",
+      "prompt_file": "prompts/04.md",
+      "caption": "抱抱"
+    },
+    {
+      "id": "05",
+      "scene": "暖心慰劳",
+      "raw": "raw/05.png",
+      "prompt_file": "prompts/05.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-1e6339ca-c641-4a29-b7ea-0b6532723324.png",
+      "caption": "辛苦啦"
+    },
+    {
+      "id": "06",
+      "scene": "认真思考",
+      "raw": "raw/06.png",
+      "prompt_file": "prompts/06.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-d0b903a2-9f72-4035-8286-3a7b718f569b.png",
+      "caption": "我想想"
+    },
+    {
+      "id": "07",
+      "scene": "一脸疑惑",
+      "raw": "raw/07.png",
+      "prompt_file": "prompts/07.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b5fd6a14-7fac-4a00-a0aa-4a9f68a25358.png",
+      "caption": "啊？"
+    },
+    {
+      "id": "08",
+      "scene": "夸张惊慌",
+      "raw": "raw/08.png",
+      "prompt_file": "prompts/08.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-eaf0c2fb-6ef3-41fc-9816-63091f1b03ae.png",
+      "caption": "救命"
+    },
+    {
+      "id": "09",
+      "scene": "喜剧崩溃",
+      "raw": "raw/09.png",
+      "prompt_file": "prompts/09.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-2806f2d8-9d1c-4e4d-b082-7754a6a601d8.png",
+      "caption": "我裂开了"
+    },
+    {
+      "id": "10",
+      "scene": "暂时躺平",
+      "raw": "raw/10.png",
+      "prompt_file": "prompts/10.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-e4c32c84-a9a1-471a-86c5-19c91690231e.png",
+      "caption": "让我缓缓"
+    },
+    {
+      "id": "11",
+      "scene": "开始犯困",
+      "raw": "raw/11.png",
+      "prompt_file": "prompts/11.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-4bd73806-713d-4f64-917e-72b804311d0a.png",
+      "caption": "困了"
+    },
+    {
+      "id": "12",
+      "scene": "温柔道别",
+      "raw": "raw/12.png",
+      "prompt_file": "prompts/12.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-5d959d96-b84a-4672-9bd6-b1e8f4b339f4.png",
+      "caption": "晚安"
+    },
+    {
+      "id": "13",
+      "scene": "认真打气",
+      "raw": "raw/13.png",
+      "prompt_file": "prompts/13.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-ec1e41f0-ac99-4980-b0c3-cd9a4ca1390b.png",
+      "caption": "加油"
+    },
+    {
+      "id": "14",
+      "scene": "自信承接",
+      "raw": "raw/14.png",
+      "prompt_file": "prompts/14.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-2f50887a-31af-4dd9-8c9d-0029d97fcf1a.png",
+      "caption": "安排"
+    },
+    {
+      "id": "15",
+      "scene": "轻松离场",
+      "raw": "raw/15.png",
+      "prompt_file": "prompts/15.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3439ff9c-80a9-4359-a5db-a7a058221fa9.png",
+      "caption": "先溜了"
+    },
+    {
+      "id": "16",
+      "scene": "放声大笑",
+      "raw": "raw/16.png",
+      "prompt_file": "prompts/16.md",
+      "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-46df9f6b-63e3-45d6-9283-8c85ed071c9a.png",
+      "caption": "哈哈哈"
+    }
+  ]
+}

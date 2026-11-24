@@ -1,0 +1,12 @@
+{
+  "review_date": "2026-11-24",
+  "reviewer": "assistant visual inspection",
+  "reviewed_artifacts": ["preview/contact-light.jpg", "preview/contact-dark.jpg"],
+  "count": 16,
+  "caption_review": "All 16 intended Chinese captions visually match the planned text.",
+  "identity_review": "Consistent gray and cream clay owl, ochre beak and feet, recognizable round facial disks. Eyes and ear tufts vary intentionally with the expression.",
+  "pose_review": "Acknowledgement, celebration, thanks, hug, tea offering, thinking, confusion, panic, comic cracking, slumping, yawning, sleeping, cheering, confidence, leaving and laughing are visually distinct.",
+  "background_review": "White outline and dark lettering remain readable on light and dark preview backgrounds at 240 px.",
+  "result": "accepted",
+  "limitations": ["Static PNG set only", "No WeChat client send test", "No sticker-store submission or approval", "No measured popularity or retention data"]
+}
