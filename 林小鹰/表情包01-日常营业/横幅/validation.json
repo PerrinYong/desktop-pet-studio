@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "file": "banner-750x400.jpg",
+  "dimensions": [
+    750,
+    400
+  ],
+  "format": "JPEG",
+  "mode": "RGB",
+  "opaque": true,
+  "bytes": 79896,
+  "sha256": "c8e20bf5304d14c7766419863645175c05cae60c6dbee228fb03acc085ecce81",
+  "visual_review": {
+    "no_text": true,
+    "colored_nonwhite_background": true,
+    "characters_match_sticker_series": true,
+    "no_character_clipping": true,
+    "no_stretching": true
+  },
+  "requirements_source": "user screenshot",
+  "platform_reviewed": false
+}

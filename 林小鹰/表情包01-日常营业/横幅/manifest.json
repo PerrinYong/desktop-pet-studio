@@ -1,0 +1,50 @@
+{
+  "files": [
+    {
+      "path": "banner-750x400.jpg",
+      "bytes": 79896,
+      "sha256": "c8e20bf5304d14c7766419863645175c05cae60c6dbee228fb03acc085ecce81"
+    },
+    {
+      "path": "export-transform.json",
+      "bytes": 285,
+      "sha256": "4bca62af72302914ebdafe0d55ac52138f87d2d8f3121f65dbaff5ad9f941b9d"
+    },
+    {
+      "path": "export.ps1",
+      "bytes": 2061,
+      "sha256": "cf4de2ef002ca787dcb64956f32bd079a7def40e66c7a443f780cb5578f32013"
+    },
+    {
+      "path": "prompt.md",
+      "bytes": 2461,
+      "sha256": "304b3d1bc45e7be0791da7226a20be601494b0b7f29708182c33fab9a6700eaf"
+    },
+    {
+      "path": "provenance.json",
+      "bytes": 391,
+      "sha256": "3b4cc21d60f12570fe0b07151325b502abca8791a933fb1f4baca5905f8f539a"
+    },
+    {
+      "path": "raw/banner-master.png",
+      "bytes": 2315458,
+      "sha256": "e6a0aa1a1f5daa663a390c261fb07a63812c41fac004b2e8b251f15d8ec8586e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 891,
+      "sha256": "c36ffcfa7e1e5f4f5c8c1cf6690b9c34270566fd3cee7b4ca742cee4563393c7"
+    },
+    {
+      "path": "requirements.png",
+      "bytes": 188575,
+      "sha256": "67679503288a39f1a7168a349203d570a803740b5511e5793df3e85f7c7f0426"
+    },
+    {
+      "path": "validation.json",
+      "bytes": 532,
+      "sha256": "ea791966b214715209decea5692feccc306527e8d3ff56c0de88e535bd23ac7c"
+    }
+  ],
+  "self_excluded": true
+}

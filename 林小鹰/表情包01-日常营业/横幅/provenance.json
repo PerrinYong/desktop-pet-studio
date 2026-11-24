@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-24",
+  "original_path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f30a8eba-ec8a-4b00-98e0-1dc18c568322.png",
+  "generation_tool": "imagegen builtin",
+  "reference_images": [
+    "../references/character-original.png",
+    "../preview/contact-light.jpg"
+  ],
+  "requirements_source": "user screenshot",
+  "submitted": false
+}

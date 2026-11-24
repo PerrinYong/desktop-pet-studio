@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "path": "cover-240.png",
+      "bytes": 72241,
+      "sha256": "15af5cb00a9984921927d5260902089166e2dcf3be03425eedf9deeb9088741a"
+    },
+    {
+      "path": "export.ps1",
+      "bytes": 1491,
+      "sha256": "0d7a1bdac013f2fac7f70ca3171e92fef598db672b9f28dd9cdedd8630907fbb"
+    },
+    {
+      "path": "prompt.md",
+      "bytes": 1402,
+      "sha256": "a278d57edbcc2a2443b656e70e7dcd3b14188eaf02f70d350d3125da68dd236c"
+    },
+    {
+      "path": "provenance.json",
+      "bytes": 347,
+      "sha256": "93a2c71bded3ba1e8e444c9e743e6ead6c2502505c88641a232e44447dfd5e17"
+    },
+    {
+      "path": "raw/cover-master.png",
+      "bytes": 1489526,
+      "sha256": "b2e1bac35745cdded54ec900a8cfcf577fd2680ff72cfa6f4852b418d9e6d9c0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 747,
+      "sha256": "2466ed9b0471189efe31332712edec9129477687f4b764b60517fa98094fbaec"
+    },
+    {
+      "path": "requirements.png",
+      "bytes": 168478,
+      "sha256": "1ced5c2b34fd9b8df649f55d813a7509f4eac3c7cf2e1fe78dd24d60b3a11207"
+    },
+    {
+      "path": "validation.json",
+      "bytes": 628,
+      "sha256": "e5d72b98778831dc1ec54baeeeda28a36c9ab484bdb902e08efdd2567092316a"
+    }
+  ],
+  "self_excluded": true
+}

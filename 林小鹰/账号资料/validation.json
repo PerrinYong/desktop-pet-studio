@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "requirements_source": "user-provided",
+  "maximum_bytes": 500000,
+  "files": [
+    {
+      "file": "avatar-240.png",
+      "format": "PNG",
+      "dimensions": [
+        240,
+        240
+      ],
+      "bytes": 64056,
+      "alpha_bbox": [
+        18,
+        33,
+        221,
+        211
+      ],
+      "sha256": "2b44e8d0d1f9584e14876d95aa13cce15715d69fab6ba0e12c74003b22b8f7c3"
+    },
+    {
+      "file": "icon-50.png",
+      "format": "PNG",
+      "dimensions": [
+        50,
+        50
+      ],
+      "bytes": 4440,
+      "alpha_bbox": [
+        3,
+        7,
+        47,
+        44
+      ],
+      "sha256": "d4b6e612aa46b6e3df0813868bf52b710363f3d3c75fea3bab2feaeb71b8796a"
+    }
+  ]
+}

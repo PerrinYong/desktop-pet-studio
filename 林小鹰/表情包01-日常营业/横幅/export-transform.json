@@ -1,0 +1,19 @@
+{
+  "source_size": [
+    1717,
+    916
+  ],
+  "output_size": [
+    750,
+    400
+  ],
+  "source_crop_xywh": [
+    0.0,
+    0.1333333333333826,
+    1717.0,
+    915.7333333333332
+  ],
+  "uniform_scale": 0.43680838672102507,
+  "jpeg_quality": 94,
+  "stretched": false
+}

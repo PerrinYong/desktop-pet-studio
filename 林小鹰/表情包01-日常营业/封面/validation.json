@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "file": "cover-240.png",
+  "dimensions": [
+    240,
+    240
+  ],
+  "format": "PNG",
+  "mode": "RGBA",
+  "transparent_background": true,
+  "alpha_bbox": [
+    24,
+    9,
+    196,
+    233
+  ],
+  "bytes": 72241,
+  "sha256": "15af5cb00a9984921927d5260902089166e2dcf3be03425eedf9deeb9088741a",
+  "visual_review": {
+    "front_facing_full_body": true,
+    "no_text": true,
+    "no_white_outline": true,
+    "no_decorative_elements": true,
+    "no_clipped_limbs": true,
+    "edges_acceptable_at_240px": true
+  },
+  "requirements_source": "user screenshot",
+  "platform_reviewed": false
+}
