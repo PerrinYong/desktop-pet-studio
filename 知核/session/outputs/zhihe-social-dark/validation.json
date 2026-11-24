@@ -1,0 +1,23 @@
+{
+  "decode_ok": true,
+  "decode_errors": "",
+  "bytes": 4020977,
+  "media_evidence": [
+    "  Duration: 00:00:54.00, start: 0.000000, bitrate: 595 kb/s",
+    "  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920, 475 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+    "  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 24000 Hz, stereo, fltp, 114 kb/s (default)",
+    "[Parsed_volumedetect_0 @ 0000023dc503ccc0] mean_volume: -23.1 dB",
+    "[Parsed_volumedetect_0 @ 0000023dc503ccc0] max_volume: -8.8 dB"
+  ],
+  "visual_checkpoints_seconds": [
+    0,
+    2,
+    20.5,
+    27.5,
+    45.7
+  ],
+  "cover_checks_px": [
+    180,
+    300
+  ]
+}

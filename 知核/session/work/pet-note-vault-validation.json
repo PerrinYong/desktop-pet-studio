@@ -1,0 +1,9 @@
+{
+  "exit_code": 0,
+  "derived_files_changed": [
+    "00-总览与索引\\tree.md",
+    "00-总览与索引\\笔记仓库摘要.md",
+    "4-项目与事业档案\\01-文章编写与分享\\文章编写与分享项目地图.md"
+  ],
+  "output_tail": "{\n  \"vault\": \"my-notes-private\",\n  \"ok\": true,\n  \"errors\": []\n}\n"
+}

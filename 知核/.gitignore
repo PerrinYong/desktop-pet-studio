@@ -1,0 +1,6 @@
+# 本地保留的账号截图；不随常规 git add 提交。
+raw/private-references/
+__pycache__/
+*.pyc
+.venv/
+rebuild/

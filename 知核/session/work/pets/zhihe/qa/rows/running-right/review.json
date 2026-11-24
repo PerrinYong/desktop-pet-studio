@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\running-right\\frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\running-right\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18740,
+          "bbox": [
+            26,
+            5,
+            166,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 347
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\running-right\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18126,
+          "bbox": [
+            26,
+            6,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 356
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\running-right\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18674,
+          "bbox": [
+            25,
+            6,
+            167,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 356
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\running-right\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17903,
+          "bbox": [
+            27,
+            6,
+            165,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 327
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\running-right\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18689,
+          "bbox": [
+            26,
+            5,
+            166,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 339
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\running-right\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18117,
+          "bbox": [
+            27,
+            6,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 364
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\running-right\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18708,
+          "bbox": [
+            25,
+            6,
+            166,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 374
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\running-right\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17951,
+          "bbox": [
+            27,
+            6,
+            165,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 325
+        }
+      ]
+    }
+  ]
+}

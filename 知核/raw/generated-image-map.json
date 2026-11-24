@@ -1,0 +1,93 @@
+[
+  {
+    "original": "raw/generated-images/01a20d01-6832-7843-82b4-d289d27c1a2f/exec-7beb33a6-dd69-41a4-aede-7a1a764ebacf.png",
+    "decoded_names": [
+      "base.png"
+    ],
+    "sha256": "ad2eee0dab203811b92de81254766702ed85ecf810a2835e1f580eb1c32b5be1"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-78f3-7d60-9364-c562400dfe50/exec-1e4c7ab5-9331-4f02-9a1d-167f535ef862.png",
+    "decoded_names": [
+      "jumping.png"
+    ],
+    "sha256": "d1241773ffb6562dd4f3429a872e133671a04eece9a9d9241b1e8880c823f1c7"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-78f3-7d60-9364-c562400dfe50/exec-4a025643-81fe-4c39-80c1-110d9fc236ea.png",
+    "decoded_names": [
+      "look-row-9.png"
+    ],
+    "sha256": "6fe1e6b51f58d5d54da0a5a6bd63099a9348fb14ef4986c983b8911c89d8783d"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-78f3-7d60-9364-c562400dfe50/exec-55d707c2-f412-4088-81bf-4cfc4c6de562.png",
+    "decoded_names": [
+      "look-row-10.png"
+    ],
+    "sha256": "875bb00074f3f48559fd02bf85a7d5cc81952c1992cb2c3ffbaf982f2dbfca8a"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-78f3-7d60-9364-c562400dfe50/exec-64426d55-8f28-458e-bafa-5a7fbcaa5e49.png",
+    "decoded_names": [
+      "look-cardinals.png"
+    ],
+    "sha256": "603d4e1e33258dc7f899da474400f0ee56335c0f9fbf32bdb0bf8f4965dec8fc"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-78f3-7d60-9364-c562400dfe50/exec-d970c7e2-0a24-4319-ae6f-be193170844b.png",
+    "decoded_names": [
+      "running.png"
+    ],
+    "sha256": "68c6260a85d5faf63fcf14184dba6bbd1e6e8142fe5c6d14411a4ec30cc1de6d"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-78f3-7d60-9364-c562400dfe50/exec-e5fa76d9-47d6-4966-9c98-bf7690f62941.png",
+    "decoded_names": [
+      "idle.png"
+    ],
+    "sha256": "5ae68cd049f273e965e24a568fceb21c5f9a5b6edfa839596e1638662188a2bc"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-941a-7003-87d4-6ce6214851f3/exec-69f9c2a9-7afa-4cad-a075-032769188d5d.png",
+    "decoded_names": [
+      "running-right-v1.png"
+    ],
+    "sha256": "13fee3096c49c14195bc7e6c24ac0ebca53742770d1b0d1f455fe04e91140c0f"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-941a-7003-87d4-6ce6214851f3/exec-9554e737-8f9c-4054-b0bd-e38a33e971ef.png",
+    "decoded_names": [
+      "review.png"
+    ],
+    "sha256": "1321c264c290f55cca68c1e11b2f85292454fda5c72952039b816fbace03d496"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-941a-7003-87d4-6ce6214851f3/exec-a8de3b8a-aed0-4e60-b3ba-9d768bdcd8cd.png",
+    "decoded_names": [
+      "waiting.png"
+    ],
+    "sha256": "d4840d6ca403cdb7ab5ee0e97db170483f48f22bf825c5bc87da83b55e34fcdc"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-941a-7003-87d4-6ce6214851f3/exec-c4ecb2f8-b67d-4431-8ea3-e081e7a0cfc0.png",
+    "decoded_names": [
+      "running-right.png"
+    ],
+    "sha256": "4935975e627afa8965f287a9e43e26d7e11e476478d62be641ae92b354916af5"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-ad6e-7431-b022-9d41f5b0dfb8/exec-21756815-e3a6-4b39-8835-78e427f0dcaf.png",
+    "decoded_names": [
+      "waving.png"
+    ],
+    "sha256": "e0f8b8bfb2ee9f62f0a797eee0115c466aed026679d5fc66cab9ca51d17b8d0e"
+  },
+  {
+    "original": "raw/generated-images/01a20d04-ad6e-7431-b022-9d41f5b0dfb8/exec-6aae5fbe-31eb-4630-85dc-b768a8340e81.png",
+    "decoded_names": [
+      "failed.png"
+    ],
+    "sha256": "015f3abf1e3bba66092b8b987cef47ed1ac888aee2ca05aab207fa384b62d049"
+  }
+]

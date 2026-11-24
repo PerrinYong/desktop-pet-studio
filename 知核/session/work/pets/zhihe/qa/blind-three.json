@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"Horizontal pair 1","A":"screen-right","B":"screen-left","reason":"A beak and eye pair sit toward the right side of the face; B beak projects left with more rear head visible on the right."},
+    {"pair":"Horizontal pair 2","A":"screen-left","B":"screen-right","reason":"A beak projects left and its large nearer eye is leftward; B shows the mirrored rightward face and beak."},
+    {"pair":"Horizontal pair 3","A":"screen-left","B":"screen-right","reason":"A has its beak at the left facial edge, B at the right facial edge, with the far eye compressed on that edge."},
+    {"pair":"Horizontal pair 4","A":"screen-left","B":"screen-right","reason":"Strong side profiles: A beak protrudes left and B beak protrudes right."},
+    {"pair":"Horizontal pair 5","A":"screen-left","B":"screen-right","reason":"A lowered beak and eye cluster shift left; B lowered beak and eye cluster shift right, leaving rear cranium on the opposite side."},
+    {"pair":"Horizontal pair 6","A":"screen-left","B":"screen-right","reason":"Despite downward tilt, A beak is left of head center and B beak is right of head center; eye asymmetry follows the same turns."},
+    {"pair":"Horizontal pair 7","A":"screen-left","B":"screen-right","reason":"Both bow steeply, but A beak and facial center shift left while B beak and facial center shift right, with opposite eye compression."},
+    {"pair":"Vertical pair 1","A":"up","B":"down","reason":"A eyes and beak are high on the face with chin visible; B exposes a large crown and compresses eyes and beak toward the chest."},
+    {"pair":"Vertical pair 2","A":"down","B":"up","reason":"A shows a broad top of head and beak pointing toward chest; B raises eyes and beak and exposes the underside of the face."},
+    {"pair":"Vertical pair 3","A":"up","B":"down","reason":"A beak and eyes occupy the high forward face with a lifted chin; B crown is more exposed and beak points lower toward the collar."},
+    {"pair":"Vertical pair 4","A":"down","B":"up","reason":"A eye line and beak are lowered with more top of head visible; B raises beak and eyes with more lower cheek visible."},
+    {"pair":"Vertical pair 5","A":"down","B":"up","reason":"A has a steeply bowed head, broad crown and low eyes; B tips the face upward with high beak and eyes."},
+    {"pair":"Vertical pair 6","A":"down","B":"up","reason":"A presents the top of the head and low beak near the chest; B face turns upward with raised beak and eyes and a visible lower cheek."},
+    {"pair":"Vertical pair 7","A":"down","B":"up","reason":"A has a lower beak and eye line and greater crown exposure; B beak and eye line rise with the lower cheek exposed."}
+  ]
+}

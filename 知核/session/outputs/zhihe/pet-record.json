@@ -1,0 +1,13 @@
+{
+  "pet_id": "pet_6b0564a0f2b881918413ca859d530a37",
+  "name": "知核",
+  "description": "沉稳而好奇的黏土小猫头鹰，从基本事实出发，认真思考并仔细检查。",
+  "is_custom": true,
+  "is_active": true,
+  "sha256": "3f49a5443adab9d00b737eda38d801e3de7986c3b92af2d95d8868d8f600f91a",
+  "sprite_version": 2,
+  "standard_states": 9,
+  "look_directions": 16,
+  "service_validation": true,
+  "library_storage": "Unavailable; local archive saved instead"
+}

@@ -1,0 +1,68 @@
+{
+  "ok": true,
+  "archive_root": "E:\\0-MyProj\\desktop-pet-studio\\知核",
+  "repository": "https://github.com/PerrinYong/desktop-pet-studio.git",
+  "manifest_files": 593,
+  "copied_files": 511,
+  "bytes": 177284276,
+  "copied_files_sha256_verified": 511,
+  "mismatches": [],
+  "matched_generated_originals": 13,
+  "final_frames_pixel_verified": 73,
+  "relative_document_links_verified": 20,
+  "extension_counts": {
+    "": 1,
+    ".png": 399,
+    ".json": 55,
+    ".md": 38,
+    ".jpg": 13,
+    ".txt": 8,
+    ".zip": 3,
+    ".gif": 35,
+    ".mp4": 5,
+    ".srt": 2,
+    ".py": 28,
+    ".log": 3,
+    ".wav": 2,
+    ".yaml": 1
+  },
+  "source_files_preserved": true,
+  "git_commit_or_push_performed": false,
+  "portable_video_stills_check": {
+    "ok": true,
+    "checks": [
+      {
+        "file": "cover-A-3x4.jpg",
+        "matches_archived_output": true
+      },
+      {
+        "file": "cover-B-3x4.jpg",
+        "matches_archived_output": true
+      },
+      {
+        "file": "cover-small-size-check.jpg",
+        "matches_archived_output": true
+      },
+      {
+        "file": "narration.srt",
+        "matches_archived_output": true
+      },
+      {
+        "file": "opening-9x16.jpg",
+        "matches_archived_output": true
+      },
+      {
+        "file": "storyboard.jpg",
+        "matches_archived_output": true
+      }
+    ],
+    "mode": "--stills-only",
+    "full_video_rerendered": false
+  },
+  "source_files_rechecked_unchanged": true,
+  "independent_manifest_check": {
+    "ok": true,
+    "checked_files": 593,
+    "errors": []
+  }
+}

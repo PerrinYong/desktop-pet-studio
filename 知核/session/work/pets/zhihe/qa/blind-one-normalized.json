@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A beak and facial center displaced right, with larger near eye on left; B beak projects left and broad near cheek is on right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A beak sits at left-facing face edge and left eye is foreshortened; B beak projects to right with right eye foreshortened."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A leftward beak and narrow far eye at left contrast with B rightward beak and narrow far eye at right."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows pronounced left profile and beak beyond left facial contour; B shows right profile and beak beyond right contour."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A facial mask and beak occupy left side of head; B facial mask and beak occupy right side, with broad rear skull visible on opposite sides."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Both heads bow, but A beak and eye-mask center shift left and B beak and eye-mask center shift right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Both bow deeply; A facial V and beak lean left relative to torso, whereas B facial V and beak lean right."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A facial mask rides high with raised beak and little crown visible; B shows large top of skull, compressed low eyes, and beak pointing toward chest."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A exposes broad crown with beak below eye mask near chest; B raises facial center and beak, exposing lower head beneath eyes."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A rightward face is lifted with beak high and underside of head visible; B crown tilts forward and beak drops toward chest."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A angled head has low beak and eye mask with more crown visible; B raises beak and eyes and reveals a broad lower cheek below them."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A deeply bowed head exposes crown and places beak at chest; B leftward head tilts back with elevated beak and eyes."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A leftward head bows, lowering beak toward neck and exposing crown; B leftward head lifts beak and face with lower cheek exposed."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A leftward face has beak below eye-mask midpoint and crown tipped forward; B leftward face is raised, with beak higher and more cheek visible beneath the eye."
+    }
+  ]
+}

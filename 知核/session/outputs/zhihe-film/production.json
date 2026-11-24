@@ -1,0 +1,64 @@
+{
+  "title": "知核 · 认真做事，也认真陪你",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "duration_seconds": 56,
+  "audio": "Original programmatically synthesized instrumental score and timing ticks; no voiceover.",
+  "production": "Real approved pet frames reused; motion-graphics compositing and timing. Behind-the-scenes visualization uses actual source strip and atlas, not a screen recording.",
+  "atlas_sha256": "3f49a5443adab9d00b737eda38d801e3de7986c3b92af2d95d8868d8f600f91a",
+  "scenes": [
+    {
+      "start": 0,
+      "end": 5,
+      "title": "知核，认真陪你"
+    },
+    {
+      "start": 5,
+      "end": 9.5,
+      "title": "专注思考"
+    },
+    {
+      "start": 9.5,
+      "end": 14,
+      "title": "认真检查"
+    },
+    {
+      "start": 14,
+      "end": 18,
+      "title": "耐心等你"
+    },
+    {
+      "start": 18,
+      "end": 22,
+      "title": "为每一步进展雀跃"
+    },
+    {
+      "start": 22,
+      "end": 28,
+      "title": "目光，跟随你的方向"
+    },
+    {
+      "start": 28,
+      "end": 34,
+      "title": "从一排姿态开始"
+    },
+    {
+      "start": 34,
+      "end": 41,
+      "title": "五幅画，开始跳跃"
+    },
+    {
+      "start": 41,
+      "end": 49,
+      "title": "把动作装进一张图"
+    },
+    {
+      "start": 49,
+      "end": 56,
+      "title": "认真做事，也认真陪你"
+    }
+  ]
+}

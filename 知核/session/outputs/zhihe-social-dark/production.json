@@ -1,0 +1,65 @@
+{
+  "title": "仅仅用25分钟，我让GPT帮我做了一个会动的桌面宠物",
+  "duration": 54,
+  "size": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "mode": "First-person on-screen text with original synthesized soundtrack; no spoken narration.",
+  "visual_identity": "User supplied profile reference: deep ink blue-black, warm white, restrained muted gold, sparse network motif. Pet colors preserved.",
+  "timing_claim": "25 minutes is the user-provided narrative framing; no independent stopwatch claim or fake time-lapse.",
+  "production": "Actual character source, five-frame strip, before/after registration images, final atlas and saved activation result. Re-typeset process visualization, not a screen recording.",
+  "scenes": [
+    {
+      "start": 0,
+      "end": 4,
+      "topic": "25分钟，我让GPT做了一个会动的桌面宠物"
+    },
+    {
+      "start": 4,
+      "end": 8,
+      "topic": "我只提了一个要求"
+    },
+    {
+      "start": 8,
+      "end": 12,
+      "topic": "GPT给它取名叫知核"
+    },
+    {
+      "start": 12,
+      "end": 17,
+      "topic": "每个动作先生成连续姿态"
+    },
+    {
+      "start": 17,
+      "end": 25,
+      "topic": "五张静态图如何变成一次跳跃"
+    },
+    {
+      "start": 25,
+      "end": 31,
+      "topic": "动作生成后还要检查修正"
+    },
+    {
+      "start": 31,
+      "end": 37,
+      "topic": "十六个视线方向"
+    },
+    {
+      "start": 37,
+      "end": 43,
+      "topic": "七十三幅姿态组成完整图集"
+    },
+    {
+      "start": 43,
+      "end": 49,
+      "topic": "上传验证并启用"
+    },
+    {
+      "start": 49,
+      "end": 54,
+      "topic": "从一句话到动画成品"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "basis": "User explicitly prefers first-principles reasoning, concise communication, evidence and verification.",
+  "creative_inference": "A calm curious owl is a creative metaphor, not an inferred factual animal preference.",
+  "name": "知核",
+  "generation": "Built-in image_gen; canonical base plus independent animation and coherent direction strips.",
+  "storage": "Local source and QA archive; Library folder capabilities unavailable in this session.",
+  "standard_visual_review": {
+    "identity": "consistent graphite/ivory clay owl, amber eyes and feet",
+    "states": "all nine meaningful; active-work uses thinking wings, review uses inspection gaze, waiting asks with spread wings",
+    "gait": "right and left facing verified; temporal order retained",
+    "registration": "row-wide scale normalization and fixed baseline; jumping retains upward displacement",
+    "waving": "feet anchor corrected by translation without changing scale",
+    "contact_sheet": "qa/contact-sheet.png",
+    "frame_report": "qa/review.json"
+  }
+}

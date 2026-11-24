@@ -1,0 +1,67 @@
+{
+  "ok": true,
+  "atlas": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\final\\spritesheet-extended.png",
+  "encoded_bytes": 2209034,
+  "sha256": "3f49a5443adab9d00b737eda38d801e3de7986c3b92af2d95d8868d8f600f91a",
+  "jump": {
+    "idle_baseline": 196,
+    "jump_baselines": [
+      197,
+      178,
+      154,
+      174,
+      197
+    ],
+    "airborne_lift_pixels": 43,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 96.5,
+    "look_centers_x": [
+      96.0,
+      97.0,
+      96.5,
+      96.5,
+      96.5,
+      95.5,
+      96.5,
+      96.5,
+      96.0,
+      96.5,
+      96.0,
+      96.0,
+      96.0,
+      96.0,
+      97.0,
+      96.0
+    ],
+    "look_widths": [
+      96,
+      96,
+      95,
+      95,
+      93,
+      93,
+      93,
+      93,
+      96,
+      95,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94
+    ],
+    "maximum_center_drift_pixels": 1.0,
+    "maximum_width_ratio": 1.032258064516129
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 247.5 accepted with a reviewed warning",
+    "000 has transparent interior hole rows (y=59, y=60)",
+    "157.5->180 diff is a local outlier (1227 pixels vs neighbor average 734)",
+    "292.5->315 diff is a local outlier (968 pixels vs neighbor average 644)",
+    "337.5->000 diff is a local outlier (1218 pixels vs neighbor average 772)"
+  ]
+}

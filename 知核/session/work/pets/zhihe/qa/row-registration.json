@@ -1,0 +1,113 @@
+{
+  "reason": "Independent row extraction fills cells differently. Apply a constant affine scale per row, never per pose; preserve vertical displacement.",
+  "rows": [
+    {
+      "state": "idle",
+      "scale": 0.7643979057591623,
+      "source_first_bbox": [
+        28,
+        11,
+        163,
+        202
+      ],
+      "target_first_height": 146,
+      "target_ground_baseline": 196
+    },
+    {
+      "state": "running-right",
+      "scale": 0.7807486631016043,
+      "source_first_bbox": [
+        28,
+        7,
+        164,
+        194
+      ],
+      "target_first_height": 146,
+      "target_ground_baseline": 196
+    },
+    {
+      "state": "running-left",
+      "scale": 0.7807486631016043,
+      "source_first_bbox": [
+        28,
+        7,
+        164,
+        194
+      ],
+      "target_first_height": 146,
+      "target_ground_baseline": 196
+    },
+    {
+      "state": "waving",
+      "scale": 0.7448979591836735,
+      "source_first_bbox": [
+        28,
+        6,
+        162,
+        202
+      ],
+      "target_first_height": 146,
+      "target_ground_baseline": 196
+    },
+    {
+      "state": "jumping",
+      "scale": 0.9605263157894737,
+      "source_first_bbox": [
+        40,
+        50,
+        151,
+        202
+      ],
+      "target_first_height": 146,
+      "target_ground_baseline": 196
+    },
+    {
+      "state": "failed",
+      "scale": 0.7525773195876289,
+      "source_first_bbox": [
+        32,
+        7,
+        160,
+        201
+      ],
+      "target_first_height": 146,
+      "target_ground_baseline": 196
+    },
+    {
+      "state": "waiting",
+      "scale": 0.8021978021978022,
+      "source_first_bbox": [
+        11,
+        19,
+        181,
+        201
+      ],
+      "target_first_height": 146,
+      "target_ground_baseline": 196
+    },
+    {
+      "state": "running",
+      "scale": 0.7604166666666666,
+      "source_first_bbox": [
+        29,
+        10,
+        162,
+        202
+      ],
+      "target_first_height": 146,
+      "target_ground_baseline": 196
+    },
+    {
+      "state": "review",
+      "scale": 0.7604166666666666,
+      "source_first_bbox": [
+        28,
+        10,
+        163,
+        202
+      ],
+      "target_first_height": 146,
+      "target_ground_baseline": 196
+    }
+  ]
+}

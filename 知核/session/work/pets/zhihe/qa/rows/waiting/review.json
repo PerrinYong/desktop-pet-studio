@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\waiting\\frames",
+  "states": [
+    "waiting"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\waiting\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20649,
+          "bbox": [
+            9,
+            17,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 313
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\waiting\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20544,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 321
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\waiting\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21215,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 319
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\waiting\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20732,
+          "bbox": [
+            10,
+            13,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 298
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\waiting\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20216,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 295
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\prin\\Documents\\Codex\\2026-11-24\\pets-plugin-work-pets-openai-curated\\work\\pets\\zhihe\\qa\\rows\\waiting\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20677,
+          "bbox": [
+            9,
+            16,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 335
+        }
+      ]
+    }
+  ]
+}
