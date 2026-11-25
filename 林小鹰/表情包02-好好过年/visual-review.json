@@ -1,0 +1,38 @@
+{
+  "reviewed": "2026-11-25",
+  "reviewer": "assistant_visual_inspection",
+  "captions_checked": 24,
+  "character_consistency": "gray/cream clay owl, amber eyes, red festive vest",
+  "backgrounds_reviewed": [
+    "preview/contact-light.jpg",
+    "preview/contact-dark.jpg"
+  ],
+  "revisions": [
+    {
+      "id": "17",
+      "issue": "Initial ivory outline too faint against dark chat background",
+      "selected": "raw/17-v2.png"
+    },
+    {
+      "id": "18",
+      "issue": "Embossed cakes could suggest Mid-Autumn mooncakes",
+      "selected": "raw/18-v2.png",
+      "change": "Plate changed to two mandarin oranges"
+    },
+    {
+      "id": "banner",
+      "issue": "Embossed cakes could suggest Mid-Autumn mooncakes",
+      "selected": "raw/banner-v2.png",
+      "change": "Plate changed to wrapped festive candy"
+    }
+  ],
+  "cover": "front full-body, transparent, no text or white outline",
+  "banner": "no text, opaque jade green, three homecoming/hospitality/greeting scenes",
+  "limitations": [
+    "No real WeChat client send test",
+    "No platform submission or review",
+    "No observed audience reuse data",
+    "Generated vest ornaments and accessory details vary slightly across poses"
+  ],
+  "all_captions_visually_match_manifest": true
+}

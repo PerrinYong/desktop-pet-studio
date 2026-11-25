@@ -1,0 +1,97 @@
+{
+  "name": "林小羊",
+  "series": "羊年慢慢来",
+  "stage": "character_direction_and_eight_pilots",
+  "created": "2026-11-25",
+  "kind": "static",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "羊年好呀",
+      "meaning": "拜年",
+      "scene": "向朋友主动拜年",
+      "usage_note": "轻松问候，不要求对方回一整段祝词",
+      "pose": "Sheep slouches but raises one hoof in a small hello, wearing ONLY a short loose red scarf, little sheepishly warm smile. Body relaxed, not upright ceremonial.",
+      "raw": "raw/01.png",
+      "prompt_file": "prompts/01.md",
+      "display_scene": "轻松拜年"
+    },
+    {
+      "id": "02",
+      "caption": "到家就躺",
+      "meaning": "到家",
+      "scene": "抵达后给亲友报平安",
+      "usage_note": "应补具体地点；用疲惫姿态释放表演精神饱满的压力",
+      "pose": "Sheep has collapsed into a very wide FLAT wool pancake, sideways tiny face, hooves sprawled, little suitcase beside it, one tiny hoof still raised to report arrival. Exaggerated compressed silhouette.",
+      "raw": "raw/02.png",
+      "prompt_file": "prompts/02.md",
+      "display_scene": "到家报平安"
+    },
+    {
+      "id": "03",
+      "caption": "心意收到",
+      "meaning": "感谢",
+      "scene": "回应祝福、红包或关心",
+      "usage_note": "图中用爱心而非金钱，适用范围更广",
+      "pose": "Sheep is squashed low like a cushion, with two small hooves carefully holding ONE red heart against chest, eyes soft curved short strokes, barely rising to acknowledge care. No envelope.",
+      "raw": "raw/03.png",
+      "prompt_file": "prompts/03.md",
+      "display_scene": "接住心意"
+    },
+    {
+      "id": "04",
+      "caption": "我先缓缓",
+      "meaning": "休息",
+      "scene": "聚会疲惫或暂时暂停回复",
+      "usage_note": "告诉对方自己的状态，不把冷淡归咎给对方",
+      "pose": "Sheep lies completely FLAT face down like a melted wool cushion, horns and sideways ears still identifiable, face turned toward viewer with tired tiny dot eyes, one front hoof gently raised. No objects.",
+      "raw": "raw/04.png",
+      "prompt_file": "prompts/04.md",
+      "display_scene": "暂停回复"
+    },
+    {
+      "id": "05",
+      "caption": "慢慢来",
+      "meaning": "安心",
+      "scene": "接住对方的着急或疲惫",
+      "usage_note": "与行动建议配合，不能用来敷衍紧急求助",
+      "pose": "Sheep sitting gently leaning sideways with plenty of saggy wool, extends one small hoof toward viewer palm upward in patient invitation, mellow reassuring expression, relaxed ears. Calm active companionship, not triumphant, no props.",
+      "raw": "raw/05.png",
+      "prompt_file": "prompts/05.md",
+      "display_scene": "安慰与陪伴"
+    },
+    {
+      "id": "06",
+      "caption": "突然精神",
+      "meaning": "开心",
+      "scene": "收到红包、好消息或开饭通知",
+      "usage_note": "朋友间表现开心；不把感谢限定为红包金额",
+      "pose": "Normally floppy sheep suddenly springs UP into a tall stretched wool shape with both tiny feet off ground, ears perked, two wide tiny round black eyes and a simple joyful open mouth, holds ONE tiny plain red envelope, two motion strokes. Big energy contrast, comedic not detailed.",
+      "raw": "raw/06.png",
+      "prompt_file": "prompts/06.md",
+      "display_scene": "收到好消息"
+    },
+    {
+      "id": "07",
+      "caption": "吃不动了",
+      "meaning": "吃饱",
+      "scene": "年夜饭或聚餐婉拒添饭",
+      "usage_note": "感谢招待后表达饱足，不羞辱体型",
+      "pose": "Sheep sunk into a very broad bulging oval wool cushion after dinner, tiny feet sticking out and head tilted, one hoof rests on belly, the other softly signals stop, an empty tiny bowl and spoon nearby. Sheepish small mouth, not nausea, not rude.",
+      "raw": "raw/07.png",
+      "prompt_file": "prompts/07.md",
+      "display_scene": "婉拒添饭"
+    },
+    {
+      "id": "08",
+      "caption": "咩问题",
+      "meaning": "答应",
+      "scene": "答应帮忙或接住普通请求",
+      "usage_note": "轻量承诺，办不到时不拿它敷衍",
+      "pose": "Sheep is still lopsided and half slouched, but has lifted one hoof confidently with a small affirmative nod. Tiny pleased uneven smile, small dot eyes, one subtle motion tick. Willing but not exaggerated salute, no props.",
+      "raw": "raw/08.png",
+      "prompt_file": "prompts/08.md",
+      "display_scene": "轻松答应"
+    }
+  ]
+}

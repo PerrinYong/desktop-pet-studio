@@ -1,0 +1,3 @@
+# banner-v2
+
+Use case: precise-object-edit. Edit this Chinese Spring Festival banner. Preserve exactly all three clay owl characters, their faces and red vests, suitcase, gift bags, tea cup, table, red lanterns, green background, lighting, framing and aspect ratio. Change ONLY the contents of the plate held by the central owl: replace the two embossed flower-patterned round cakes, which resemble Mid-Autumn mooncakes, with THREE WRAPPED SPRING FESTIVAL CANDIES, in simple plain red and warm-gold twist wrappers, no text or logos, appetizing candy scale. Keep the plate, arm pose and other props unchanged. No text anywhere; fully opaque background.

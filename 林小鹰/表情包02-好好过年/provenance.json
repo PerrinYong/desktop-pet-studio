@@ -1,0 +1,182 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-11-25",
+  "character_reference": "references/identity.png",
+  "generation_count": 29,
+  "files": [
+    {
+      "id": "09",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-e5b4425f-8d65-49e4-b30a-d4c9babc18f5.png",
+      "archived_file": "raw/09.png",
+      "sha256": "c6889b4edb67ade7dcce3009a70a8d2da8b7a2b858133035030ce31b94c60d79"
+    },
+    {
+      "id": "14",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-e2f1d24e-e338-485c-b32b-197efbe35fb7.png",
+      "archived_file": "raw/14.png",
+      "sha256": "7d26c98d5ccc6d8e85f1c0b7ba84a45f83e174c5eb511fedc7822e3e082d040a"
+    },
+    {
+      "id": "19",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9dae2fb9-069c-4b9f-affd-22174406be85.png",
+      "archived_file": "raw/19.png",
+      "sha256": "dc82fdb5382ef30dd86956c3cace0f75b630935589c4a9c30ce1ec8fbf441565"
+    },
+    {
+      "id": "01",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-0af4e44d-f0e2-45ce-a01e-228b3eb92637.png",
+      "archived_file": "raw/01.png",
+      "sha256": "657b2e41ef6821fb75315332e23c34289df9a08d4ff31bd52edcdb8381cfad4b"
+    },
+    {
+      "id": "02",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-08809db2-2d3d-4b74-a7f2-429a8570b25f.png",
+      "archived_file": "raw/02.png",
+      "sha256": "cd0a4deb157f09b7ebddc87146720a44a2b92af1ee8fad5271309cd11eef38c1"
+    },
+    {
+      "id": "03",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-51bbc04f-4cb3-46c2-8356-ea289b3994ad.png",
+      "archived_file": "raw/03.png",
+      "sha256": "8fea0ec266730dedf50ba4838329cc2e2b9d87a58760ea4e4687bbad8ef3bc03"
+    },
+    {
+      "id": "04",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f298171b-9007-4e75-a4fe-4956607a7f9e.png",
+      "archived_file": "raw/04.png",
+      "sha256": "a531b222cc80cf89e9f7a42061ca2461d851723a99f0a2274848e73f9362d915"
+    },
+    {
+      "id": "05",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-1f9e1a88-2a30-4f37-965d-286ca70226db.png",
+      "archived_file": "raw/05.png",
+      "sha256": "f79ce01c2de32dbaeffbf7050d6b1a10bfd0cc6820ac48ff06519033a9803223"
+    },
+    {
+      "id": "06",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3249ada3-6307-47be-8235-52759c8fe1e0.png",
+      "archived_file": "raw/06.png",
+      "sha256": "74e0afb92134e15ddf3b18e131c1ef601061a6a7fccf03a162fdbcdb4a313fa1"
+    },
+    {
+      "id": "07",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-73262aaa-5e61-45a3-b15f-5e1b23a915c6.png",
+      "archived_file": "raw/07.png",
+      "sha256": "083667a57b4e6486aebd4eef381c37e648a81232b15a5e52e9514fb2be0a2fe6"
+    },
+    {
+      "id": "08",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-64042174-94ab-4e1d-9399-9c3e4a25a112.png",
+      "archived_file": "raw/08.png",
+      "sha256": "3e05661346a8fb366ca271e623f9632321d0ff7cb22ae6bab12c6bc2e118a027"
+    },
+    {
+      "id": "10",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-d5503de8-2a1b-49ce-bb0b-fd851e004d5a.png",
+      "archived_file": "raw/10.png",
+      "sha256": "7935b8054a567981f6d923407b24133c166928b5f92d829f70d46ae94bd8443c"
+    },
+    {
+      "id": "11",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-25836343-048a-4b45-b997-1a41b9aac888.png",
+      "archived_file": "raw/11.png",
+      "sha256": "522c440b8ea5d2e48906985e3ce60b4832b54e00db22006ccb69ea521573e40b"
+    },
+    {
+      "id": "12",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-5144cfd5-289e-4ee7-b271-fd138b9ca75b.png",
+      "archived_file": "raw/12.png",
+      "sha256": "8d604c1b7fb12ed88468c5909b1faacc05785d15999d053a6202ffaf4cc2586e"
+    },
+    {
+      "id": "13",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-365b0cda-44a3-49b5-9ee5-164842f300a2.png",
+      "archived_file": "raw/13.png",
+      "sha256": "c8607a1687dd0e4aa3b64eb911dc4030da3c6f3fbcc142b4d347bf91acdc4577"
+    },
+    {
+      "id": "15",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-d7c7bce5-0bec-4146-81e2-74f06a19febb.png",
+      "archived_file": "raw/15.png",
+      "sha256": "99026425560ea569be284105bef2e00aad38ae6b4f7d29141192237adb61ce09"
+    },
+    {
+      "id": "16",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-aa96a0b4-8e0a-4cc5-8bae-feb280bcad06.png",
+      "archived_file": "raw/16.png",
+      "sha256": "95325e69cabd8ef1e02cb092edf230bccd5530dd30ff4c54ee71ce6deb86fb17"
+    },
+    {
+      "id": "17",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-519da5b7-67ad-442a-b641-bcf7a9ab9501.png",
+      "archived_file": "raw/17.png",
+      "sha256": "f60b9c67c88def26d8860a6f4073171f5f970482a38bcf5107b708a2fa93ca49"
+    },
+    {
+      "id": "18",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-98d2ddc7-399b-4b4b-ae14-e0215e30f4f0.png",
+      "archived_file": "raw/18.png",
+      "sha256": "b1ca672b564745c806e51376679ffda58bfe43963d1cdcaad3e734078f792947"
+    },
+    {
+      "id": "20",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3e69b86c-5838-4f1d-91e0-defe3aac3eca.png",
+      "archived_file": "raw/20.png",
+      "sha256": "50d9ef481b509cc793e00faa8eaa4a50b75d882ed784c9615594fe5ff4182e7c"
+    },
+    {
+      "id": "21",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b5f7bf20-de7b-40fc-8001-f6cf7bcd24ef.png",
+      "archived_file": "raw/21.png",
+      "sha256": "597b82bb81a91f9b9e4e7f2f8c2832f4878b89a8aaee0e3cb07f5b4363bd30d5"
+    },
+    {
+      "id": "22",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-62db21b4-eb57-43a8-a144-349e80cf2e4a.png",
+      "archived_file": "raw/22.png",
+      "sha256": "ead691e4d04904e3b00c3bb6934c3a0533fb57b5a689b2ad62e9f6c65d1dafed"
+    },
+    {
+      "id": "23",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3237d9c0-449d-4c8c-8ca4-c3b64b8bbced.png",
+      "archived_file": "raw/23.png",
+      "sha256": "662380566dd077e7ab210656242921db7681b4e34124142402939c6cd07c2e0f"
+    },
+    {
+      "id": "24",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-20fb44f1-14fa-4c0c-a3a6-3e653fc74a3a.png",
+      "archived_file": "raw/24.png",
+      "sha256": "609219fc4e4296608e0e0292f796e2bc0fc0af0e3c2b5578e526e50bd4dda1b9"
+    },
+    {
+      "id": "cover",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-403fd3a2-fbcf-4f20-8bb4-6cec5550d3dc.png",
+      "archived_file": "raw/cover-master.png",
+      "sha256": "e61c3964fd9eaf98c1ba7d8b240e1ac401c4b03e9b4c30a8d53b9dd57a59ac72"
+    },
+    {
+      "id": "banner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-bc827358-bc03-473c-96b3-f5b991063fba.png",
+      "archived_file": "raw/banner-master.png",
+      "sha256": "5076c26d9f9a6efa0665007ed9fbbca445e6dc87abf4a49258cf41857365d56a"
+    },
+    {
+      "id": "17-v2",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-43d09b96-eb9d-4e9c-a8fe-831f07e7ce7f.png",
+      "archived_file": "raw/17-v2.png",
+      "sha256": "c00580ae2eaee01c07914337f8f1d1c8ca5d9b6ebc7c675e46a33845354a9e8f"
+    },
+    {
+      "id": "18-v2",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-add0fa98-537e-4396-b4af-6af875b400c3.png",
+      "archived_file": "raw/18-v2.png",
+      "sha256": "ccf0e63a61b9c9fa1e4ae5d9f8720f760e7195fd39ac982699ea7c964d38ad8e"
+    },
+    {
+      "id": "banner-v2",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-68fa06da-21db-41de-bcfd-80c7914c398d.png",
+      "archived_file": "raw/banner-v2.png",
+      "sha256": "840653b41997eff5ab7bf4b18085cbe39aac9734dc31811647412d1ecf753db9"
+    }
+  ]
+}

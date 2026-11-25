@@ -1,0 +1,177 @@
+{
+  "ok": true,
+  "count": 8,
+  "format": "PNG RGBA",
+  "kind": "static",
+  "exports": [
+    512,
+    240,
+    120
+  ],
+  "main_internal_target_bytes": 100000,
+  "thumbnail_internal_target_bytes": 50000,
+  "official_submission_rules_verified": false,
+  "wechat_client_tested": false,
+  "files": [
+    {
+      "id": "01",
+      "caption": "羊年好呀",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 60219,
+      "thumbnail_bytes": 19059,
+      "transparent_fraction": 0.4853,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        13,
+        26,
+        225,
+        220
+      ],
+      "sha256": "529d0477b98114301384d82ee51704234fa78576d8b982e4760263702c3b09a4",
+      "raw_sha256": "ad888c26b5d69e6f54c04cfa3035e671c4848d77affbbbf3f1933cf92cd533f9"
+    },
+    {
+      "id": "02",
+      "caption": "到家就躺",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 52240,
+      "thumbnail_bytes": 16554,
+      "transparent_fraction": 0.5921,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        10,
+        61,
+        229,
+        207
+      ],
+      "sha256": "00d6531aebaa750859686ba9869b94046c246c0c1439cc3c2ffc660a8c7eb5f1",
+      "raw_sha256": "aaa9464724e56a903ede7403f9a6cbaaa2276957d6f712ddb5d6587ed967cf7a"
+    },
+    {
+      "id": "03",
+      "caption": "心意收到",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 53584,
+      "thumbnail_bytes": 16973,
+      "transparent_fraction": 0.5412,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        15,
+        44,
+        223,
+        216
+      ],
+      "sha256": "c5176b0fe5620bf9b47b98fcda4c2e2361f1b2234a22a862f740e52992b9890c",
+      "raw_sha256": "9d27af49e6805fee2ad18cd4fb556963858037da576604e4443a2fbc47987587"
+    },
+    {
+      "id": "04",
+      "caption": "我先缓缓",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 48873,
+      "thumbnail_bytes": 15520,
+      "transparent_fraction": 0.6028,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        12,
+        53,
+        227,
+        203
+      ],
+      "sha256": "8dfcc3e740c1bb8d13cba2a9e8ebd00a6cee61465cf33f64d2bfb4c4f665ad45",
+      "raw_sha256": "dba24a4254ccc9fe861655b8ce92aff1bdea745493793d7cc3ebf31df35135ca"
+    },
+    {
+      "id": "05",
+      "caption": "慢慢来",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 58970,
+      "thumbnail_bytes": 18352,
+      "transparent_fraction": 0.4732,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        21,
+        18,
+        218,
+        226
+      ],
+      "sha256": "c60019cacb18a0947a93bded260035a1c816df5e67e275a2b33774b7609cc611",
+      "raw_sha256": "df4019720a6804d5c8b73529d27512230264ddbaec3ac88840ef1ec30c11ad5f"
+    },
+    {
+      "id": "06",
+      "caption": "突然精神",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 51594,
+      "thumbnail_bytes": 16103,
+      "transparent_fraction": 0.5866,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        33,
+        11,
+        206,
+        227
+      ],
+      "sha256": "27602f115feb1b14697bf0e7839406b1923755e319ebee72353abbe4a051649d",
+      "raw_sha256": "b816c35cc456fc8b7d698320f7bcef9e051bd2e21cb70605f5ab4b77ea349471"
+    },
+    {
+      "id": "07",
+      "caption": "吃不动了",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 57884,
+      "thumbnail_bytes": 18098,
+      "transparent_fraction": 0.4884,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        20,
+        19,
+        220,
+        224
+      ],
+      "sha256": "a5f6a34b40f22a61448dfa0e78402a9edc70225f6b92b5f8a7a5e114cdb88f3c",
+      "raw_sha256": "8ede3d04da8672a506957b875cf197d513f24adb5b4e87a5176ea8147381be98"
+    },
+    {
+      "id": "08",
+      "caption": "咩问题",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 57868,
+      "thumbnail_bytes": 18033,
+      "transparent_fraction": 0.4797,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        17,
+        20,
+        222,
+        225
+      ],
+      "sha256": "946db28db042e6ba00114a20083aa2c5aae1784ee5d559809daa4ab32b78957f",
+      "raw_sha256": "d6d75e9219c7e65ad8a547d4497c0c96746f15b78f2418bfe59911268bf0bda8"
+    }
+  ]
+}

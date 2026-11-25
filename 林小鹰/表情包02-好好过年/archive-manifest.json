@@ -1,0 +1,1125 @@
+{
+  "count": 224,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 64,
+      "sha256": "80eb5cc5f1c02ed221435ead49c6914d0d6434385b4e0d7c02a81765722f45be"
+    },
+    {
+      "path": "assets/banner-750x400.jpg",
+      "bytes": 46952,
+      "sha256": "db608722a168414a531b5070e76e04f2012471580509a5efe104b2140346e53d"
+    },
+    {
+      "path": "assets/cover-240.png",
+      "bytes": 66586,
+      "sha256": "12ec3d0ba89abb97a4516d752292f30e4671c1550d82d37ac0a335d943c7cb5f"
+    },
+    {
+      "path": "assets/icon-50.png",
+      "bytes": 3916,
+      "sha256": "607d2021e1fa353b1b30acf153f9d3bab93a1e4816425279f6dc6427c474d674"
+    },
+    {
+      "path": "exports/chat-512/01-回家过年.png",
+      "bytes": 296951,
+      "sha256": "5c4a78ca7cfaecc0ab16fba113a8c0d97609e73d30ce0c6f7c9df568ce82318c"
+    },
+    {
+      "path": "exports/chat-512/02-一路平安.png",
+      "bytes": 303598,
+      "sha256": "724e4e00ace8c7dbea53eacf0e931cd3bebc8ed54da99bb140667940ca5bb7ee"
+    },
+    {
+      "path": "exports/chat-512/03-到家啦.png",
+      "bytes": 308107,
+      "sha256": "638d2c43551f55cb5455be12c04c1b93cb61495b8f9600d278b452913a15e306"
+    },
+    {
+      "path": "exports/chat-512/04-年货备齐.png",
+      "bytes": 292954,
+      "sha256": "0ec8343d9995a1deef621c59b7492bf3b62d0d231a614444217df9af364f729d"
+    },
+    {
+      "path": "exports/chat-512/05-接福啦.png",
+      "bytes": 279518,
+      "sha256": "aede6df806694c4c2e351980e5fe26d625646ebcfc5f17db4bd82c466cd1bace"
+    },
+    {
+      "path": "exports/chat-512/06-开饭啦.png",
+      "bytes": 276081,
+      "sha256": "0b844e1862b9ec2b5cbec4d2a7959e007f35f180b568604b81b1cbd78bcdee0f"
+    },
+    {
+      "path": "exports/chat-512/07-年年有余.png",
+      "bytes": 290751,
+      "sha256": "66cc38967ee47bc650cde6d68760e6b0e20ea72f7b3a2bd07f63821376c05fe1"
+    },
+    {
+      "path": "exports/chat-512/08-新年快乐.png",
+      "bytes": 267891,
+      "sha256": "235609782903efea7a57419715711382a68491948d0a604048ee54c9e07837ae"
+    },
+    {
+      "path": "exports/chat-512/09-给您拜年.png",
+      "bytes": 278919,
+      "sha256": "12f21b7aecad2f5fe87b9eb42fcc11e50fb368b5be1528b852daef85a695c89c"
+    },
+    {
+      "path": "exports/chat-512/10-身体健康.png",
+      "bytes": 270113,
+      "sha256": "6df32a575c9d67ff2f2dd996af0424294556e6b3d7440dd9475a97e96ac6b323"
+    },
+    {
+      "path": "exports/chat-512/11-阖家幸福.png",
+      "bytes": 250416,
+      "sha256": "1d2dd5a4a103350587a219ff02ec2cdec0ec7a36d6a6242611d8689a6c074da4"
+    },
+    {
+      "path": "exports/chat-512/12-恭喜发财.png",
+      "bytes": 259523,
+      "sha256": "3146120f7cb656b9a622bca560d5a24e97eb236cfaea6457d3c87c7246f61b59"
+    },
+    {
+      "path": "exports/chat-512/13-红包拿来.png",
+      "bytes": 268836,
+      "sha256": "8ca45b13af109424aa4d86d9f33ed859cbcc7aa5c128e00a1cf01df966f68447"
+    },
+    {
+      "path": "exports/chat-512/14-谢谢红包.png",
+      "bytes": 234871,
+      "sha256": "be261cc6bc382f4132d521a6cc54a79f7fa2361ca91841b655fba2e33b87fd8d"
+    },
+    {
+      "path": "exports/chat-512/15-心意收到.png",
+      "bytes": 245780,
+      "sha256": "1af5754cb03ce1736954612d7b686100f094d1835953ad37b097c96c8dfd9229"
+    },
+    {
+      "path": "exports/chat-512/16-同喜同喜.png",
+      "bytes": 270736,
+      "sha256": "537b7d54e40846aebeec68bb6418a2e3a7be3f7209a5078076fe895dbe17f6ad"
+    },
+    {
+      "path": "exports/chat-512/17-来串门啦.png",
+      "bytes": 271488,
+      "sha256": "f714522125e4d0df4a776e9e79471e13b840f2950a6634e123dc7974ea948a84"
+    },
+    {
+      "path": "exports/chat-512/18-吃好喝好.png",
+      "bytes": 284284,
+      "sha256": "9326a5b2a347515ff59e0510fb19ea32aec60c2042746c6bce97ae3bd40e2a88"
+    },
+    {
+      "path": "exports/chat-512/19-真吃不下了.png",
+      "bytes": 313284,
+      "sha256": "f4db26db3d59e89c0e63f468ec51dd74d3f6196602390426b3e9a18f739909d6"
+    },
+    {
+      "path": "exports/chat-512/20-先过个好年.png",
+      "bytes": 327195,
+      "sha256": "8d70aea650746b7bdfda6da3dbd911bc9912671766c5fb2786005a0d155d20d5"
+    },
+    {
+      "path": "exports/chat-512/21-接财神.png",
+      "bytes": 305389,
+      "sha256": "ed10fa6314c5bbba1ca04ba03fd5df7e5f0157df4282add45d3fea9d44a4334f"
+    },
+    {
+      "path": "exports/chat-512/22-开工大吉.png",
+      "bytes": 293801,
+      "sha256": "cb40b7046b51483bcd4e49381ab398865496abc912a55446d462331456409aa4"
+    },
+    {
+      "path": "exports/chat-512/23-团团圆圆.png",
+      "bytes": 279201,
+      "sha256": "6e105aadbacd339b12c1bb0ee007b5d40e3890cbb1147a5a70d76a70c114d4bd"
+    },
+    {
+      "path": "exports/chat-512/24-下次再聚.png",
+      "bytes": 287144,
+      "sha256": "b7962e2099fc7e328672dffa999a9e70876fd88cee704e694e98d87ebe83b8c4"
+    },
+    {
+      "path": "exports/thumbnails-120/01-回家过年.png",
+      "bytes": 21349,
+      "sha256": "5da49a80a3feb64055e3c1dcd1fea526ccd15850793ca9deca48ea2b4bb71cfe"
+    },
+    {
+      "path": "exports/thumbnails-120/02-一路平安.png",
+      "bytes": 21776,
+      "sha256": "3d3fcbb5433a5294de39959a712a964025b6691c5be817969af88c52c572d209"
+    },
+    {
+      "path": "exports/thumbnails-120/03-到家啦.png",
+      "bytes": 21983,
+      "sha256": "85218d651801795620461968c9c376b4ead41f7bcb451babce4caa21065630dc"
+    },
+    {
+      "path": "exports/thumbnails-120/04-年货备齐.png",
+      "bytes": 21025,
+      "sha256": "a48ab1628534d64078be90812c05588b52ff409752687fdfbb410bc6c0ee4a9c"
+    },
+    {
+      "path": "exports/thumbnails-120/05-接福啦.png",
+      "bytes": 20574,
+      "sha256": "e0a6ccd593e953db681d473d7ff8e6bfc8111fffc5415e652a8d345ce0a5518c"
+    },
+    {
+      "path": "exports/thumbnails-120/06-开饭啦.png",
+      "bytes": 19960,
+      "sha256": "0ef4d94ce6e3756740e69613660196d603c1e2372f479b5b5673e04ab3302b11"
+    },
+    {
+      "path": "exports/thumbnails-120/07-年年有余.png",
+      "bytes": 20622,
+      "sha256": "15a409b363b31d9585df35033b1e0933fde2d6155a66248981c6ecfef94e38e9"
+    },
+    {
+      "path": "exports/thumbnails-120/08-新年快乐.png",
+      "bytes": 19742,
+      "sha256": "cdb0af22805b3aaab7516147edeb09300a748831126d7d39a41a4e56a35ba372"
+    },
+    {
+      "path": "exports/thumbnails-120/09-给您拜年.png",
+      "bytes": 20590,
+      "sha256": "e9b076fca97ac1577c1bc9db49d7cafc630574f7c4790f0c742e80ceb24cf45a"
+    },
+    {
+      "path": "exports/thumbnails-120/10-身体健康.png",
+      "bytes": 19981,
+      "sha256": "1325d4d9263649d60a11be217d28000c6e2fca4b5ae4d401a03faa29d61d92b0"
+    },
+    {
+      "path": "exports/thumbnails-120/11-阖家幸福.png",
+      "bytes": 18022,
+      "sha256": "ebb6071c0cfb869d9a50a59f058d00b608dd52129c041d85f6ee2709fd0f94b8"
+    },
+    {
+      "path": "exports/thumbnails-120/12-恭喜发财.png",
+      "bytes": 19264,
+      "sha256": "d5f0d6166ccd5eb24bb018a3bbe4fb390c472ec20920fc384b2cd78d3d759395"
+    },
+    {
+      "path": "exports/thumbnails-120/13-红包拿来.png",
+      "bytes": 19585,
+      "sha256": "8b6c44af1f9244d4484bcd72703e8e9616f182f676a67830d81ac46fb90142c1"
+    },
+    {
+      "path": "exports/thumbnails-120/14-谢谢红包.png",
+      "bytes": 17446,
+      "sha256": "643c6e3cf92c7664f095ce703d018a239c49e88a2bafbfba834ac1c609f966eb"
+    },
+    {
+      "path": "exports/thumbnails-120/15-心意收到.png",
+      "bytes": 17952,
+      "sha256": "6920a93e0729558c6b9a3d747251f59754d2b43d75bd650ca642971526b6f210"
+    },
+    {
+      "path": "exports/thumbnails-120/16-同喜同喜.png",
+      "bytes": 19523,
+      "sha256": "73b6d8b54cd22cc84b04407418d79a277354c53d87eda7c88fccb2e1a297cd9b"
+    },
+    {
+      "path": "exports/thumbnails-120/17-来串门啦.png",
+      "bytes": 19530,
+      "sha256": "0cc3cb7b66175fca5295fe34d39a72d84460d446d6fcf252882e9f26704201f6"
+    },
+    {
+      "path": "exports/thumbnails-120/18-吃好喝好.png",
+      "bytes": 20922,
+      "sha256": "41dfc03d58f52e52026986734f6277fe4da466a468919886bab0f87af53e713e"
+    },
+    {
+      "path": "exports/thumbnails-120/19-真吃不下了.png",
+      "bytes": 22911,
+      "sha256": "d0d4e363278664197466e04d0134b914c678c42fe4cba0d0677d1be352117ae5"
+    },
+    {
+      "path": "exports/thumbnails-120/20-先过个好年.png",
+      "bytes": 23641,
+      "sha256": "eea2772c7dbac07c8502ad53b3a99f028a41f027b2bb886761c4b89c927d9a36"
+    },
+    {
+      "path": "exports/thumbnails-120/21-接财神.png",
+      "bytes": 22074,
+      "sha256": "e84ed016a1057e33c11dd66b949553961d59fa99594893e891ad74e14de39faf"
+    },
+    {
+      "path": "exports/thumbnails-120/22-开工大吉.png",
+      "bytes": 20888,
+      "sha256": "2486cb459695b6787f71b92b2bdbaed3e186ffe8ae4f35dfc8e37364c485d416"
+    },
+    {
+      "path": "exports/thumbnails-120/23-团团圆圆.png",
+      "bytes": 20187,
+      "sha256": "8482b4623f42210be085068be970797afaa1ff8c4609b319940ed926ae592b3a"
+    },
+    {
+      "path": "exports/thumbnails-120/24-下次再聚.png",
+      "bytes": 20845,
+      "sha256": "ed05f3e7aaeaf2ef689a295be8d113fbfa5b22d916a658cb2d262aca6cd26b82"
+    },
+    {
+      "path": "exports/wechat-240/01-回家过年.png",
+      "bytes": 72687,
+      "sha256": "96633c6307e28ce0877940b1726a6c2cebf04701d636ca795fb0c3ef1e0a9980"
+    },
+    {
+      "path": "exports/wechat-240/02-一路平安.png",
+      "bytes": 74243,
+      "sha256": "a003d8fc61bdb71a9d5faf259494be5c716dae01e7320719429fb40c86ffd10f"
+    },
+    {
+      "path": "exports/wechat-240/03-到家啦.png",
+      "bytes": 75199,
+      "sha256": "8f0dcd091136c89dcfddf66d9a54965f683043d77e46cbcd76521ef75b5bf410"
+    },
+    {
+      "path": "exports/wechat-240/04-年货备齐.png",
+      "bytes": 71989,
+      "sha256": "535d5e6a2710b5780fd2676f18972be2049718b81f3754b9501d25ae5cc6a071"
+    },
+    {
+      "path": "exports/wechat-240/05-接福啦.png",
+      "bytes": 69481,
+      "sha256": "53936e908686a875f8754dc3927ba87e78d96eb753062b752f9e43d65129c7dd"
+    },
+    {
+      "path": "exports/wechat-240/06-开饭啦.png",
+      "bytes": 67947,
+      "sha256": "7103945376c8b03865ba9540ce0b69962635e49c9d96246c6ef3a08db8ae62a5"
+    },
+    {
+      "path": "exports/wechat-240/07-年年有余.png",
+      "bytes": 70994,
+      "sha256": "bffbf328e111ef6732b2777241d222917b1fb5596942052a13cc06250edc9cea"
+    },
+    {
+      "path": "exports/wechat-240/08-新年快乐.png",
+      "bytes": 65861,
+      "sha256": "c3d3270889c7f28666b95b35e7c5c2d4e52adcca6614129ebf3ec0d5477035f8"
+    },
+    {
+      "path": "exports/wechat-240/09-给您拜年.png",
+      "bytes": 69286,
+      "sha256": "3eb4352602d00762261e41a1c02c4d7928cab8e1d788249e43ee5cdeb1f038d6"
+    },
+    {
+      "path": "exports/wechat-240/10-身体健康.png",
+      "bytes": 66438,
+      "sha256": "f3ce775c4d396ed7c976145bbb27161e2175f6787a77451779c4e2c336200006"
+    },
+    {
+      "path": "exports/wechat-240/11-阖家幸福.png",
+      "bytes": 61337,
+      "sha256": "083661ff40d37c8991b2c868522da1acf153ce0a248d79397f5a865de63f2499"
+    },
+    {
+      "path": "exports/wechat-240/12-恭喜发财.png",
+      "bytes": 64568,
+      "sha256": "7fc1eff62181465dd89f9a2129746c1147630169756c4fd2aeb9694ccc114b99"
+    },
+    {
+      "path": "exports/wechat-240/13-红包拿来.png",
+      "bytes": 66326,
+      "sha256": "0ca37a9629fd09f7810ff210a0426371a5c09b9cc730a5f848030e6addb8ec5e"
+    },
+    {
+      "path": "exports/wechat-240/14-谢谢红包.png",
+      "bytes": 57977,
+      "sha256": "e19037c4228312c8d25a39d89fbb91f853c785cbde21146147307820013078f7"
+    },
+    {
+      "path": "exports/wechat-240/15-心意收到.png",
+      "bytes": 60420,
+      "sha256": "c08e3eeeb3679169ba5c4deb792dd8f33ba2d00595b583d28d8ea9efea230f92"
+    },
+    {
+      "path": "exports/wechat-240/16-同喜同喜.png",
+      "bytes": 66050,
+      "sha256": "77a9a2ad43023ca467df7e0a29aeb46a009bdc8541cfb02579b137581a6b197f"
+    },
+    {
+      "path": "exports/wechat-240/17-来串门啦.png",
+      "bytes": 66481,
+      "sha256": "bef64cf63c53c9ac7d938a7cd3ccd2539ccd404c098066e7482a416b8bbac070"
+    },
+    {
+      "path": "exports/wechat-240/18-吃好喝好.png",
+      "bytes": 70445,
+      "sha256": "5c410696ee8dce73866f07d9b8d5d8cb8d5ce3c4a78875777a6b5e1afb02bab5"
+    },
+    {
+      "path": "exports/wechat-240/19-真吃不下了.png",
+      "bytes": 77388,
+      "sha256": "69702e94c3faec7d3c5b443a0f27d3e43572d09216888a137dcf78871c79920c"
+    },
+    {
+      "path": "exports/wechat-240/20-先过个好年.png",
+      "bytes": 80486,
+      "sha256": "523a60d00d44b89c977b7bc1b8f6105958d3d29b2b6a29e1a5bbf48f4e5fb063"
+    },
+    {
+      "path": "exports/wechat-240/21-接财神.png",
+      "bytes": 75232,
+      "sha256": "2a807e4a2368beebd75b767e5a880df0c3b3d258eef5468f81f1d27ed1794281"
+    },
+    {
+      "path": "exports/wechat-240/22-开工大吉.png",
+      "bytes": 71520,
+      "sha256": "07471273bba85ae97bd0e4b55ad2acb52ac721477469abfb6c3933d8a183afab"
+    },
+    {
+      "path": "exports/wechat-240/23-团团圆圆.png",
+      "bytes": 68972,
+      "sha256": "7d0349deaebce684dd1f57c5ed108b121df6e4b5778cd5dfb272c839c1937389"
+    },
+    {
+      "path": "exports/wechat-240/24-下次再聚.png",
+      "bytes": 70471,
+      "sha256": "3623c1c5aa226e78ccc8da24ed3c1932c9201738837c2e531375a60a2e230627"
+    },
+    {
+      "path": "iterations/README.md",
+      "bytes": 293,
+      "sha256": "997ae9ad03328aaf7bb8bd213666bfb70c296d3c627a88636bca483e240831f6"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/01-回家过年.png",
+      "bytes": 296951,
+      "sha256": "5c4a78ca7cfaecc0ab16fba113a8c0d97609e73d30ce0c6f7c9df568ce82318c"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/02-一路平安.png",
+      "bytes": 303598,
+      "sha256": "724e4e00ace8c7dbea53eacf0e931cd3bebc8ed54da99bb140667940ca5bb7ee"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/03-到家啦.png",
+      "bytes": 308107,
+      "sha256": "638d2c43551f55cb5455be12c04c1b93cb61495b8f9600d278b452913a15e306"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/04-年货备齐.png",
+      "bytes": 292954,
+      "sha256": "0ec8343d9995a1deef621c59b7492bf3b62d0d231a614444217df9af364f729d"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/05-接福啦.png",
+      "bytes": 279518,
+      "sha256": "aede6df806694c4c2e351980e5fe26d625646ebcfc5f17db4bd82c466cd1bace"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/06-开饭啦.png",
+      "bytes": 276081,
+      "sha256": "0b844e1862b9ec2b5cbec4d2a7959e007f35f180b568604b81b1cbd78bcdee0f"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/07-年年有余.png",
+      "bytes": 290751,
+      "sha256": "66cc38967ee47bc650cde6d68760e6b0e20ea72f7b3a2bd07f63821376c05fe1"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/08-新年快乐.png",
+      "bytes": 267891,
+      "sha256": "235609782903efea7a57419715711382a68491948d0a604048ee54c9e07837ae"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/09-给您拜年.png",
+      "bytes": 278919,
+      "sha256": "12f21b7aecad2f5fe87b9eb42fcc11e50fb368b5be1528b852daef85a695c89c"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/10-身体健康.png",
+      "bytes": 270113,
+      "sha256": "6df32a575c9d67ff2f2dd996af0424294556e6b3d7440dd9475a97e96ac6b323"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/11-阖家幸福.png",
+      "bytes": 250416,
+      "sha256": "1d2dd5a4a103350587a219ff02ec2cdec0ec7a36d6a6242611d8689a6c074da4"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/12-恭喜发财.png",
+      "bytes": 259523,
+      "sha256": "3146120f7cb656b9a622bca560d5a24e97eb236cfaea6457d3c87c7246f61b59"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/13-红包拿来.png",
+      "bytes": 268836,
+      "sha256": "8ca45b13af109424aa4d86d9f33ed859cbcc7aa5c128e00a1cf01df966f68447"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/14-谢谢红包.png",
+      "bytes": 234871,
+      "sha256": "be261cc6bc382f4132d521a6cc54a79f7fa2361ca91841b655fba2e33b87fd8d"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/15-心意收到.png",
+      "bytes": 245780,
+      "sha256": "1af5754cb03ce1736954612d7b686100f094d1835953ad37b097c96c8dfd9229"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/16-同喜同喜.png",
+      "bytes": 270736,
+      "sha256": "537b7d54e40846aebeec68bb6418a2e3a7be3f7209a5078076fe895dbe17f6ad"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/17-来串门啦.png",
+      "bytes": 290775,
+      "sha256": "bdd36508f26482dedb8b028fc05ff11d6263f0f265bb60143772b7bbf98debf7"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/18-吃好喝好.png",
+      "bytes": 297346,
+      "sha256": "a6117333a9b2527f70793bddaf900943ad424155869f217f6a3b0cff55b1891a"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/19-真吃不下了.png",
+      "bytes": 313284,
+      "sha256": "f4db26db3d59e89c0e63f468ec51dd74d3f6196602390426b3e9a18f739909d6"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/20-先过个好年.png",
+      "bytes": 327195,
+      "sha256": "8d70aea650746b7bdfda6da3dbd911bc9912671766c5fb2786005a0d155d20d5"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/21-接财神.png",
+      "bytes": 305389,
+      "sha256": "ed10fa6314c5bbba1ca04ba03fd5df7e5f0157df4282add45d3fea9d44a4334f"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/22-开工大吉.png",
+      "bytes": 293801,
+      "sha256": "cb40b7046b51483bcd4e49381ab398865496abc912a55446d462331456409aa4"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/23-团团圆圆.png",
+      "bytes": 279201,
+      "sha256": "6e105aadbacd339b12c1bb0ee007b5d40e3890cbb1147a5a70d76a70c114d4bd"
+    },
+    {
+      "path": "iterations/v1/exports/chat-512/24-下次再聚.png",
+      "bytes": 287144,
+      "sha256": "b7962e2099fc7e328672dffa999a9e70876fd88cee704e694e98d87ebe83b8c4"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/01-回家过年.png",
+      "bytes": 21349,
+      "sha256": "5da49a80a3feb64055e3c1dcd1fea526ccd15850793ca9deca48ea2b4bb71cfe"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/02-一路平安.png",
+      "bytes": 21776,
+      "sha256": "3d3fcbb5433a5294de39959a712a964025b6691c5be817969af88c52c572d209"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/03-到家啦.png",
+      "bytes": 21983,
+      "sha256": "85218d651801795620461968c9c376b4ead41f7bcb451babce4caa21065630dc"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/04-年货备齐.png",
+      "bytes": 21025,
+      "sha256": "a48ab1628534d64078be90812c05588b52ff409752687fdfbb410bc6c0ee4a9c"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/05-接福啦.png",
+      "bytes": 20574,
+      "sha256": "e0a6ccd593e953db681d473d7ff8e6bfc8111fffc5415e652a8d345ce0a5518c"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/06-开饭啦.png",
+      "bytes": 19960,
+      "sha256": "0ef4d94ce6e3756740e69613660196d603c1e2372f479b5b5673e04ab3302b11"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/07-年年有余.png",
+      "bytes": 20622,
+      "sha256": "15a409b363b31d9585df35033b1e0933fde2d6155a66248981c6ecfef94e38e9"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/08-新年快乐.png",
+      "bytes": 19742,
+      "sha256": "cdb0af22805b3aaab7516147edeb09300a748831126d7d39a41a4e56a35ba372"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/09-给您拜年.png",
+      "bytes": 20590,
+      "sha256": "e9b076fca97ac1577c1bc9db49d7cafc630574f7c4790f0c742e80ceb24cf45a"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/10-身体健康.png",
+      "bytes": 19981,
+      "sha256": "1325d4d9263649d60a11be217d28000c6e2fca4b5ae4d401a03faa29d61d92b0"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/11-阖家幸福.png",
+      "bytes": 18022,
+      "sha256": "ebb6071c0cfb869d9a50a59f058d00b608dd52129c041d85f6ee2709fd0f94b8"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/12-恭喜发财.png",
+      "bytes": 19264,
+      "sha256": "d5f0d6166ccd5eb24bb018a3bbe4fb390c472ec20920fc384b2cd78d3d759395"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/13-红包拿来.png",
+      "bytes": 19585,
+      "sha256": "8b6c44af1f9244d4484bcd72703e8e9616f182f676a67830d81ac46fb90142c1"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/14-谢谢红包.png",
+      "bytes": 17446,
+      "sha256": "643c6e3cf92c7664f095ce703d018a239c49e88a2bafbfba834ac1c609f966eb"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/15-心意收到.png",
+      "bytes": 17952,
+      "sha256": "6920a93e0729558c6b9a3d747251f59754d2b43d75bd650ca642971526b6f210"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/16-同喜同喜.png",
+      "bytes": 19523,
+      "sha256": "73b6d8b54cd22cc84b04407418d79a277354c53d87eda7c88fccb2e1a297cd9b"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/17-来串门啦.png",
+      "bytes": 19660,
+      "sha256": "7758e2450fe8a77963525c17c16342cd3f1f0097fdceb73f1c69413781d4add1"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/18-吃好喝好.png",
+      "bytes": 21555,
+      "sha256": "48433dd7eac945f809b175ab6a041e92e9ad488a20e0ac419855983b40bca1c5"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/19-真吃不下了.png",
+      "bytes": 22911,
+      "sha256": "d0d4e363278664197466e04d0134b914c678c42fe4cba0d0677d1be352117ae5"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/20-先过个好年.png",
+      "bytes": 23641,
+      "sha256": "eea2772c7dbac07c8502ad53b3a99f028a41f027b2bb886761c4b89c927d9a36"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/21-接财神.png",
+      "bytes": 22074,
+      "sha256": "e84ed016a1057e33c11dd66b949553961d59fa99594893e891ad74e14de39faf"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/22-开工大吉.png",
+      "bytes": 20888,
+      "sha256": "2486cb459695b6787f71b92b2bdbaed3e186ffe8ae4f35dfc8e37364c485d416"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/23-团团圆圆.png",
+      "bytes": 20187,
+      "sha256": "8482b4623f42210be085068be970797afaa1ff8c4609b319940ed926ae592b3a"
+    },
+    {
+      "path": "iterations/v1/exports/thumbnails-120/24-下次再聚.png",
+      "bytes": 20845,
+      "sha256": "ed05f3e7aaeaf2ef689a295be8d113fbfa5b22d916a658cb2d262aca6cd26b82"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/01-回家过年.png",
+      "bytes": 72687,
+      "sha256": "96633c6307e28ce0877940b1726a6c2cebf04701d636ca795fb0c3ef1e0a9980"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/02-一路平安.png",
+      "bytes": 74243,
+      "sha256": "a003d8fc61bdb71a9d5faf259494be5c716dae01e7320719429fb40c86ffd10f"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/03-到家啦.png",
+      "bytes": 75199,
+      "sha256": "8f0dcd091136c89dcfddf66d9a54965f683043d77e46cbcd76521ef75b5bf410"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/04-年货备齐.png",
+      "bytes": 71989,
+      "sha256": "535d5e6a2710b5780fd2676f18972be2049718b81f3754b9501d25ae5cc6a071"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/05-接福啦.png",
+      "bytes": 69481,
+      "sha256": "53936e908686a875f8754dc3927ba87e78d96eb753062b752f9e43d65129c7dd"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/06-开饭啦.png",
+      "bytes": 67947,
+      "sha256": "7103945376c8b03865ba9540ce0b69962635e49c9d96246c6ef3a08db8ae62a5"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/07-年年有余.png",
+      "bytes": 70994,
+      "sha256": "bffbf328e111ef6732b2777241d222917b1fb5596942052a13cc06250edc9cea"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/08-新年快乐.png",
+      "bytes": 65861,
+      "sha256": "c3d3270889c7f28666b95b35e7c5c2d4e52adcca6614129ebf3ec0d5477035f8"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/09-给您拜年.png",
+      "bytes": 69286,
+      "sha256": "3eb4352602d00762261e41a1c02c4d7928cab8e1d788249e43ee5cdeb1f038d6"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/10-身体健康.png",
+      "bytes": 66438,
+      "sha256": "f3ce775c4d396ed7c976145bbb27161e2175f6787a77451779c4e2c336200006"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/11-阖家幸福.png",
+      "bytes": 61337,
+      "sha256": "083661ff40d37c8991b2c868522da1acf153ce0a248d79397f5a865de63f2499"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/12-恭喜发财.png",
+      "bytes": 64568,
+      "sha256": "7fc1eff62181465dd89f9a2129746c1147630169756c4fd2aeb9694ccc114b99"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/13-红包拿来.png",
+      "bytes": 66326,
+      "sha256": "0ca37a9629fd09f7810ff210a0426371a5c09b9cc730a5f848030e6addb8ec5e"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/14-谢谢红包.png",
+      "bytes": 57977,
+      "sha256": "e19037c4228312c8d25a39d89fbb91f853c785cbde21146147307820013078f7"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/15-心意收到.png",
+      "bytes": 60420,
+      "sha256": "c08e3eeeb3679169ba5c4deb792dd8f33ba2d00595b583d28d8ea9efea230f92"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/16-同喜同喜.png",
+      "bytes": 66050,
+      "sha256": "77a9a2ad43023ca467df7e0a29aeb46a009bdc8541cfb02579b137581a6b197f"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/17-来串门啦.png",
+      "bytes": 69256,
+      "sha256": "a2b45990003e8f5e9b0f3a770989d80ae20b1251d3d2b331805706e413baa43a"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/18-吃好喝好.png",
+      "bytes": 73283,
+      "sha256": "4b031c39c2fb0e275e572109fd2d0df581b83824dc152a9cd8b5e281c4cb7f09"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/19-真吃不下了.png",
+      "bytes": 77388,
+      "sha256": "69702e94c3faec7d3c5b443a0f27d3e43572d09216888a137dcf78871c79920c"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/20-先过个好年.png",
+      "bytes": 80486,
+      "sha256": "523a60d00d44b89c977b7bc1b8f6105958d3d29b2b6a29e1a5bbf48f4e5fb063"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/21-接财神.png",
+      "bytes": 75232,
+      "sha256": "2a807e4a2368beebd75b767e5a880df0c3b3d258eef5468f81f1d27ed1794281"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/22-开工大吉.png",
+      "bytes": 71520,
+      "sha256": "07471273bba85ae97bd0e4b55ad2acb52ac721477469abfb6c3933d8a183afab"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/23-团团圆圆.png",
+      "bytes": 68972,
+      "sha256": "7d0349deaebce684dd1f57c5ed108b121df6e4b5778cd5dfb272c839c1937389"
+    },
+    {
+      "path": "iterations/v1/exports/wechat-240/24-下次再聚.png",
+      "bytes": 70471,
+      "sha256": "3623c1c5aa226e78ccc8da24ed3c1932c9201738837c2e531375a60a2e230627"
+    },
+    {
+      "path": "iterations/v1/preview/contact-dark.jpg",
+      "bytes": 321218,
+      "sha256": "708e3613cc74cd1ac88b1892eef8a0b33cbcf9eb38d35a02ecede95a60b98e87"
+    },
+    {
+      "path": "iterations/v1/preview/contact-light.jpg",
+      "bytes": 274583,
+      "sha256": "70a5afc4cdbe07a0b8f1b6b564a0f29ce02d2c6bd0f46f1858ee8dd303011b74"
+    },
+    {
+      "path": "iterations/v1/validation.json",
+      "bytes": 12837,
+      "sha256": "b190fbdca50a66fb6c326f09a6b507bc730df0c58902dc354ec7b4583b2343ea"
+    },
+    {
+      "path": "pack.json",
+      "bytes": 12223,
+      "sha256": "28f8ddb7edcca16d85bd7d3e7478286d5fe61da02e565c5d7f0446c54fa4ef82"
+    },
+    {
+      "path": "preview/contact-dark.jpg",
+      "bytes": 322780,
+      "sha256": "2c626437cf4e6400c872b671e8b1d910d69ffa4c5f441b2bfe45bc12866ae8e5"
+    },
+    {
+      "path": "preview/contact-light.jpg",
+      "bytes": 275177,
+      "sha256": "6d29ba154cc2ef367f6aef8867b02aee429dd5748abb402fdeba2a94330bfce5"
+    },
+    {
+      "path": "prompts/01.md",
+      "bytes": 1353,
+      "sha256": "300b9aaffe89a868ae2cbd3fc6cf4b515fe32cfb05e3147c524c05c3825f25f7"
+    },
+    {
+      "path": "prompts/02.md",
+      "bytes": 1350,
+      "sha256": "80b36c6f727c1a2cf1ea6bbf4285a339cc73f43741e66e00dd0ffcd28cef120d"
+    },
+    {
+      "path": "prompts/03.md",
+      "bytes": 1349,
+      "sha256": "7f41764561dbcbe492b7fb5c58183bd6ca91b3615cf097e1dc9105c56efb0283"
+    },
+    {
+      "path": "prompts/04.md",
+      "bytes": 1349,
+      "sha256": "f7a39c16772849a3e7332dc42ab8285c13cffaf69db9be7767719d8d372be082"
+    },
+    {
+      "path": "prompts/05.md",
+      "bytes": 1414,
+      "sha256": "d6ac2546ace1ac354b19bb0cbaac0e14f8fce6fbd13ec3236cead8b88111d240"
+    },
+    {
+      "path": "prompts/06.md",
+      "bytes": 1387,
+      "sha256": "7eeea2b5242cbadbccf1848a8b6646396fc3c44e3dfcddcb6409722006bd9f62"
+    },
+    {
+      "path": "prompts/07.md",
+      "bytes": 1363,
+      "sha256": "1d035449c21cc740d67017186982eea498b43795a6cf4fd906278d0b5d355022"
+    },
+    {
+      "path": "prompts/08.md",
+      "bytes": 1350,
+      "sha256": "1245e64b22965431d51b4b7fd31d916b89bb0742ad39e90768b1cc01ee1dd68b"
+    },
+    {
+      "path": "prompts/09.md",
+      "bytes": 1376,
+      "sha256": "d79cea40e556c7bc938c712e759fe39321c488a2b68fae54e0b9f7d170f8c7a6"
+    },
+    {
+      "path": "prompts/10.md",
+      "bytes": 1390,
+      "sha256": "f6a48e216ebaa34f60cff8acc4fb811835a46e23f3b00d8f86e25d726ffdeb7d"
+    },
+    {
+      "path": "prompts/11.md",
+      "bytes": 1384,
+      "sha256": "ce7ce429dfc9e215c5fb35657a00971ba824e8e92ce057d3e31b942203fe8fb4"
+    },
+    {
+      "path": "prompts/12.md",
+      "bytes": 1361,
+      "sha256": "f1839b64fdf2c4830950da944c395635c0a934b9497c47c9489b5b7af1a8ea04"
+    },
+    {
+      "path": "prompts/13.md",
+      "bytes": 1422,
+      "sha256": "08623817d571ba2b834874978d1be6952b200f422f9df9e493da3188328ed887"
+    },
+    {
+      "path": "prompts/14.md",
+      "bytes": 1354,
+      "sha256": "aece324967257203aa959ca703a0e4ddcd1fae10be2eec60197d2e37638a8f55"
+    },
+    {
+      "path": "prompts/15.md",
+      "bytes": 1342,
+      "sha256": "28ea1b94ae87e645f494796c142227db61f6ef4efae5afef4f30c4b8a0a834cf"
+    },
+    {
+      "path": "prompts/16.md",
+      "bytes": 1373,
+      "sha256": "631aa4554896f6755f8da4ec70b7dab08167db0887e708a1e988d0f41e440081"
+    },
+    {
+      "path": "prompts/17-v2.md",
+      "bytes": 612,
+      "sha256": "88e1dab1f3c0d1fbb29d272c6bebf0d433c73815c12f5b6541b98a1001a31784"
+    },
+    {
+      "path": "prompts/17.md",
+      "bytes": 1365,
+      "sha256": "dc215f8cea740249c599bc4f2608238fd55b1c3143adfee4851507a44fb0ae5d"
+    },
+    {
+      "path": "prompts/18-v2.md",
+      "bytes": 599,
+      "sha256": "e658107ffaa163807a611441b105c5ff8bf31351a7bcc6efa838874bbf9ece39"
+    },
+    {
+      "path": "prompts/18.md",
+      "bytes": 1356,
+      "sha256": "43680a301f8d4eda18ea015a3be63c4cce79154bc768483364746baef6e8e1f9"
+    },
+    {
+      "path": "prompts/19.md",
+      "bytes": 1409,
+      "sha256": "87892c575e4998b593f28a522afb4717a445545f68f684b7b86ef22e0214a08e"
+    },
+    {
+      "path": "prompts/20.md",
+      "bytes": 1380,
+      "sha256": "7c4d821b9154e4e36eaf068dfe18e43ba4608a0bd6435b9c08dbe1b553c30a2e"
+    },
+    {
+      "path": "prompts/21.md",
+      "bytes": 1438,
+      "sha256": "9a0df90a120c0768d4d0a3c988fb5c5aeafc5947a5e769379ab6a6b54c43a0af"
+    },
+    {
+      "path": "prompts/22.md",
+      "bytes": 1375,
+      "sha256": "6eaf67662be3ede77dccbd4a8ae7fbede5b2e07fba50ac86e5b2f692afd91ec7"
+    },
+    {
+      "path": "prompts/23.md",
+      "bytes": 1384,
+      "sha256": "717236cf1b0ae710eaa733dfeaa74e6858e643d8a887eda2c1312451cef99204"
+    },
+    {
+      "path": "prompts/24.md",
+      "bytes": 1395,
+      "sha256": "0b799b7f988db59be3331de2c0c4a6f81f17f0d7abbe317c6c444d0cbbb1aa04"
+    },
+    {
+      "path": "prompts/banner-v2.md",
+      "bytes": 652,
+      "sha256": "4ac49cf93f9b0b99fdf4a124ff9fde6aaaf39b225cbd3296c6ad7f8c26b1b674"
+    },
+    {
+      "path": "prompts/banner.md",
+      "bytes": 1144,
+      "sha256": "7371fee2022a9cd0cce5809bfe6bc95d9f07114343286354a7eecf6fde89b85a"
+    },
+    {
+      "path": "prompts/cover.md",
+      "bytes": 791,
+      "sha256": "0aa5923fc61a68da1b599ef3dff8bc460dca490739fcacb0f849b131e1e0967a"
+    },
+    {
+      "path": "provenance.json",
+      "bytes": 9006,
+      "sha256": "ef1dcc2868222ed0dbc162afe01cfa433a22853e603a6b6b7bc891a362f1c3f0"
+    },
+    {
+      "path": "raw/01.png",
+      "bytes": 1649700,
+      "sha256": "657b2e41ef6821fb75315332e23c34289df9a08d4ff31bd52edcdb8381cfad4b"
+    },
+    {
+      "path": "raw/02.png",
+      "bytes": 1656720,
+      "sha256": "cd0a4deb157f09b7ebddc87146720a44a2b92af1ee8fad5271309cd11eef38c1"
+    },
+    {
+      "path": "raw/03.png",
+      "bytes": 1690130,
+      "sha256": "8fea0ec266730dedf50ba4838329cc2e2b9d87a58760ea4e4687bbad8ef3bc03"
+    },
+    {
+      "path": "raw/04.png",
+      "bytes": 1528320,
+      "sha256": "a531b222cc80cf89e9f7a42061ca2461d851723a99f0a2274848e73f9362d915"
+    },
+    {
+      "path": "raw/05.png",
+      "bytes": 1497369,
+      "sha256": "f79ce01c2de32dbaeffbf7050d6b1a10bfd0cc6820ac48ff06519033a9803223"
+    },
+    {
+      "path": "raw/06.png",
+      "bytes": 1464843,
+      "sha256": "74e0afb92134e15ddf3b18e131c1ef601061a6a7fccf03a162fdbcdb4a313fa1"
+    },
+    {
+      "path": "raw/07.png",
+      "bytes": 1566894,
+      "sha256": "083667a57b4e6486aebd4eef381c37e648a81232b15a5e52e9514fb2be0a2fe6"
+    },
+    {
+      "path": "raw/08.png",
+      "bytes": 1463034,
+      "sha256": "3e05661346a8fb366ca271e623f9632321d0ff7cb22ae6bab12c6bc2e118a027"
+    },
+    {
+      "path": "raw/09.png",
+      "bytes": 1470339,
+      "sha256": "c6889b4edb67ade7dcce3009a70a8d2da8b7a2b858133035030ce31b94c60d79"
+    },
+    {
+      "path": "raw/10.png",
+      "bytes": 1442001,
+      "sha256": "7935b8054a567981f6d923407b24133c166928b5f92d829f70d46ae94bd8443c"
+    },
+    {
+      "path": "raw/11.png",
+      "bytes": 1315088,
+      "sha256": "522c440b8ea5d2e48906985e3ce60b4832b54e00db22006ccb69ea521573e40b"
+    },
+    {
+      "path": "raw/12.png",
+      "bytes": 1355595,
+      "sha256": "8d604c1b7fb12ed88468c5909b1faacc05785d15999d053a6202ffaf4cc2586e"
+    },
+    {
+      "path": "raw/13.png",
+      "bytes": 1438790,
+      "sha256": "c8607a1687dd0e4aa3b64eb911dc4030da3c6f3fbcc142b4d347bf91acdc4577"
+    },
+    {
+      "path": "raw/14.png",
+      "bytes": 1251828,
+      "sha256": "7d26c98d5ccc6d8e85f1c0b7ba84a45f83e174c5eb511fedc7822e3e082d040a"
+    },
+    {
+      "path": "raw/15.png",
+      "bytes": 1314382,
+      "sha256": "99026425560ea569be284105bef2e00aad38ae6b4f7d29141192237adb61ce09"
+    },
+    {
+      "path": "raw/16.png",
+      "bytes": 1500347,
+      "sha256": "95325e69cabd8ef1e02cb092edf230bccd5530dd30ff4c54ee71ce6deb86fb17"
+    },
+    {
+      "path": "raw/17-v2.png",
+      "bytes": 1333996,
+      "sha256": "c00580ae2eaee01c07914337f8f1d1c8ca5d9b6ebc7c675e46a33845354a9e8f"
+    },
+    {
+      "path": "raw/17.png",
+      "bytes": 1460682,
+      "sha256": "f60b9c67c88def26d8860a6f4073171f5f970482a38bcf5107b708a2fa93ca49"
+    },
+    {
+      "path": "raw/18-v2.png",
+      "bytes": 1472468,
+      "sha256": "ccf0e63a61b9c9fa1e4ae5d9f8720f760e7195fd39ac982699ea7c964d38ad8e"
+    },
+    {
+      "path": "raw/18.png",
+      "bytes": 1595698,
+      "sha256": "b1ca672b564745c806e51376679ffda58bfe43963d1cdcaad3e734078f792947"
+    },
+    {
+      "path": "raw/19.png",
+      "bytes": 1653914,
+      "sha256": "dc82fdb5382ef30dd86956c3cace0f75b630935589c4a9c30ce1ec8fbf441565"
+    },
+    {
+      "path": "raw/20.png",
+      "bytes": 1717177,
+      "sha256": "50d9ef481b509cc793e00faa8eaa4a50b75d882ed784c9615594fe5ff4182e7c"
+    },
+    {
+      "path": "raw/21.png",
+      "bytes": 1675103,
+      "sha256": "597b82bb81a91f9b9e4e7f2f8c2832f4878b89a8aaee0e3cb07f5b4363bd30d5"
+    },
+    {
+      "path": "raw/22.png",
+      "bytes": 1590388,
+      "sha256": "ead691e4d04904e3b00c3bb6934c3a0533fb57b5a689b2ad62e9f6c65d1dafed"
+    },
+    {
+      "path": "raw/23.png",
+      "bytes": 1493180,
+      "sha256": "662380566dd077e7ab210656242921db7681b4e34124142402939c6cd07c2e0f"
+    },
+    {
+      "path": "raw/24.png",
+      "bytes": 1557908,
+      "sha256": "609219fc4e4296608e0e0292f796e2bc0fc0af0e3c2b5578e526e50bd4dda1b9"
+    },
+    {
+      "path": "raw/banner-master.png",
+      "bytes": 2514086,
+      "sha256": "5076c26d9f9a6efa0665007ed9fbbca445e6dc87abf4a49258cf41857365d56a"
+    },
+    {
+      "path": "raw/banner-v2.png",
+      "bytes": 2176324,
+      "sha256": "840653b41997eff5ab7bf4b18085cbe39aac9734dc31811647412d1ecf753db9"
+    },
+    {
+      "path": "raw/cover-master.png",
+      "bytes": 1353773,
+      "sha256": "e61c3964fd9eaf98c1ba7d8b240e1ac401c4b03e9b4c30a8d53b9dd57a59ac72"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4782,
+      "sha256": "73160d281a8a6f2e561bd7b07a6ce49b8b829c6f6663e15f3513069a773a9808"
+    },
+    {
+      "path": "references/identity.png",
+      "bytes": 1489526,
+      "sha256": "b2e1bac35745cdded54ec900a8cfcf577fd2680ff72cfa6f4852b418d9e6d9c0"
+    },
+    {
+      "path": "research/春节习俗与聊天场景调研.md",
+      "bytes": 10492,
+      "sha256": "0c01960518a05cda4ac1825fbb67b6b71c44f488262e975be9a954da98b76a5d"
+    },
+    {
+      "path": "scripts/export-support.ps1",
+      "bytes": 2984,
+      "sha256": "61b95d539e58831d03b9cae40af82bc5449a9fabfc5030ed29e83ec829a9630c"
+    },
+    {
+      "path": "scripts/export.ps1",
+      "bytes": 6311,
+      "sha256": "1a607d4faf1b70d21d3eff45c6c7d5dbb9a13f3f0224c16d971aa46ac4270387"
+    },
+    {
+      "path": "support-validation.json",
+      "bytes": 917,
+      "sha256": "dad50a4fbc275398d3a533879f810eebe8b9ad4a0329336dc57cff7c2609772b"
+    },
+    {
+      "path": "validation.json",
+      "bytes": 12837,
+      "sha256": "e37d80fd9228a56557fdb7eaf8f970a9ba651197555038e71c7fb0a04c8a59b7"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 1260,
+      "sha256": "ad84933080eaf7ba53c947ac3da1a92db8c34f50937c418a2b905fcf0f0cb969"
+    },
+    {
+      "path": "使用示例.md",
+      "bytes": 2761,
+      "sha256": "68a5ecb55cadf0788b5a756327b3703e686c912819550f90d262a38f7267e8dd"
+    },
+    {
+      "path": "含义词.txt",
+      "bytes": 546,
+      "sha256": "7b03d68fd03eb5a331db6e04a2569ceba22a8475384db0ca5122c05ac1ba2470"
+    }
+  ]
+}

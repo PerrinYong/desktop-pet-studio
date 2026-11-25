@@ -1,0 +1,35 @@
+{
+  "files": [
+    {
+      "width": 240,
+      "bytes": 66586,
+      "min_alpha": 0,
+      "height": 240,
+      "file": "assets/cover-240.png",
+      "max_alpha": 255,
+      "source": "raw/cover-master.png",
+      "sha256": "12ec3d0ba89abb97a4516d752292f30e4671c1550d82d37ac0a335d943c7cb5f"
+    },
+    {
+      "width": 50,
+      "bytes": 3916,
+      "min_alpha": 0,
+      "height": 50,
+      "file": "assets/icon-50.png",
+      "max_alpha": 255,
+      "source": "raw/cover-master.png",
+      "sha256": "607d2021e1fa353b1b30acf153f9d3bab93a1e4816425279f6dc6427c474d674"
+    },
+    {
+      "width": 750,
+      "bytes": 46952,
+      "min_alpha": 255,
+      "height": 400,
+      "file": "assets/banner-750x400.jpg",
+      "max_alpha": 255,
+      "source": "raw/banner-v2.png",
+      "sha256": "db608722a168414a531b5070e76e04f2012471580509a5efe104b2140346e53d"
+    }
+  ],
+  "ok": true
+}
