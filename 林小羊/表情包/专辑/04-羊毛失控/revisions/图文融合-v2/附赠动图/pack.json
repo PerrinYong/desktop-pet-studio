@@ -1,0 +1,44 @@
+{
+  "name": "林小羊",
+  "series": "羊毛失控附赠动图",
+  "kind": "animated",
+  "revision": "图文融合-v2",
+  "stickers": [
+    {
+      "id": "cheer",
+      "caption": "好耶",
+      "meaning": "欢呼",
+      "sequence": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        3,
+        3
+      ],
+      "poses": "1 crouches low anticipating jump; 2 stretches tall at takeoff arms lifting; 3 airborne with both arms high and legs tucked; 4 soft squat landing. Cheerful throughout.",
+      "layout": "好贴着左边举起的小蹄，耶在右侧小蹄上方，字与举手欢呼组成一体",
+      "prompt": "Use case: stylized-concept. FOUR-POSE sprite sheet, STRICT equal 2x2 quadrants. Identity reference: warm flat handmade doodle Lin Xiaoyang sheep, cream compressible cloud wool, oatmeal face, tan spiral horns, sideways ears, dot eyes, charcoal outline and small hooves. No clothing. Four complete readable stickers each with exact phrase 「好耶」 ONCE. Integrated text design: 好贴着左边举起的小蹄，耶在右侧小蹄上方，字与举手欢呼组成一体. No footer, no separate caption row. Warm chunky handmade Chinese type thin cream edge. Four distinct anatomical poses: 1 crouches low anticipating jump; 2 stretches tall at takeoff arms lifting; 3 airborne with both arms high and legs tucked; 4 soft squat landing. Cheerful throughout.. Same scale and lettering anchors across cells. Clear transparent 8% margins on each quadrant, fully transparent middle seam. No grid, no lines, no shadows or background of any color, no checkerboard. True RGBA alpha."
+    },
+    {
+      "id": "side-hop",
+      "caption": "反复横跳",
+      "meaning": "纠结",
+      "sequence": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3
+      ],
+      "poses": "1 squat leaning left; 2 jump left body tilted left legs tucked right; 3 squat leaning right; 4 jump right body tilted right legs tucked left. ONE sheep per cell, no ghost duplicates.",
+      "layout": "反复在身体左侧，横跳在身体右侧，两个词组跟左右摇摆呼应，字相对画格固定而小羊在字间横跳",
+      "prompt": "Use case: stylized-concept. FOUR-POSE sprite sheet, STRICT equal 2x2 quadrants. Identity reference: warm flat handmade doodle Lin Xiaoyang sheep, cream compressible cloud wool, oatmeal face, tan spiral horns, sideways ears, dot eyes, charcoal outline and small hooves. No clothing. Four complete readable stickers each with exact phrase 「反复横跳」 ONCE. Integrated text design: 反复在身体左侧，横跳在身体右侧，两个词组跟左右摇摆呼应，字相对画格固定而小羊在字间横跳. No footer, no separate caption row. Warm chunky handmade Chinese type thin cream edge. Four distinct anatomical poses: 1 squat leaning left; 2 jump left body tilted left legs tucked right; 3 squat leaning right; 4 jump right body tilted right legs tucked left. ONE sheep per cell, no ghost duplicates.. Same scale and lettering anchors across cells. Clear transparent 8% margins on each quadrant, fully transparent middle seam. No grid, no lines, no shadows or background of any color, no checkerboard. True RGBA alpha."
+    }
+  ]
+}

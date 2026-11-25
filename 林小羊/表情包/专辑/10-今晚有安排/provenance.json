@@ -1,0 +1,132 @@
+{
+  "files": [
+    {
+      "archived": "raw/01.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-ba180dcf-ed8e-413d-b4a6-746fdc80e219.png",
+      "prompt": "prompts/01.md",
+      "id": "01",
+      "sha256": "b0302fe851243c6d4cfca1fa21bb0abb0c805143e116ffc07e54ec8b2cfff8e3"
+    },
+    {
+      "archived": "raw/02.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-18293c6e-da65-4fcf-a7cd-34887d404819.png",
+      "prompt": "prompts/02.md",
+      "id": "02",
+      "sha256": "e5fd34416ced5dc654a380f4ab9e122535f48c0bd795e83e77c5f5222f3f35d6"
+    },
+    {
+      "archived": "raw/03.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9c4db5dc-f011-44ea-bd01-bf6603868632.png",
+      "prompt": "prompts/03.md",
+      "id": "03",
+      "sha256": "e039698d88c324ec415ba3f1b6241204b2778b0c1ea397903ee50b38f36f9496"
+    },
+    {
+      "archived": "raw/04.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b612cba4-da55-4c2c-bb13-7d92a981b7fc.png",
+      "prompt": "prompts/04.md",
+      "id": "04",
+      "sha256": "2efba3175d1b3e24d04c234b08a7342493bfc1a2ba6c4debc8d30133b6f72f35"
+    },
+    {
+      "archived": "raw/05.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-8697a7c1-7cfd-4bdf-886f-592251604906.png",
+      "prompt": "prompts/05.md",
+      "id": "05",
+      "sha256": "3466b74f00b43cfd4b3f43d4c10dc3a1ea4e32cea848aeb98babdd41ea34ff6a"
+    },
+    {
+      "archived": "raw/06.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-d808dc83-8cad-440f-9286-bdab9b06a985.png",
+      "prompt": "prompts/06.md",
+      "id": "06",
+      "sha256": "aba833f77d4a4ec84733f577373f3324a6dd2d24d7acc7a70975cbd5698c4c25"
+    },
+    {
+      "archived": "raw/07.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3780b56d-dc38-47ed-a8ce-fae93c786c62.png",
+      "prompt": "prompts/07.md",
+      "id": "07",
+      "sha256": "ef40b64e80debee82e8d494ba3798839ea73fbbf77f7bc3ccf40dea1b04de514"
+    },
+    {
+      "archived": "raw/08.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-e3dc2d4e-19d0-4cd8-81b6-e7ac50bf6815.png",
+      "prompt": "prompts/08.md",
+      "id": "08",
+      "sha256": "40f70f8bf34219d83dd26283a69731ee16aa1b87bde5356d04f955357b84a95f"
+    },
+    {
+      "archived": "raw/09.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-59604f61-c618-45c6-80cf-165512deb4ec.png",
+      "prompt": "prompts/09.md",
+      "id": "09",
+      "sha256": "6368c2de4124a99f8243aa7c7c3597d110b5501fe1dcf2fa3a19548a5cca996e"
+    },
+    {
+      "archived": "raw/10.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-102665e8-0385-44e5-abd9-4c5abb7e9827.png",
+      "prompt": "prompts/10.md",
+      "id": "10",
+      "sha256": "d656329e887398f407132fea9dfe6262ebf8887f01ed5305b219c2cc7f5a062f"
+    },
+    {
+      "archived": "raw/11.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-8350cca0-98d6-4c60-82cc-cb411349955e.png",
+      "prompt": "prompts/11.md",
+      "id": "11",
+      "sha256": "8f760bf223a6754cabda9ef5763945e8a7846071b0731fdffd0ca924a5bbd041"
+    },
+    {
+      "archived": "raw/12.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f6d28d7c-5ef6-44f9-bff9-20add13b6f88.png",
+      "prompt": "prompts/12.md",
+      "id": "12",
+      "sha256": "300dc8108ad46216bc7c43d2db2346a1716a774dabab70e00d934548aff58b1f"
+    },
+    {
+      "archived": "raw/13.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9074ae3e-5f58-47c2-b225-0b2fddf90995.png",
+      "prompt": "prompts/13.md",
+      "id": "13",
+      "sha256": "05525dcbffcce745accec0353b7a2df030f6a0de007f533b773e592b698bb1e3"
+    },
+    {
+      "archived": "raw/14.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-8501815f-f0ed-4fe1-8dbe-739ee7aa3d2f.png",
+      "prompt": "prompts/14.md",
+      "id": "14",
+      "sha256": "2014e76855ee9c5740fadc24ed0d3e7e46908ae70ff0362bf646d3e309e85c28"
+    },
+    {
+      "archived": "raw/15.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-a306f4be-fc56-4dae-8db9-bb69192ac3ef.png",
+      "prompt": "prompts/15.md",
+      "id": "15",
+      "sha256": "943f6870f8628393a6c84b7dcb58bd63429709423de7b5c0cd1e3b0fc7019662"
+    },
+    {
+      "archived": "raw/16.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-ada45b07-eca6-4c74-8b54-6149255008af.png",
+      "prompt": "prompts/16.md",
+      "id": "16",
+      "sha256": "dae58d7b7b576fd003337ce327fb79d70ab025370b7844535bacd42faefe0b38"
+    },
+    {
+      "archived": "raw/banner.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3fbaa172-b93a-487e-b77f-9063350d3452.png",
+      "prompt": "prompts/banner.md",
+      "id": "banner",
+      "sha256": "3b7bfb00a821fb0d81ff6a2f6f96ce9733a7c6772869f355a8afd7485688183a"
+    },
+    {
+      "archived": "raw/cover.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-105c0304-faec-48f2-8bb5-0ee34ed417f3.png",
+      "prompt": "prompts/cover.md",
+      "id": "cover",
+      "sha256": "fa617a7472e662dc73edd723455cf4048feb98448420f4139e74544e8ec6da02"
+    }
+  ],
+  "created": "2026-11-25",
+  "tool": "built-in image_gen"
+}

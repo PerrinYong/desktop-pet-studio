@@ -1,0 +1,99 @@
+{
+  "album": "12-有事您招呼",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01-greeting",
+      "caption": "老板好",
+      "png240_bytes": 69462,
+      "gif_bytes": 297885,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "02-invite",
+      "caption": "今晚有空吗",
+      "png240_bytes": 81333,
+      "gif_bytes": 346956,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "03-received",
+      "caption": "收到收到",
+      "png240_bytes": 74633,
+      "gif_bytes": 304681,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "04-arrange",
+      "caption": "马上安排",
+      "png240_bytes": 70567,
+      "gif_bytes": 265345,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "05-reserved",
+      "caption": "给您留着",
+      "png240_bytes": 73204,
+      "gif_bytes": 299637,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "06-take-time",
+      "caption": "不急慢慢来",
+      "png240_bytes": 90597,
+      "gif_bytes": 381109,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "07-thanks",
+      "caption": "谢谢照顾",
+      "png240_bytes": 78109,
+      "gif_bytes": 293975,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "08-next-time",
+      "caption": "下次再约",
+      "png240_bytes": 63446,
+      "gif_bytes": 247319,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    }
+  ]
+}

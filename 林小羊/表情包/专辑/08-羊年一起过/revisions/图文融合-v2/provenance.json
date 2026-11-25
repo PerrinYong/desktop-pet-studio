@@ -1,0 +1,73 @@
+[
+  {
+    "id": "01-greeting",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-67393d5e-c921-431b-8f44-bee1e25bcf40.png",
+    "archived": "raw/01-greeting-sheet.png",
+    "prompt": "prompts/01-greeting.md",
+    "reference": "references/character.png",
+    "sha256": "ebdda090dce5f2e2e5e06f37dc767c7d57edf2096038c2e4d6fd751ad758e031"
+  },
+  {
+    "id": "02-prosper",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-701fb730-ffa1-40fd-86a6-fe6cb057d2b6.png",
+    "archived": "raw/02-prosper-sheet.png",
+    "prompt": "prompts/02-prosper.md",
+    "reference": "references/character.png",
+    "sha256": "c0f64bdff58d0451182ab57eface5540d02b7ee19c3f6fea152efb4c435abe6b"
+  },
+  {
+    "id": "03-thanks-repair",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-78bb5834-acbd-4bf1-b639-ef4b18265545.png",
+    "archived": "raw/03-thanks-repair.png",
+    "prompt": "prompts/03-thanks-repair.md",
+    "sha256": "03c73a33784ec900cc1b6c61670a6723a7459143dc3d8bbc7aa3817ee0f941cc"
+  },
+  {
+    "id": "03-thanks",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-0936c8f5-6da5-4e6f-8e86-16705e9a7d7f.png",
+    "archived": "raw/03-thanks-sheet.png",
+    "prompt": "prompts/03-thanks.md",
+    "reference": "references/character.png",
+    "sha256": "a910e00de682964da438bdb92165224ec672b93b8de0e6fa2278a8cbac835a3d"
+  },
+  {
+    "id": "04-dinner",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-233e7223-36b0-4e56-ab32-f48996215b36.png",
+    "archived": "raw/04-dinner-sheet.png",
+    "prompt": "prompts/04-dinner.md",
+    "reference": "references/character.png",
+    "sha256": "44e29dcb6581f1c8933c0b44733bafb874defcbdda6ad228460104ea81b7479c"
+  },
+  {
+    "id": "05-vigil",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-49dfc23e-4621-4846-be1d-cce14db74b99.png",
+    "archived": "raw/05-vigil-sheet.png",
+    "prompt": "prompts/05-vigil.md",
+    "reference": "references/character.png",
+    "sha256": "cdb088484f6b2d55e39f2069f96718ce1ed55e169019dd84f9086ae1193ac7df"
+  },
+  {
+    "id": "06-visit",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-39b439ab-57c9-41cd-a58b-53eedab28b30.png",
+    "archived": "raw/06-visit-sheet.png",
+    "prompt": "prompts/06-visit.md",
+    "reference": "references/character.png",
+    "sha256": "2da7444046ca60d3e6d88dc5900dff76c668ae30a43240437d0740f3c314ba47"
+  },
+  {
+    "id": "07-eat-first",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3ca9c11a-d60b-4aa8-8293-f0d0a1ce05d9.png",
+    "archived": "raw/07-eat-first-sheet.png",
+    "prompt": "prompts/07-eat-first.md",
+    "reference": "references/character.png",
+    "sha256": "ac9166a33a542dabe83cd10a02a10dd794332359cb90dc42f5a85e523739a9a4"
+  },
+  {
+    "id": "08-work",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-19b1d024-8f9f-412b-aee4-9077840cc68b.png",
+    "archived": "raw/08-work-sheet.png",
+    "prompt": "prompts/08-work.md",
+    "reference": "references/character.png",
+    "sha256": "f8de02f8861e039b4b1776af9491d7c182c52e0cb8b68e92020511c96c24d410"
+  }
+]

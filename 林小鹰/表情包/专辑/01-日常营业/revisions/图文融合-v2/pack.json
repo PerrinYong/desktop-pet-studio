@@ -1,0 +1,190 @@
+{
+  "name": "林小鹰",
+  "series": "日常营业",
+  "created": "2026-11-24",
+  "type": "static",
+  "count": 16,
+  "source_character": "林小鹰",
+  "reference": "references/character.png",
+  "generation_tool": "built-in image_gen",
+  "stickers": [
+    {
+      "id": "01",
+      "scene": "确认收到",
+      "raw": "raw/01.png",
+      "prompt_file": "prompts/01.md",
+      "caption": "收到",
+      "meaning": "收到",
+      "layout": "“收”在侧脸，“到”贴敬礼的翅尖，字像被翅膀托起",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 确认收到.   Chinese text VERBATIM:「收到」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “收”在侧脸，“到”贴敬礼的翅尖，字像被翅膀托起. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark.",
+      "image": "raw/01-repair.png"
+    },
+    {
+      "id": "02",
+      "scene": "开心庆祝",
+      "raw": "raw/02.png",
+      "prompt_file": "prompts/02.md",
+      "caption": "好耶",
+      "meaning": "开心",
+      "layout": "“好”在左边举起的翅膀，“耶”在右侧，围住开心脸",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 开心庆祝.   Chinese text VERBATIM:「好耶」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “好”在左边举起的翅膀，“耶”在右侧，围住开心脸. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark.",
+      "image": "raw/02-repair.png"
+    },
+    {
+      "id": "03",
+      "scene": "真诚感谢",
+      "raw": "raw/03.png",
+      "prompt_file": "prompts/03.md",
+      "caption": "谢谢你",
+      "meaning": "感谢",
+      "layout": "“谢谢”挨笑脸，“你”写进拥抱的红心上",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 真诚感谢.   Chinese text VERBATIM:「谢谢你」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “谢谢”挨笑脸，“你”写进拥抱的红心上. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark."
+    },
+    {
+      "id": "04",
+      "scene": "安慰拥抱",
+      "raw": "raw/04.png",
+      "prompt_file": "prompts/04.md",
+      "caption": "抱抱",
+      "meaning": "拥抱",
+      "layout": "两枚“抱”顺着两只向前张开的翅膀，一起包围温柔脸",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 安慰拥抱.   Chinese text VERBATIM:「抱抱」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: 两枚“抱”顺着两只向前张开的翅膀，一起包围温柔脸. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark."
+    },
+    {
+      "id": "05",
+      "scene": "暖心慰劳",
+      "raw": "raw/05.png",
+      "prompt_file": "prompts/05.md",
+      "caption": "辛苦啦",
+      "meaning": "慰劳",
+      "layout": "“辛苦”贴笑脸，“啦”在热茶蒸气旁，字成为温暖招呼",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 暖心慰劳.   Chinese text VERBATIM:「辛苦啦」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “辛苦”贴笑脸，“啦”在热茶蒸气旁，字成为温暖招呼. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark.",
+      "image": "raw/05-repair.png"
+    },
+    {
+      "id": "06",
+      "scene": "认真思考",
+      "raw": "raw/06.png",
+      "prompt_file": "prompts/06.md",
+      "caption": "我想想",
+      "meaning": "思考",
+      "layout": "“我想想”沿头顶思考的小弧排列，最后一字挨着托腮翅膀",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 认真思考.   Chinese text VERBATIM:「我想想」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “我想想”沿头顶思考的小弧排列，最后一字挨着托腮翅膀. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark."
+    },
+    {
+      "id": "07",
+      "scene": "一脸疑惑",
+      "raw": "raw/07.png",
+      "prompt_file": "prompts/07.md",
+      "caption": "啊？",
+      "meaning": "疑惑",
+      "layout": "“啊”贴歪头脸旁，巨大的“？”成为头顶的疑惑符号",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 一脸疑惑.   Chinese text VERBATIM:「啊？」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “啊”贴歪头脸旁，巨大的“？”成为头顶的疑惑符号. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark."
+    },
+    {
+      "id": "08",
+      "scene": "夸张惊慌",
+      "raw": "raw/08.png",
+      "prompt_file": "prompts/08.md",
+      "caption": "救命",
+      "meaning": "惊慌",
+      "layout": "“救”和“命”贴在两只惊慌张开的翅膀旁，字随惊吓后仰",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 夸张惊慌.   Chinese text VERBATIM:「救命」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “救”和“命”贴在两只惊慌张开的翅膀旁，字随惊吓后仰. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark."
+    },
+    {
+      "id": "09",
+      "scene": "喜剧崩溃",
+      "raw": "raw/09.png",
+      "prompt_file": "prompts/09.md",
+      "caption": "我裂开了",
+      "meaning": "崩溃",
+      "layout": "“我”贴脸，“裂开了”沿玩具身体的裂缝错位排布，无伤口",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 喜剧崩溃.   Chinese text VERBATIM:「我裂开了」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “我”贴脸，“裂开了”沿玩具身体的裂缝错位排布，无伤口. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark."
+    },
+    {
+      "id": "10",
+      "scene": "暂时躺平",
+      "raw": "raw/10.png",
+      "prompt_file": "prompts/10.md",
+      "caption": "让我缓缓",
+      "meaning": "缓缓",
+      "layout": "“让我”贴疲惫眼睛旁，“缓缓”像柔软垫子靠着瘫下来的翅膀",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 暂时躺平.   Chinese text VERBATIM:「让我缓缓」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “让我”贴疲惫眼睛旁，“缓缓”像柔软垫子靠着瘫下来的翅膀. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark.",
+      "image": "raw/10-repair.png",
+      "repair_prompt_file": "prompts/10-repair.md"
+    },
+    {
+      "id": "11",
+      "scene": "开始犯困",
+      "raw": "raw/11.png",
+      "prompt_file": "prompts/11.md",
+      "caption": "困了",
+      "meaning": "困倦",
+      "layout": "“困了”顺着打呵欠的嘴边飘出，眼皮困倦",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 开始犯困.   Chinese text VERBATIM:「困了」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “困了”顺着打呵欠的嘴边飘出，眼皮困倦. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark.",
+      "image": "raw/11-repair.png",
+      "repair_prompt_file": "prompts/11-repair.md"
+    },
+    {
+      "id": "12",
+      "scene": "温柔道别",
+      "raw": "raw/12.png",
+      "prompt_file": "prompts/12.md",
+      "caption": "晚安",
+      "meaning": "晚安",
+      "layout": "“晚安”写在怀里抱住的月亮枕头上，眼闭着睡",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 温柔道别.   Chinese text VERBATIM:「晚安」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “晚安”写在怀里抱住的月亮枕头上，眼闭着睡. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark.",
+      "image": "raw/12-repair.png",
+      "repair_prompt_file": "prompts/12-repair.md"
+    },
+    {
+      "id": "13",
+      "scene": "认真打气",
+      "raw": "raw/13.png",
+      "prompt_file": "prompts/13.md",
+      "caption": "加油",
+      "meaning": "鼓励",
+      "layout": "“加”和“油”分别在两只握紧的翅尖旁，打气而不凶",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 认真打气.   Chinese text VERBATIM:「加油」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “加”和“油”分别在两只握紧的翅尖旁，打气而不凶. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark.",
+      "image": "raw/13-repair.png",
+      "repair_prompt_file": "prompts/13-repair.md"
+    },
+    {
+      "id": "14",
+      "scene": "自信承接",
+      "raw": "raw/14.png",
+      "prompt_file": "prompts/14.md",
+      "caption": "安排",
+      "meaning": "承接",
+      "layout": "“安”靠墨镜，“排”贴指向前方的翅尖，潇洒错落",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 自信承接.   Chinese text VERBATIM:「安排」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “安”靠墨镜，“排”贴指向前方的翅尖，潇洒错落. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark.",
+      "image": "raw/14-repair.png",
+      "repair_prompt_file": "prompts/14-repair.md"
+    },
+    {
+      "id": "15",
+      "scene": "轻松离场",
+      "raw": "raw/15.png",
+      "prompt_file": "prompts/15.md",
+      "caption": "先溜了",
+      "meaning": "告别",
+      "layout": "“先”贴回头脸侧，“溜了”沿跑开的方向向右斜上扬",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 轻松离场.   Chinese text VERBATIM:「先溜了」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: “先”贴回头脸侧，“溜了”沿跑开的方向向右斜上扬. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark.",
+      "image": "raw/15-repair.png",
+      "repair_prompt_file": "prompts/15-repair.md"
+    },
+    {
+      "id": "16",
+      "scene": "放声大笑",
+      "raw": "raw/16.png",
+      "prompt_file": "prompts/16.md",
+      "caption": "哈哈哈",
+      "meaning": "大笑",
+      "layout": "三个“哈”沿仰头笑脸和摆动翅膀排列成笑声弧",
+      "prompt": "Use case: stylized-concept. Create ONE square complete Chinese chat sticker. Input image is CHARACTER IDENTITY / STYLE reference, not a layout template. Lin Xiaoying as reference: cute tactile 3D clay owl, charcoal gray plumage, cream face disks and belly, very large amber eyes, orange small beak and feet, two pointed feather tufts, short rounded wings. Keep sculpted matte clay material, never turn into a flat sheep/cartoon. Preserve scene intent: 放声大笑.   Chinese text VERBATIM:「哈哈哈」. If pose description says no text on an object, this new lettering plan supersedes it. Composition and lettering: 三个“哈”沿仰头笑脸和摆动翅膀排列成笑声弧. Natural integrated lettering, hand-shaped legible Chinese strokes; lettering sits among gestures and props, shares same space as character, some controlled overlap without obscuring face. No separate bottom caption strip, no generic top title row. Keep phrase reading order clear, every exact character once. Lettering softly sculpted or bold handmade, charcoal/burnt orange with thin cream edge; festive red-gold where appropriate. Compose as one emotionally expressive silhouette, filling the square comfortably. True transparent alpha background everywhere outside artwork, not white, not checkerboard, not magenta. NO background panels, shadows, paper texture or frames. Keep 7% empty transparent margin on all image edges so ears and words are never clipped. Readable at 240px. No English, extra words, labels, watermark."
+    }
+  ],
+  "kind": "static",
+  "revision": "图文融合-v2",
+  "revision_date": "2026-11-26"
+}

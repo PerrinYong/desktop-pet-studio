@@ -1,0 +1,99 @@
+{
+  "album": "01-日常营业",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "收到",
+      "png240_bytes": 92999
+    },
+    {
+      "id": "02",
+      "caption": "好耶",
+      "png240_bytes": 77714
+    },
+    {
+      "id": "03",
+      "caption": "谢谢你",
+      "png240_bytes": 116574
+    },
+    {
+      "id": "04",
+      "caption": "抱抱",
+      "png240_bytes": 100054
+    },
+    {
+      "id": "05",
+      "caption": "辛苦啦",
+      "png240_bytes": 91758
+    },
+    {
+      "id": "06",
+      "caption": "我想想",
+      "png240_bytes": 94441
+    },
+    {
+      "id": "07",
+      "caption": "啊？",
+      "png240_bytes": 83398
+    },
+    {
+      "id": "08",
+      "caption": "救命",
+      "png240_bytes": 99629
+    },
+    {
+      "id": "09",
+      "caption": "我裂开了",
+      "png240_bytes": 113121
+    },
+    {
+      "id": "10",
+      "caption": "让我缓缓",
+      "png240_bytes": 106419
+    },
+    {
+      "id": "11",
+      "caption": "困了",
+      "png240_bytes": 96302
+    },
+    {
+      "id": "12",
+      "caption": "晚安",
+      "png240_bytes": 92629
+    },
+    {
+      "id": "13",
+      "caption": "加油",
+      "png240_bytes": 84338
+    },
+    {
+      "id": "14",
+      "caption": "安排",
+      "png240_bytes": 95400
+    },
+    {
+      "id": "15",
+      "caption": "先溜了",
+      "png240_bytes": 81149
+    },
+    {
+      "id": "16",
+      "caption": "哈哈哈",
+      "png240_bytes": 99719
+    }
+  ]
+}

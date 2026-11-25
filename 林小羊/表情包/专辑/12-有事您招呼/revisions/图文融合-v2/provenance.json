@@ -1,0 +1,72 @@
+[
+  {
+    "id": "01-greeting",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-5e0972b5-162a-4d67-bf0b-3919ab26a09a.png",
+    "archived": "raw/01-greeting-sheet.png",
+    "prompt": "prompts/01-greeting.md",
+    "sha256": "0a0bc9be28568e2fcea72dd3757f6a96d826e4dbedddbb0c5bd9f5cc1c36dfef"
+  },
+  {
+    "id": "02-invite",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-c0f73ada-9522-44c7-9fe0-b5034274abbd.png",
+    "archived": "raw/02-invite-sheet.png",
+    "prompt": "prompts/02-invite.md",
+    "sha256": "f0b82591563905763b6b17d6789667378c544281f6d77d9b21dea4e620f33ad4"
+  },
+  {
+    "id": "03-received",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-8688127e-d3f4-432e-9bc8-61e4aab3df1b.png",
+    "archived": "raw/03-received-sheet.png",
+    "prompt": "prompts/03-received.md",
+    "sha256": "daae6ceaf33424213ec39f62e71f97a13709a2968737ee2ea61e72cdcfc2e480"
+  },
+  {
+    "id": "04-arrange",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-96bc298a-f4a0-46da-9461-4c1a7a5f91dc.png",
+    "archived": "raw/04-arrange-sheet.png",
+    "prompt": "prompts/04-arrange.md",
+    "sha256": "5dc9d8f97365dd3f27041914e85ebfa38ffda489521d81e152afb3c472aea8bb"
+  },
+  {
+    "id": "05-reserved",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-6a3a2ef3-9d44-4c32-80a3-85236fbb87a9.png",
+    "archived": "raw/05-reserved-sheet.png",
+    "prompt": "prompts/05-reserved.md",
+    "sha256": "148055055907a50933067e53ffe706156a593e9a374d4f8d053122813ba87197"
+  },
+  {
+    "id": "06-take-time",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-c9fc8149-28c2-4c7a-8745-0ddb416f08fa.png",
+    "archived": "raw/06-take-time-sheet.png",
+    "prompt": "prompts/06-take-time.md",
+    "sha256": "936217a694a431f67856e5ea9ea49683de7af1903e94c8d74b75b7515e0f30bc"
+  },
+  {
+    "id": "07-thanks",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-108bb819-6163-4152-9639-b055c458fdd7.png",
+    "archived": "raw/07-thanks-sheet.png",
+    "prompt": "prompts/07-thanks.md",
+    "sha256": "842ad238458134f5fcc2eb014a422fbbfadefbf2d4855a5d72d61503400f2bad"
+  },
+  {
+    "id": "08-next-time",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-44f8b417-ea8b-46d1-a0f0-45479c5025c0.png",
+    "archived": "raw/08-next-time-sheet.png",
+    "prompt": "prompts/08-next-time.md",
+    "sha256": "9d0c7cd9c704927c615348269a6a3885b24a2c2b08a06fe6bb104eb7f2cc5f5c"
+  },
+  {
+    "id": "03-received-repair",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-992f03cb-c6b8-4ec8-b078-694f87ef4933.png",
+    "archived": "raw/03-received-repaired.png",
+    "prompt": "prompts/03-received-repair.md",
+    "sha256": "c3a072172a9146e2ace5b2f96bb106a3347a5b6718daf5038da412412b46b4db"
+  },
+  {
+    "id": "06-take-time-repair",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b15a8a58-42df-4e0c-88c0-4c3f12dadad1.png",
+    "archived": "raw/06-take-time-repaired.png",
+    "prompt": "prompts/06-take-time-repair.md",
+    "sha256": "7a20b4c5b7d3cae4e7682289546c0c7058c657dfac9cb30457db2d1d0fb8b975"
+  }
+]

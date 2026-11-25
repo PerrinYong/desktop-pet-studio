@@ -1,0 +1,319 @@
+{
+  "version": 1,
+  "background": "#FFFFFF",
+  "keyframe_index": "0-based; source-0..3.png",
+  "albums": {
+    "04-羊毛失控/附赠动图": {
+      "cheer": {
+        "caption": "好耶",
+        "keyframe": 2,
+        "reason": "腾空举手，欢呼动作最完整",
+        "source_sha256": "29fb338628cbd9290b74de81ef4ae67e39ca92518ac32903871aaf43d6da143b"
+      },
+      "side-hop": {
+        "caption": "反复横跳",
+        "keyframe": 1,
+        "reason": "侧跳腾空，方向和动态线清楚",
+        "source_sha256": "6058d81fc43912114d113843b0043ec226700b6e740ff03b5f64a0a65c47dcf0"
+      }
+    },
+    "06-热梗动起来": {
+      "01-self-hug": {
+        "caption": "爱你老己",
+        "keyframe": 2,
+        "reason": "双臂抱住自己，闭眼满足",
+        "source_sha256": "f948cacc0c5223773b9334d95703e03158a9573696c4a6435bd95dab9dce13dd"
+      },
+      "02-awesome": {
+        "caption": "夯爆了",
+        "keyframe": 2,
+        "reason": "腾空点赞，兴奋感最强",
+        "source_sha256": "a12eab0ba9ab3dd3db16fe337af7ee1053abdda2703bc3037a0a20750dde6cef"
+      },
+      "03-flop": {
+        "caption": "拉完了",
+        "keyframe": 2,
+        "reason": "摊平的崩溃状态一眼能懂",
+        "source_sha256": "936696b27a6804a0faa251eb37521d7b452997376042f853628b77b8d45bd729"
+      },
+      "04-handmade": {
+        "caption": "手搓中",
+        "keyframe": 1,
+        "reason": "双手正在搓动，符合进行中",
+        "source_sha256": "e0b8e54297e1b508d45f487ec5b5a9a78723e7da02a8960d4f664be0dfddc0fd"
+      },
+      "05-no-idea": {
+        "caption": "我真没招了",
+        "keyframe": 1,
+        "reason": "摊手无奈，表情与文字呼应",
+        "source_sha256": "4c733edc39c344067e2755abc57e8ded4f0e43b603eeff41907e6a1039950ed0"
+      },
+      "06-circle": {
+        "caption": "画地为牢啊",
+        "keyframe": 3,
+        "reason": "坐在圈里疑惑，困住自己的意味明确",
+        "source_sha256": "1dc0217b95763f943e00f9f63c735e0cd45f44b2da745d5f1a5348407f7bbaad"
+      },
+      "07-check-ticket": {
+        "caption": "我要验牌",
+        "keyframe": 1,
+        "reason": "举牌与放大镜分开，脸部无遮挡",
+        "source_sha256": "a67c6d7074807d4a96179cb9cc7e82b70befad6f6371c8ae9d1463e275789fcc"
+      },
+      "08-processing": {
+        "caption": "处理中",
+        "keyframe": 2,
+        "reason": "认真敲电脑，进行中的动作明确",
+        "source_sha256": "f99efe956a9f753eabc869e789d514fb9b372256671611ffc673d5444d93c44b"
+      }
+    },
+    "07-日常有回应": {
+      "01-depart": {
+        "caption": "我出发了",
+        "keyframe": 2,
+        "reason": "迈步挥手，出发状态明确",
+        "source_sha256": "5e696066d4c2f8108700d815313c1d0a1bee4b5d14bab6213920ef910316b755"
+      },
+      "02-home": {
+        "caption": "到家啦",
+        "keyframe": 1,
+        "reason": "钥匙和挥手同时清楚",
+        "source_sha256": "0bd262fcbde5aa09379418e447274cee16bc3c8f03b7419e914a3519d20ebf6a"
+      },
+      "03-meal": {
+        "caption": "开饭了",
+        "keyframe": 0,
+        "reason": "饭碗完整、眼神期待，适合开饭邀约",
+        "source_sha256": "a99f6ca31c5beffe528a83ed158f7bb1d343f505625818f8f0644721626d7352"
+      },
+      "04-hug-you": {
+        "caption": "抱抱你",
+        "keyframe": 1,
+        "reason": "张开双臂，主动邀请拥抱",
+        "source_sha256": "e7c2ec3575e9bb767f0f9e28db07ea4ad29c42e72d2747dc839382a7ed13df3d"
+      },
+      "05-recharge": {
+        "caption": "回血中",
+        "keyframe": 1,
+        "reason": "捧热饮微笑，舒缓回血",
+        "source_sha256": "3c9ad08f370c106c45312de488c47f641613317f0a2074b146672610cd355b8f"
+      },
+      "06-night": {
+        "caption": "晚安老己",
+        "keyframe": 3,
+        "reason": "闭眼盖好被子，晚安情绪完整",
+        "source_sha256": "cdae935ad5924cf87382e9e66de760ed4d60c63d46120348a8948b2e3ae6e92a"
+      },
+      "07-weekend": {
+        "caption": "周末开摆",
+        "keyframe": 2,
+        "reason": "躺进椅子，放松感最强",
+        "source_sha256": "d40bc802ea9956979c6cf2467f0c12d928211ac331f9ce4b35a3d69ef30feadf"
+      },
+      "08-lucky": {
+        "caption": "接住好运",
+        "keyframe": 2,
+        "reason": "抱住红包跳起，接好运的喜悦明确",
+        "source_sha256": "20901b8b3692ae985e8d40163a689f92941558f97a96f0c38e73f8b7964d4d0e"
+      }
+    },
+    "08-羊年一起过": {
+      "01-greeting": {
+        "caption": "羊年大吉",
+        "keyframe": 1,
+        "reason": "拱手致意、文字完整",
+        "source_sha256": "4fa282775276f1a8a3252b37b5778dbbd3a3ddf15d54831bd11938b09edae7c7"
+      },
+      "02-prosper": {
+        "caption": "恭喜发财",
+        "keyframe": 2,
+        "reason": "捧元宝开心祝福",
+        "source_sha256": "a1d907b3a4fbbdcb93c5fe6606dfed2f780e5d6b988de590c3a12a0be23cb41f"
+      },
+      "03-thanks": {
+        "caption": "谢谢红包",
+        "keyframe": 3,
+        "reason": "展示红包并微笑感谢",
+        "source_sha256": "70f131b161c4ede62f01119433179cd3053b5a14791e4b304a5b0075adf9eea9"
+      },
+      "04-dinner": {
+        "caption": "年夜饭开席",
+        "keyframe": 1,
+        "reason": "张开双臂招呼开席",
+        "source_sha256": "a4a3867d8410ac6a7eb492449c7d0857c9ddba011a26836bee31ae92bfb20bc4"
+      },
+      "05-vigil": {
+        "caption": "守岁中",
+        "keyframe": 0,
+        "reason": "困倦睁眼，正在熬夜守岁",
+        "source_sha256": "2ca5d4fbb09e65deda210550be62a8771bbfa5ab9e94ae20959c085408fcf1e1"
+      },
+      "06-visit": {
+        "caption": "串门来啦",
+        "keyframe": 1,
+        "reason": "提礼物挥手，串门问候清晰",
+        "source_sha256": "09bffb6d515d71e7f7b91be4fc400475b8b0f44715eb65cf2a27f49f76483386"
+      },
+      "07-eat-first": {
+        "caption": "先吃饭哈",
+        "keyframe": 1,
+        "reason": "端碗举勺，饭局语气轻松",
+        "source_sha256": "cc2d35f2508e5d82495e49444510d7760887b21cfd3402c5127c24916c00a810"
+      },
+      "08-work": {
+        "caption": "开工大吉",
+        "keyframe": 2,
+        "reason": "挥手开工，红包文字清楚",
+        "source_sha256": "a883195319f169d5df41d3775933589eec67f3e85590ff1a44dd969b9d915a94"
+      }
+    },
+    "09-和你黏一会": {
+      "01-miss": {
+        "caption": "想你了",
+        "keyframe": 2,
+        "reason": "抱手机闭眼想念",
+        "source_sha256": "a9d3c36bf2fd23518e7b17978fd17cba0f87e663afe7e9a489d33c938ffc864e"
+      },
+      "02-nuzzle": {
+        "caption": "贴贴",
+        "keyframe": 2,
+        "reason": "两只羊贴到一起，亲昵关系完整",
+        "source_sha256": "c6fcd9c38a6728c5111a18757a979e5fff15017e12a73d63b9eec3368a8dbe16"
+      },
+      "03-kiss": {
+        "caption": "亲一口",
+        "keyframe": 2,
+        "reason": "亲到脸颊的瞬间",
+        "source_sha256": "4860720ed754d2cf15565dfe0be4a660ee0efc5746d6a99289cbf0aaa30fa586"
+      },
+      "04-heartbeat": {
+        "caption": "心动了",
+        "keyframe": 1,
+        "reason": "睁大眼睛心跳，害羞惊喜",
+        "source_sha256": "8e38dadb1c9303506abe8460ee06ef7d1ff4d338968c8acdba2881aab1dc2df7"
+      },
+      "05-pickup": {
+        "caption": "接你下班",
+        "keyframe": 1,
+        "reason": "撑伞挥手，接下班的道具清楚",
+        "source_sha256": "86de90115120dfc8398b3108a26dbf2f5930e470b635c61016a5db62b59de649"
+      },
+      "06-dinner-date": {
+        "caption": "一起吃饭",
+        "keyframe": 2,
+        "reason": "双方开心回应，饭桌与文案完整",
+        "source_sha256": "9c887d99e12341276a7d527562cfe6c9372e516a1ac27a43ec28b233c6a2ed28"
+      },
+      "07-last-bite": {
+        "caption": "给你留一口",
+        "keyframe": 2,
+        "reason": "递出蛋糕，心意和动作清楚",
+        "source_sha256": "08fc0fb4122253dd0dd5a1b8cdc98a0695b6e99af9f8811083f3df0fc6ea3dfa"
+      },
+      "08-busy": {
+        "caption": "你先忙",
+        "keyframe": 2,
+        "reason": "挥手示意，体谅对方忙碌",
+        "source_sha256": "fdf82308d75ec5f8e5ded9188658fce9cc649599320dc11034a9a5e44fed6b11"
+      },
+      "09-home-check": {
+        "caption": "到家说一声",
+        "keyframe": 1,
+        "reason": "房子上的到家和嘴边说一声均清楚",
+        "source_sha256": "0aae0d9b0d1bcabd6ed82df29c682d93ebed413d5f8427342ed0eb3176d38e1b"
+      },
+      "10-comfort": {
+        "caption": "抱抱就好",
+        "keyframe": 2,
+        "reason": "紧紧抱住爱心，安慰感最强",
+        "source_sha256": "5488bc5a7159159b8ce385380f3751d3aa7b1e80fafa8cd2f5f6affa359dc6eb"
+      },
+      "11-here": {
+        "caption": "我在呢",
+        "keyframe": 2,
+        "reason": "挥手带爱心，积极回应陪伴",
+        "source_sha256": "d9dd68be89aaa1be1926362c00bea9197642fa1f33428bafad8a5224caf54ea0"
+      },
+      "12-sorry": {
+        "caption": "对不起嘛",
+        "keyframe": 1,
+        "reason": "捧花低头，认错而不显冷淡",
+        "source_sha256": "34e50b1febd71c16bc3aa84f4f5be63d35115af22603291f50711b97acd8f4ca"
+      },
+      "13-reconcile": {
+        "caption": "和好好不好",
+        "keyframe": 3,
+        "reason": "牵手靠在一起，和好状态完整",
+        "source_sha256": "ecdcf74b7a74f600aa68b5686106b088cff69018b19d93ecab7ff5db6aabd12b"
+      },
+      "14-smitten": {
+        "caption": "被你拿捏",
+        "keyframe": 1,
+        "reason": "害羞抱心，拿捏后的心动明确",
+        "source_sha256": "3daa445552f98458fe3bb168125a1094a68fa7994669b0d7af58b3af90f1e67d"
+      },
+      "15-goodnight": {
+        "caption": "晚安宝宝",
+        "keyframe": 2,
+        "reason": "闭眼入睡，晚安氛围明确",
+        "source_sha256": "0245249bef56687f368aca3dda7f6fba8532f43d7cdb8213310598d04d26c226"
+      },
+      "16-dream": {
+        "caption": "梦里见",
+        "keyframe": 3,
+        "reason": "枕着月亮睡着，梦里见的语义完整",
+        "source_sha256": "d1e6910f5212ab5e2d21d604fd63904e2b70de38d11ab11976f2df1a1b84fe81"
+      }
+    },
+    "12-有事您招呼": {
+      "01-greeting": {
+        "caption": "老板好",
+        "keyframe": 2,
+        "reason": "微笑挥手，招呼更热情",
+        "source_sha256": "a93d4b847ab12d40e8bb6b44fe53214c15c1aac8fbebf936e743145048f0f503"
+      },
+      "02-invite": {
+        "caption": "今晚有空吗",
+        "keyframe": 1,
+        "reason": "看手机张嘴询问，邀约语气清楚",
+        "source_sha256": "2de8bb99f9e892cd9c3a8fc2d018a669fe29a1d5145524175ccd443e573407b2"
+      },
+      "03-received": {
+        "caption": "收到收到",
+        "keyframe": 2,
+        "reason": "点赞回应，确认信息明确",
+        "source_sha256": "27f347217b31b70d1fe7afc417505d47cee4a28d65bcce9302e3b10b9157f5a5"
+      },
+      "04-arrange": {
+        "caption": "马上安排",
+        "keyframe": 0,
+        "reason": "拿夹板迈步，马上行动",
+        "source_sha256": "9fff47ce137d36e383b1113013986d0d65800187029b2a856ec0d520d766a765"
+      },
+      "05-reserved": {
+        "caption": "给您留着",
+        "keyframe": 1,
+        "reason": "举起爱心，保留的心意清楚",
+        "source_sha256": "660b620739d4d60801078753b81324966bc0596061f8b704f8235f1512c3940c"
+      },
+      "06-take-time": {
+        "caption": "不急慢慢来",
+        "keyframe": 1,
+        "reason": "抬手示意放松，不急不催",
+        "source_sha256": "3b5005cbb59b9fa0c2ac7a07a47e03b53fb371b98cba895944b6f37355cb4b55"
+      },
+      "07-thanks": {
+        "caption": "谢谢照顾",
+        "keyframe": 1,
+        "reason": "微鞠躬，感谢而不过度低头",
+        "source_sha256": "82bcbcb7f1f1c4ae6a6e882047dcba54ec420b7566e8b3cac7a05216b686c9d1"
+      },
+      "08-next-time": {
+        "caption": "下次再约",
+        "keyframe": 2,
+        "reason": "微笑挥手，告别轻松",
+        "source_sha256": "f3db30682ceb10ff4fe177d6912a92c8570e6ab1a89d3bfca4fde842baaff4c6"
+      }
+    }
+  }
+}

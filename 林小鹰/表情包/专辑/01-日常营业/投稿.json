@@ -2,9 +2,9 @@
   "name": "林小鹰日常",
   "description": "一只认真生活、偶尔宕机的小鹰。收到、抱抱、让我缓缓——让林小鹰替你把话说可爱一点。",
   "assets": {
-    "cover-240.png": "封面/cover-240.png",
-    "icon-50.png": "../../账号资料/icon-50.png",
-    "banner-750x400.jpg": "横幅/banner-750x400.jpg"
+    "cover-240.png": "assets/cover-240.png",
+    "icon-50.png": "assets/icon-50.png",
+    "banner-750x400.jpg": "assets/banner-750x400.jpg"
   },
   "meanings": {
     "10": "缓缓",
@@ -23,5 +23,6 @@
     "07": "疑惑",
     "08": "惊慌",
     "09": "崩溃"
-  }
+  },
+  "source_dir": "revisions/图文融合-v2"
 }

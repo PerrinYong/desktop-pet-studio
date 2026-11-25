@@ -1,0 +1,17 @@
+{
+  "created": "2026-11-24",
+  "identity_source": "user-provided image",
+  "generation_tool": "imagegen builtin",
+  "sources": [
+    {
+      "id": "avatar",
+      "path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d60-e18c-7d91-91ae-7b3057e1e5ec\\exec-2fead6ad-e83e-45da-8ce8-de139787e05a.png"
+    },
+    {
+      "id": "banner",
+      "path": "C:\\Users\\prin\\.codex\\generated_images\\01a20d60-e18c-7d91-91ae-7b3057e1e5ec\\exec-5b068a84-305b-4ed1-bf38-5f55fc4980b6.png"
+    }
+  ],
+  "requirements_source": "user-provided screenshots",
+  "submitted": false
+}

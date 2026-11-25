@@ -1,0 +1,59 @@
+{
+  "album": "03-工作接得住",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "收到",
+      "png240_bytes": 66356
+    },
+    {
+      "id": "02",
+      "caption": "我看一下",
+      "png240_bytes": 73257
+    },
+    {
+      "id": "03",
+      "caption": "处理中",
+      "png240_bytes": 66375
+    },
+    {
+      "id": "04",
+      "caption": "对齐一下",
+      "png240_bytes": 74366
+    },
+    {
+      "id": "05",
+      "caption": "辛苦确认",
+      "png240_bytes": 74625
+    },
+    {
+      "id": "06",
+      "caption": "联调中",
+      "png240_bytes": 69658
+    },
+    {
+      "id": "07",
+      "caption": "已同步",
+      "png240_bytes": 80852
+    },
+    {
+      "id": "08",
+      "caption": "可以提测",
+      "png240_bytes": 73551
+    }
+  ]
+}

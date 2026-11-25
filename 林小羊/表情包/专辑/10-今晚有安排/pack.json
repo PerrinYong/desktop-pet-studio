@@ -1,0 +1,153 @@
+{
+  "name": "林小羊",
+  "series": "今晚有安排",
+  "kind": "static",
+  "created": "2026-11-25",
+  "reference": "../../../角色设定/形象探索01-慢半拍过年/raw/character-master.png",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "今日营业",
+      "meaning": "营业",
+      "category": "通用",
+      "scene": "开班时发朋友圈或熟客群，一并注明当日时段",
+      "raw": "raw/01.png",
+      "prompt_file": "prompts/01.md"
+    },
+    {
+      "id": "02",
+      "caption": "客户雷达启动",
+      "meaning": "暖场",
+      "category": "熟客",
+      "scene": "熟客群或朋友圈暖场，一次即可",
+      "raw": "raw/02.png",
+      "prompt_file": "prompts/02.md"
+    },
+    {
+      "id": "03",
+      "caption": "今晚有安排吗",
+      "meaning": "邀约",
+      "category": "通用",
+      "scene": "熟客回访，邀约后给对方留出拒绝空间",
+      "raw": "raw/03.png",
+      "prompt_file": "prompts/03.md"
+    },
+    {
+      "id": "04",
+      "caption": "还有空位",
+      "meaning": "空位",
+      "category": "通用",
+      "scene": "确认有余位后用，正文可补时间",
+      "raw": "raw/04.png",
+      "prompt_file": "prompts/04.md"
+    },
+    {
+      "id": "05",
+      "caption": "几位到店",
+      "meaning": "人数",
+      "category": "通用",
+      "scene": "预订时确认人数，顺便问预计时间",
+      "raw": "raw/05.png",
+      "prompt_file": "prompts/05.md"
+    },
+    {
+      "id": "06",
+      "caption": "我帮您留位",
+      "meaning": "留位",
+      "category": "通用",
+      "scene": "接受留位请求，随后确认时间和保留期限",
+      "raw": "raw/06.png",
+      "prompt_file": "prompts/06.md"
+    },
+    {
+      "id": "07",
+      "caption": "发您定位",
+      "meaning": "定位",
+      "category": "通用",
+      "scene": "和地图定位一起发送",
+      "raw": "raw/07.png",
+      "prompt_file": "prompts/07.md"
+    },
+    {
+      "id": "08",
+      "caption": "到了喊我",
+      "meaning": "迎接",
+      "category": "通用",
+      "scene": "确认到店后接待的联系人",
+      "raw": "raw/08.png",
+      "prompt_file": "prompts/08.md"
+    },
+    {
+      "id": "09",
+      "caption": "时间可以改",
+      "meaning": "改期",
+      "category": "通用",
+      "scene": "确有余位和可改条件时发送",
+      "raw": "raw/09.png",
+      "prompt_file": "prompts/09.md"
+    },
+    {
+      "id": "10",
+      "caption": "谢谢捧场",
+      "meaning": "感谢",
+      "category": "通用",
+      "scene": "接待结束后私聊致谢",
+      "raw": "raw/10.png",
+      "prompt_file": "prompts/10.md"
+    },
+    {
+      "id": "11",
+      "caption": "包厢已留",
+      "meaning": "订包厢",
+      "category": "KTV",
+      "scene": "确实留好包厢后使用，正文补时段与房型",
+      "raw": "raw/11.png",
+      "prompt_file": "prompts/11.md"
+    },
+    {
+      "id": "12",
+      "caption": "麦克风就位",
+      "meaning": "开唱",
+      "category": "KTV",
+      "scene": "开场暖场或确认准备妥当",
+      "raw": "raw/12.png",
+      "prompt_file": "prompts/12.md"
+    },
+    {
+      "id": "13",
+      "caption": "球台已留",
+      "meaning": "订球台",
+      "category": "台球",
+      "scene": "确认台号和时段后发送",
+      "raw": "raw/13.png",
+      "prompt_file": "prompts/13.md"
+    },
+    {
+      "id": "14",
+      "caption": "来打一局",
+      "meaning": "约台球",
+      "category": "台球",
+      "scene": "约熟客来打球，随手补上时间",
+      "raw": "raw/14.png",
+      "prompt_file": "prompts/14.md"
+    },
+    {
+      "id": "15",
+      "caption": "足浴位已留",
+      "meaning": "订足浴",
+      "category": "足浴",
+      "scene": "确认座位与到店时间后发送",
+      "raw": "raw/15.png",
+      "prompt_file": "prompts/15.md"
+    },
+    {
+      "id": "16",
+      "caption": "到店歇会儿",
+      "meaning": "放松",
+      "category": "足浴",
+      "scene": "迎客，引导到店休息",
+      "raw": "raw/16.png",
+      "prompt_file": "prompts/16.md"
+    }
+  ]
+}

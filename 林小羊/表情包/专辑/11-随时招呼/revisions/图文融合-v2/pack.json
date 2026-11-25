@@ -1,0 +1,154 @@
+{
+  "name": "林小羊",
+  "series": "随时招呼",
+  "kind": "static",
+  "created": "2026-11-25",
+  "reference": "../../../角色设定/形象探索01-慢半拍过年/raw/character-master.png",
+  "style_reference": "../10-今晚有安排/raw/10.png",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "随时在线",
+      "meaning": "在线",
+      "category": "开场",
+      "scene": "告诉对方现在方便联系",
+      "raw": "raw/01.png",
+      "prompt_file": "prompts/01.md"
+    },
+    {
+      "id": "02",
+      "caption": "老板好",
+      "meaning": "问候",
+      "category": "招呼",
+      "scene": "轻松礼貌地打招呼",
+      "raw": "raw/02.png",
+      "prompt_file": "prompts/02.md"
+    },
+    {
+      "id": "03",
+      "caption": "好久不见",
+      "meaning": "回访",
+      "category": "回访",
+      "scene": "熟客重启聊天",
+      "raw": "raw/03.png",
+      "prompt_file": "prompts/03.md"
+    },
+    {
+      "id": "04",
+      "caption": "最近忙啥",
+      "meaning": "关心",
+      "category": "回访",
+      "scene": "熟人之间轻松问近况",
+      "raw": "raw/04.png",
+      "prompt_file": "prompts/04.md"
+    },
+    {
+      "id": "05",
+      "caption": "今晚有空吗",
+      "meaning": "邀约",
+      "category": "邀约",
+      "scene": "向熟客发出开放式邀约",
+      "raw": "raw/05.png",
+      "prompt_file": "prompts/05.md"
+    },
+    {
+      "id": "06",
+      "caption": "您看几点",
+      "meaning": "约时间",
+      "category": "确认",
+      "scene": "把时间选择权交给对方",
+      "raw": "raw/06.png",
+      "prompt_file": "prompts/06.md"
+    },
+    {
+      "id": "07",
+      "caption": "几位一起",
+      "meaning": "问人数",
+      "category": "确认",
+      "scene": "确认同行人数",
+      "raw": "raw/07.png",
+      "prompt_file": "prompts/07.md"
+    },
+    {
+      "id": "08",
+      "caption": "收到收到",
+      "meaning": "收到",
+      "category": "回应",
+      "scene": "接收并回应信息",
+      "raw": "raw/08.png",
+      "prompt_file": "prompts/08.md"
+    },
+    {
+      "id": "09",
+      "caption": "马上安排",
+      "meaning": "安排",
+      "category": "回应",
+      "scene": "开始办理对方请求",
+      "raw": "raw/09.png",
+      "prompt_file": "prompts/09.md"
+    },
+    {
+      "id": "10",
+      "caption": "给您留着",
+      "meaning": "预留",
+      "category": "确认",
+      "scene": "确认已经预留",
+      "raw": "raw/10.png",
+      "prompt_file": "prompts/10.md"
+    },
+    {
+      "id": "11",
+      "caption": "发您定位",
+      "meaning": "定位",
+      "category": "指引",
+      "scene": "配合地图位置发送",
+      "raw": "raw/11.png",
+      "prompt_file": "prompts/11.md"
+    },
+    {
+      "id": "12",
+      "caption": "到了喊我",
+      "meaning": "接应",
+      "category": "指引",
+      "scene": "约定碰面时联系",
+      "raw": "raw/12.png",
+      "prompt_file": "prompts/12.md"
+    },
+    {
+      "id": "13",
+      "caption": "不急慢慢来",
+      "meaning": "不催",
+      "category": "等候",
+      "scene": "安抚对方不用赶时间",
+      "raw": "raw/13.png",
+      "prompt_file": "prompts/13.md"
+    },
+    {
+      "id": "14",
+      "caption": "改天也行",
+      "meaning": "改期",
+      "category": "体谅",
+      "scene": "接受改期给对方台阶",
+      "raw": "raw/14.png",
+      "prompt_file": "prompts/14.md"
+    },
+    {
+      "id": "15",
+      "caption": "谢谢照顾",
+      "meaning": "感谢",
+      "category": "致谢",
+      "scene": "表达被支持的感谢",
+      "raw": "raw/15.png",
+      "prompt_file": "prompts/15.md"
+    },
+    {
+      "id": "16",
+      "caption": "下次再约",
+      "meaning": "再约",
+      "category": "收尾",
+      "scene": "自然收尾并留下下次联系空间",
+      "raw": "raw/16.png",
+      "prompt_file": "prompts/16.md"
+    }
+  ]
+}

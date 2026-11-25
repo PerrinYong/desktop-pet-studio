@@ -1,0 +1,39 @@
+{
+  "album": "04-羊毛失控",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "cheer",
+      "caption": "好耶",
+      "png240_bytes": 70416,
+      "gif_bytes": 139708,
+      "frames": 8,
+      "distinct_poses": 4,
+      "duration_ms": 800,
+      "loop": 0
+    },
+    {
+      "id": "side-hop",
+      "caption": "反复横跳",
+      "png240_bytes": 42256,
+      "gif_bytes": 99327,
+      "frames": 8,
+      "distinct_poses": 4,
+      "duration_ms": 800,
+      "loop": 0
+    }
+  ]
+}

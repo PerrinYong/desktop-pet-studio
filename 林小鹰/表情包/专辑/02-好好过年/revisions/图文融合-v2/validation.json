@@ -1,0 +1,139 @@
+{
+  "album": "02-好好过年",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "回家过年",
+      "png240_bytes": 102523
+    },
+    {
+      "id": "02",
+      "caption": "一路平安",
+      "png240_bytes": 103768
+    },
+    {
+      "id": "03",
+      "caption": "到家啦",
+      "png240_bytes": 100457
+    },
+    {
+      "id": "04",
+      "caption": "年货备齐",
+      "png240_bytes": 108473
+    },
+    {
+      "id": "05",
+      "caption": "接福啦",
+      "png240_bytes": 101280
+    },
+    {
+      "id": "06",
+      "caption": "开饭啦",
+      "png240_bytes": 108709
+    },
+    {
+      "id": "07",
+      "caption": "年年有余",
+      "png240_bytes": 108629
+    },
+    {
+      "id": "08",
+      "caption": "新年快乐",
+      "png240_bytes": 106080
+    },
+    {
+      "id": "09",
+      "caption": "给您拜年",
+      "png240_bytes": 111671
+    },
+    {
+      "id": "10",
+      "caption": "身体健康",
+      "png240_bytes": 107798
+    },
+    {
+      "id": "11",
+      "caption": "阖家幸福",
+      "png240_bytes": 105116
+    },
+    {
+      "id": "12",
+      "caption": "恭喜发财",
+      "png240_bytes": 106199
+    },
+    {
+      "id": "13",
+      "caption": "红包拿来",
+      "png240_bytes": 107474
+    },
+    {
+      "id": "14",
+      "caption": "谢谢红包",
+      "png240_bytes": 98791
+    },
+    {
+      "id": "15",
+      "caption": "心意收到",
+      "png240_bytes": 89248
+    },
+    {
+      "id": "16",
+      "caption": "同喜同喜",
+      "png240_bytes": 93505
+    },
+    {
+      "id": "17",
+      "caption": "来串门啦",
+      "png240_bytes": 104699
+    },
+    {
+      "id": "18",
+      "caption": "吃好喝好",
+      "png240_bytes": 104735
+    },
+    {
+      "id": "19",
+      "caption": "真吃不下了",
+      "png240_bytes": 108296
+    },
+    {
+      "id": "20",
+      "caption": "先过个好年",
+      "png240_bytes": 108736
+    },
+    {
+      "id": "21",
+      "caption": "接财神",
+      "png240_bytes": 101358
+    },
+    {
+      "id": "22",
+      "caption": "开工大吉",
+      "png240_bytes": 92042
+    },
+    {
+      "id": "23",
+      "caption": "团团圆圆",
+      "png240_bytes": 112569
+    },
+    {
+      "id": "24",
+      "caption": "下次再聚",
+      "png240_bytes": 110905
+    }
+  ]
+}

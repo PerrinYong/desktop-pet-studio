@@ -1,0 +1,99 @@
+{
+  "album": "11-随时招呼",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "随时在线",
+      "png240_bytes": 78117
+    },
+    {
+      "id": "02",
+      "caption": "老板好",
+      "png240_bytes": 62978
+    },
+    {
+      "id": "03",
+      "caption": "好久不见",
+      "png240_bytes": 68664
+    },
+    {
+      "id": "04",
+      "caption": "最近忙啥",
+      "png240_bytes": 77699
+    },
+    {
+      "id": "05",
+      "caption": "今晚有空吗",
+      "png240_bytes": 63605
+    },
+    {
+      "id": "06",
+      "caption": "您看几点",
+      "png240_bytes": 80897
+    },
+    {
+      "id": "07",
+      "caption": "几位一起",
+      "png240_bytes": 82748
+    },
+    {
+      "id": "08",
+      "caption": "收到收到",
+      "png240_bytes": 64226
+    },
+    {
+      "id": "09",
+      "caption": "马上安排",
+      "png240_bytes": 58021
+    },
+    {
+      "id": "10",
+      "caption": "给您留着",
+      "png240_bytes": 70612
+    },
+    {
+      "id": "11",
+      "caption": "发您定位",
+      "png240_bytes": 75940
+    },
+    {
+      "id": "12",
+      "caption": "到了喊我",
+      "png240_bytes": 67911
+    },
+    {
+      "id": "13",
+      "caption": "不急慢慢来",
+      "png240_bytes": 75006
+    },
+    {
+      "id": "14",
+      "caption": "改天也行",
+      "png240_bytes": 60499
+    },
+    {
+      "id": "15",
+      "caption": "谢谢照顾",
+      "png240_bytes": 63419
+    },
+    {
+      "id": "16",
+      "caption": "下次再约",
+      "png240_bytes": 57339
+    }
+  ]
+}

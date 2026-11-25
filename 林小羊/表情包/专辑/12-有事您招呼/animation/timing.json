@@ -1,0 +1,263 @@
+{
+  "files": [
+    {
+      "file": "exports/老板好.gif",
+      "caption": "老板好",
+      "sha256": "d6309af8316fe093762374c33f62c04d4b33767763a354ab4888f159bff795fb",
+      "sequence": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "loop_ms": 1600,
+      "frame_ms": 100,
+      "bytes": 196553,
+      "id": "01-greeting",
+      "size": [
+        240,
+        240
+      ],
+      "loop": "forever"
+    },
+    {
+      "file": "exports/今晚有空吗.gif",
+      "caption": "今晚有空吗",
+      "sha256": "5b3e4fde5c11ac44d0480b2f999b531405250ef9171b7d2feffdb0e46e9d718e",
+      "sequence": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1,
+        0,
+        0
+      ],
+      "loop_ms": 1600,
+      "frame_ms": 100,
+      "bytes": 185671,
+      "id": "02-invite",
+      "size": [
+        240,
+        240
+      ],
+      "loop": "forever"
+    },
+    {
+      "file": "exports/收到收到.gif",
+      "caption": "收到收到",
+      "sha256": "03148c56394f4c4dd722b687128f4994913cb2c65fd6a1232dc044a36b9f0ced",
+      "sequence": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        0,
+        0
+      ],
+      "loop_ms": 1600,
+      "frame_ms": 100,
+      "bytes": 181565,
+      "id": "03-received",
+      "size": [
+        240,
+        240
+      ],
+      "loop": "forever"
+    },
+    {
+      "file": "exports/马上安排.gif",
+      "caption": "马上安排",
+      "sha256": "ae9d385ea0df1cbbe36d836d1e813a59128b384dfba042892bd94e151eed9a61",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        0,
+        1,
+        2,
+        3,
+        0,
+        1,
+        2,
+        3,
+        0,
+        1,
+        2,
+        3
+      ],
+      "loop_ms": 1600,
+      "frame_ms": 100,
+      "bytes": 185885,
+      "id": "04-arrange",
+      "size": [
+        240,
+        240
+      ],
+      "loop": "forever"
+    },
+    {
+      "file": "exports/给您留着.gif",
+      "caption": "给您留着",
+      "sha256": "66f6d56bd10433a52b4f486450697a4b22a182176e7bf122262af10ae8f1a340",
+      "sequence": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1,
+        0,
+        0
+      ],
+      "loop_ms": 1600,
+      "frame_ms": 100,
+      "bytes": 198933,
+      "id": "05-reserved",
+      "size": [
+        240,
+        240
+      ],
+      "loop": "forever"
+    },
+    {
+      "file": "exports/不急慢慢来.gif",
+      "caption": "不急慢慢来",
+      "sha256": "567f0eb0c219293ad0b62b2851ac45dd6491986107ebbea4863c140c972d1eb8",
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1
+      ],
+      "loop_ms": 1600,
+      "frame_ms": 100,
+      "bytes": 215523,
+      "id": "06-take-time",
+      "size": [
+        240,
+        240
+      ],
+      "loop": "forever"
+    },
+    {
+      "file": "exports/谢谢照顾.gif",
+      "caption": "谢谢照顾",
+      "sha256": "b8ca4b58224dc59cfbbb2573531a1eef61e96f7f787008e31769db1d68911384",
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1,
+        0,
+        0
+      ],
+      "loop_ms": 1600,
+      "frame_ms": 100,
+      "bytes": 191389,
+      "id": "07-thanks",
+      "size": [
+        240,
+        240
+      ],
+      "loop": "forever"
+    },
+    {
+      "file": "exports/下次再约.gif",
+      "caption": "下次再约",
+      "sha256": "3fc7432304a9edcc3cde67017ef4b7b6aef64dcaf4e57c1e5db6b47565f2e0d0",
+      "sequence": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "loop_ms": 1600,
+      "frame_ms": 100,
+      "bytes": 180313,
+      "id": "08-next-time",
+      "size": [
+        240,
+        240
+      ],
+      "loop": "forever"
+    }
+  ],
+  "kind": "keyframe_animation",
+  "fps": 10,
+  "frames_per_sheet": 4
+}

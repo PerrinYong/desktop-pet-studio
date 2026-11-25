@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-26",
+  "direction": "文字参与动作与情绪，避免固定底部字幕",
+  "items": [
+    {
+      "key": "11-01",
+      "album": "11-随时招呼",
+      "id": "01",
+      "caption": "随时在线",
+      "meaning": "在线",
+      "layout": "Sheep holds coral phone near cheek. 随时 tucked beside ear, 在线 in large loose two-character lettering beside phone, a small teal signal arc connects them. Phone, face and words form one compact diagonal silhouette.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「随时在线」. Sheep holds coral phone near cheek. 随时 tucked beside ear, 在线 in large loose two-character lettering beside phone, a small teal signal arc connects them. Phone, face and words form one compact diagonal silhouette. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-02",
+      "album": "11-随时招呼",
+      "id": "02",
+      "caption": "老板好",
+      "meaning": "问候",
+      "layout": "",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「老板好」.  Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": true
+    },
+    {
+      "key": "11-03",
+      "album": "11-随时招呼",
+      "id": "03",
+      "caption": "好久不见",
+      "meaning": "回访",
+      "layout": "Sheep opens both forehooves wide, eyes delighted. 好久 floats at upper left in a soft arc following raised ear; 不见 on right along open forehoof. Words reach around the face like a warm greeting, not a header row.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「好久不见」. Sheep opens both forehooves wide, eyes delighted. 好久 floats at upper left in a soft arc following raised ear; 不见 on right along open forehoof. Words reach around the face like a warm greeting, not a header row. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-04",
+      "album": "11-随时招呼",
+      "id": "04",
+      "caption": "最近忙啥",
+      "meaning": "关心",
+      "layout": "Sheep seated chin on one hoof, curious tilted head. 最近 small above left horn, 忙啥 larger in an informal small speech shape next to mouth on right. Keep lounging silhouette overlapping speech tail.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「最近忙啥」. Sheep seated chin on one hoof, curious tilted head. 最近 small above left horn, 忙啥 larger in an informal small speech shape next to mouth on right. Keep lounging silhouette overlapping speech tail. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-05",
+      "album": "11-随时招呼",
+      "id": "05",
+      "caption": "今晚有空吗",
+      "meaning": "邀约",
+      "layout": "",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「今晚有空吗」.  Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": true
+    },
+    {
+      "key": "11-06",
+      "album": "11-随时招呼",
+      "id": "06",
+      "caption": "您看几点",
+      "meaning": "约时间",
+      "layout": "Sheep presents wristwatch. 您看 in small speech lettering beside face left; 几点 larger curled around wristwatch on right, watch touches the last character edge. No clock numerals.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「您看几点」. Sheep presents wristwatch. 您看 in small speech lettering beside face left; 几点 larger curled around wristwatch on right, watch touches the last character edge. No clock numerals. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-07",
+      "album": "11-随时招呼",
+      "id": "07",
+      "caption": "几位一起",
+      "meaning": "问人数",
+      "layout": "Sheep holds three little generic person-shaped tokens. 几位 hand lettering curves around raised asking hoof near face, 一起 sits closely next to group tokens. Avoid separate title and body.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「几位一起」. Sheep holds three little generic person-shaped tokens. 几位 hand lettering curves around raised asking hoof near face, 一起 sits closely next to group tokens. Avoid separate title and body. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-08",
+      "album": "11-随时招呼",
+      "id": "08",
+      "caption": "收到收到",
+      "meaning": "收到",
+      "layout": "Sheep nods giving thumbs up near cheek. First 收到 in large slightly tilted handwritten lettering to LEFT of face at mid-height, second 收到 smaller raised to RIGHT near thumb, call-and-response arrangement surrounding the character. No bottom caption.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「收到收到」. Sheep nods giving thumbs up near cheek. First 收到 in large slightly tilted handwritten lettering to LEFT of face at mid-height, second 收到 smaller raised to RIGHT near thumb, call-and-response arrangement surrounding the character. No bottom caption. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-09",
+      "album": "11-随时招呼",
+      "id": "09",
+      "caption": "马上安排",
+      "meaning": "安排",
+      "layout": "",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「马上安排」.  Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": true
+    },
+    {
+      "key": "11-10",
+      "album": "11-随时招呼",
+      "id": "10",
+      "caption": "给您留着",
+      "meaning": "预留",
+      "layout": "Sheep hugs a coral heart. 给您 small beside head, 留着 large handwritten ON the heart, arms wrap around lettering without hiding it. Make message physically held close, face visible.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「给您留着」. Sheep hugs a coral heart. 给您 small beside head, 留着 large handwritten ON the heart, arms wrap around lettering without hiding it. Make message physically held close, face visible. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-11",
+      "album": "11-随时招呼",
+      "id": "11",
+      "caption": "发您定位",
+      "meaning": "定位",
+      "layout": "Sheep presents large coral map pin in one hand. 发您 beside face on left, 定位 appears on a gently curved teal swoosh ending at the pin on right. Letters and pin interlock; keep center pin opening visible.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「发您定位」. Sheep presents large coral map pin in one hand. 发您 beside face on left, 定位 appears on a gently curved teal swoosh ending at the pin on right. Letters and pin interlock; keep center pin opening visible. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-12",
+      "album": "11-随时招呼",
+      "id": "12",
+      "caption": "到了喊我",
+      "meaning": "接应",
+      "layout": "Sheep cups hoof to ear listening, face right of center. 到了 small to left of cheek, 喊我 large arch around raised ear and open hoof, natural spoken call.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「到了喊我」. Sheep cups hoof to ear listening, face right of center. 到了 small to left of cheek, 喊我 large arch around raised ear and open hoof, natural spoken call. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-13",
+      "album": "11-随时招呼",
+      "id": "13",
+      "caption": "不急慢慢来",
+      "meaning": "不催",
+      "layout": "Sheep seated cross-legged holding calming open hoof outward. 不急 large beside the open hoof upper left; 慢慢来 in softly descending gentle arc on right matching the relaxed shoulder contour. Loose lettering and calm expression; no banner or footer.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「不急慢慢来」. Sheep seated cross-legged holding calming open hoof outward. 不急 large beside the open hoof upper left; 慢慢来 in softly descending gentle arc on right matching the relaxed shoulder contour. Loose lettering and calm expression; no banner or footer. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-14",
+      "album": "11-随时招呼",
+      "id": "14",
+      "caption": "改天也行",
+      "meaning": "改期",
+      "layout": "Sheep shrugs with both hooves open. 改天 just above left palm, 也行 above right palm as if weighing two options, face centered between words lower, hands visually supporting the two word clusters. Natural reassuring smile.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「改天也行」. Sheep shrugs with both hooves open. 改天 just above left palm, 也行 above right palm as if weighing two options, face centered between words lower, hands visually supporting the two word clusters. Natural reassuring smile. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    },
+    {
+      "key": "11-15",
+      "album": "11-随时招呼",
+      "id": "15",
+      "caption": "谢谢照顾",
+      "meaning": "感谢",
+      "layout": "",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「谢谢照顾」.  Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": true
+    },
+    {
+      "key": "11-16",
+      "album": "11-随时招呼",
+      "id": "16",
+      "caption": "下次再约",
+      "meaning": "再约",
+      "layout": "Sheep turns back waving. 下次 large beside trailing ear, 再约 in an upward diagonal along waving forehoof on right. Two small curved motion strokes connect letters and hoof. Keep text part of goodbye motion.",
+      "prompt": "Use case: illustration-story. Recompose a Lin Xiaoyang Chinese chat sticker with integrated Chinese hand lettering. Reference is identity only: exact cream cloud fleece, two beige spiral horns, oat face, floppy ears, charcoal outlines, small teal bow, warm mildly tired humor. This is a finished sticker with correct Chinese text INSIDE its composition. Required exact phrase: 「下次再约」. Sheep turns back waving. 下次 large beside trailing ear, 再约 in an upward diagonal along waving forehoof on right. Two small curved motion strokes connect letters and hoof. Keep text part of goodbye motion. Exact text must be fully readable and correctly spelled, dark chunky friendly hand-drawn Chinese lettering matching illustration, subtly irregular baseline, thin warm cream outline for dark background readability. Hierarchy should favor legibility at 240 pixels. Natural text-action relationship, compact interlocking composition filling square, face and horns unobstructed. No detached subtitle band, no footer, no rigid header/illustration split, no watermark, extra slogan, white matte or ground shadow. True alpha transparency in all blank areas.",
+      "existing": false
+    }
+  ]
+}

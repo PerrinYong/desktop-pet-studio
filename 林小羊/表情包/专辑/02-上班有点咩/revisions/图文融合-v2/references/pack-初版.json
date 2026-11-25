@@ -1,0 +1,99 @@
+{
+  "name": "林小羊",
+  "series": "上班有点咩",
+  "audience": "熟悉同事、朋友私聊",
+  "purpose": "用自己的困倦、开会与改稿状态作轻度自嘲",
+  "created": "2026-11-25",
+  "kind": "static",
+  "production_status": "created_and_locally_validated",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "人已到工位",
+      "meaning": "到岗",
+      "scene": "刚到工位",
+      "display_scene": "刚到工位",
+      "usage_note": "人在工位，精神尚未上线；熟人自嘲",
+      "pose": "Sheep wool body slumps like a puddle on a small office chair before a plain laptop, tiny face barely above desk edge, one little hoof raises weakly. Minimal desk legs, no letters on screen.",
+      "raw": "raw/01.png",
+      "prompt_file": "prompts/01.md"
+    },
+    {
+      "id": "02",
+      "caption": "会还没开完",
+      "meaning": "开会",
+      "scene": "会议漫长",
+      "display_scene": "会议漫长",
+      "usage_note": "表达自己的疲倦，不暗示他人说话无价值",
+      "pose": "Sheep has melted across a small meeting tabletop, one horn and tiny eyes peeking out, a tiny simple clock with no numbers beside it, one upright microphone. Very low broad body.",
+      "raw": "raw/02.png",
+      "prompt_file": "prompts/02.md"
+    },
+    {
+      "id": "03",
+      "caption": "又改一版",
+      "meaning": "改稿",
+      "scene": "反复修改",
+      "display_scene": "反复修改",
+      "usage_note": "以自己的处境自嘲，避免对需求方发火",
+      "pose": "Sheep mechanically pushes one blank paper onto a comically tall slightly leaning stack, face deadpan and wool body squashed beneath own short arm reach; three sheets maximum separated visibly, not complex.",
+      "raw": "raw/03.png",
+      "prompt_file": "prompts/03.md"
+    },
+    {
+      "id": "04",
+      "caption": "脑子在加载",
+      "meaning": "思考",
+      "scene": "暂时反应不过来",
+      "display_scene": "暂时反应不过来",
+      "usage_note": "暂停思考，不许诺已完成",
+      "pose": "Sheep sits skewed, two tiny wide-set dots staring blankly, one small segmented loading circle hovering above forehead, one hoof scratching head. No numerals or extra text.",
+      "raw": "raw/04.png",
+      "prompt_file": "prompts/04.md"
+    },
+    {
+      "id": "05",
+      "caption": "这饼有点大",
+      "meaning": "吐槽",
+      "scene": "熟人聊宏大承诺",
+      "display_scene": "熟人聊宏大承诺",
+      "usage_note": "讽刺承诺与现实的落差；仅共享语境的熟人",
+      "pose": "A tiny flattened sheep struggles to hold ONE absurdly giant plain round pancake above its head, comically tiny hooves visible, sheep eyes glance sideways. Pancake is simple tan disc, no engraved characters.",
+      "raw": "raw/05.png",
+      "prompt_file": "prompts/05.md"
+    },
+    {
+      "id": "06",
+      "caption": "下班再说",
+      "meaning": "收尾",
+      "scene": "非紧急闲聊收尾",
+      "display_scene": "非紧急闲聊收尾",
+      "usage_note": "不代替对紧急工作与期限的明确回应",
+      "pose": "Sheep happily leans halfway out through a simple minimal open door outline, small bag in one hoof and other hoof waving back; body elongated horizontally in eager exit.",
+      "raw": "raw/06.png",
+      "prompt_file": "prompts/06.md"
+    },
+    {
+      "id": "07",
+      "caption": "我先喝口水",
+      "meaning": "缓缓",
+      "scene": "工作中短暂缓冲",
+      "display_scene": "工作中短暂缓冲",
+      "usage_note": "给自己一个喘息机会",
+      "pose": "Sheep collapsed low hugging an oversized plain mug with both hooves, face nearly hidden behind rim, small calm dot eyes. No printed text on mug.",
+      "raw": "raw/07.png",
+      "prompt_file": "prompts/07.md"
+    },
+    {
+      "id": "08",
+      "caption": "工资撑着我",
+      "meaning": "自嘲",
+      "scene": "朋友间聊工作动力",
+      "display_scene": "朋友间聊工作动力",
+      "usage_note": "表达个人处境，不贬低职业",
+      "pose": "Comically floppy sheep propped upright by ONE plain red pay envelope used like a cushion underneath, tiny hooves splayed, weary but softly amused face, no money amounts.",
+      "raw": "raw/08.png",
+      "prompt_file": "prompts/08.md"
+    }
+  ]
+}

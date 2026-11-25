@@ -1,0 +1,80 @@
+[
+  {
+    "id": "01-depart",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b9ae618a-d8d5-4559-b250-6e3004924484.png",
+    "archived": "raw/01-depart-sheet.png",
+    "prompt": "prompts/01-depart.md",
+    "reference": "references/character.png",
+    "sha256": "88f9342f5aa803334cad6f597fe63d8f33107ecf4ee0d2ceb6f987b971cc86b1"
+  },
+  {
+    "id": "02-home-repair",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-c3f37394-573c-4a94-83ad-8a7cd24bea08.png",
+    "archived": "raw/02-home-repair.png",
+    "prompt": "prompts/02-home-repair.md",
+    "sha256": "d8c4276aaa2d9ffb01637f0d4903ba4c1ae0bb66daf36a19d36416326ef44b08"
+  },
+  {
+    "id": "02-home",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-21925681-4b92-49fe-94f8-afc8805d328a.png",
+    "archived": "raw/02-home-sheet.png",
+    "prompt": "prompts/02-home.md",
+    "reference": "references/character.png",
+    "sha256": "aba2dc48b7594a0fb7df595b5c45b3988842f117d5eb5c65272aeb351bc95936"
+  },
+  {
+    "id": "03-meal-repair",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-6e38e86a-b6e7-4933-bd2a-7c7c7daa43b5.png",
+    "archived": "raw/03-meal-repair.png",
+    "prompt": "prompts/03-meal-repair.md",
+    "sha256": "4ff664948339e2490c68c7e4ac3e096739697e0a53ecb19986cdc2119dfc3410"
+  },
+  {
+    "id": "03-meal",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-0b4e1fe6-765e-4464-8c34-75b93a41a0ec.png",
+    "archived": "raw/03-meal-sheet.png",
+    "prompt": "prompts/03-meal.md",
+    "reference": "references/character.png",
+    "sha256": "ac72aa043cf5568001a38471029886d04b1a5514592a24715fa188400176e182"
+  },
+  {
+    "id": "04-hug-you",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-292c7454-a336-4548-93f0-e8bafb8918d0.png",
+    "archived": "raw/04-hug-you-sheet.png",
+    "prompt": "prompts/04-hug-you.md",
+    "reference": "references/character.png",
+    "sha256": "f335c9c3079c2977f696db226e19a8bd570859407a21f348eabf23195bf2aee2"
+  },
+  {
+    "id": "05-recharge",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-14718677-600d-4f38-87c4-81862a02ad2a.png",
+    "archived": "raw/05-recharge-sheet.png",
+    "prompt": "prompts/05-recharge.md",
+    "reference": "references/character.png",
+    "sha256": "e422e17270eacef8cb6c49d8b0795de7d317daeebf929e20a4c46f3328ec4856"
+  },
+  {
+    "id": "06-night",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b7945285-e334-4ad1-a1f1-35e3f89501b5.png",
+    "archived": "raw/06-night-sheet.png",
+    "prompt": "prompts/06-night.md",
+    "reference": "references/character.png",
+    "sha256": "4b7249c15b3501639e563988d93e198739763b1b4f0090787626a37d8c5f56c9"
+  },
+  {
+    "id": "07-weekend",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-2a19f2be-8152-44b9-ad61-4eeeebb34870.png",
+    "archived": "raw/07-weekend-sheet.png",
+    "prompt": "prompts/07-weekend.md",
+    "reference": "references/character.png",
+    "sha256": "6406f799ae9436ba373778159021e9ef19caf3ce0cec94593d86c6d82b88c05c"
+  },
+  {
+    "id": "08-lucky",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-20928ec5-4235-480a-a022-9a0777ade414.png",
+    "archived": "raw/08-lucky-sheet.png",
+    "prompt": "prompts/08-lucky.md",
+    "reference": "references/character.png",
+    "sha256": "149a0bbd6136d9edf73cffcb21ca50ed988d79a7ff6bc46b182474541c8162d5"
+  }
+]

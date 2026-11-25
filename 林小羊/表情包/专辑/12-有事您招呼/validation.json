@@ -1,0 +1,280 @@
+{
+  "ok": true,
+  "created": "2026-11-25",
+  "originals_hash_verified": 13,
+  "local_links_valid": true,
+  "wechat_client_tested": false,
+  "static_pairs_verified": 8,
+  "support": [
+    {
+      "file": "assets/cover-240.png",
+      "sha256": "ca10cabd125b0e1e4e3dc42d78986d548259258c07538c041ce7a02eeeb45770"
+    },
+    {
+      "file": "assets/icon-50.png",
+      "sha256": "03a84e7d88933100e2a8d86e0fb14c4879e0cc521725406b36ffca03d54147ff"
+    },
+    {
+      "file": "assets/banner-750x400.jpg",
+      "sha256": "47fccf18fd54f8ea56f02a0b791bbe5675bd7291f9d327f8aec870695d61ee4e"
+    }
+  ],
+  "files": [
+    {
+      "file": "animation/exports/老板好.gif",
+      "bytes": 196553,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "d6309af8316fe093762374c33f62c04d4b33767763a354ab4888f159bff795fb"
+    },
+    {
+      "file": "animation/exports/今晚有空吗.gif",
+      "bytes": 185671,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "5b3e4fde5c11ac44d0480b2f999b531405250ef9171b7d2feffdb0e46e9d718e"
+    },
+    {
+      "file": "animation/exports/收到收到.gif",
+      "bytes": 181565,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "03148c56394f4c4dd722b687128f4994913cb2c65fd6a1232dc044a36b9f0ced"
+    },
+    {
+      "file": "animation/exports/马上安排.gif",
+      "bytes": 185885,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "ae9d385ea0df1cbbe36d836d1e813a59128b384dfba042892bd94e151eed9a61"
+    },
+    {
+      "file": "animation/exports/给您留着.gif",
+      "bytes": 198933,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "66f6d56bd10433a52b4f486450697a4b22a182176e7bf122262af10ae8f1a340"
+    },
+    {
+      "file": "animation/exports/不急慢慢来.gif",
+      "bytes": 215523,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "567f0eb0c219293ad0b62b2851ac45dd6491986107ebbea4863c140c972d1eb8"
+    },
+    {
+      "file": "animation/exports/谢谢照顾.gif",
+      "bytes": 191389,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "b8ca4b58224dc59cfbbb2573531a1eef61e96f7f787008e31769db1d68911384"
+    },
+    {
+      "file": "animation/exports/下次再约.gif",
+      "bytes": 180313,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "3fc7432304a9edcc3cde67017ef4b7b6aef64dcaf4e57c1e5db6b47565f2e0d0"
+    }
+  ]
+}

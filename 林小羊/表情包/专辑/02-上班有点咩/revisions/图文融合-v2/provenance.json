@@ -1,0 +1,66 @@
+[
+  {
+    "id": "01",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-1f13c83f-e359-4647-abdc-900fb41bc858.png",
+    "archived": "raw/01.png",
+    "prompt": "prompts/01.md",
+    "reference": "references/character.png",
+    "sha256": "c502f8e2ef810a495ddc12119bdd1a090e57b38774abf8e62d1f52ff21d323fd"
+  },
+  {
+    "id": "02",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-d5109250-9c82-41eb-a73a-838f4f78366b.png",
+    "archived": "raw/02.png",
+    "prompt": "prompts/02.md",
+    "reference": "references/character.png",
+    "sha256": "f0e9d56f286b255dc769426d576fb7bc86eee400a3eb97b1f5590d3e7318c60e"
+  },
+  {
+    "id": "03",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f289a89f-e086-4b53-b9cc-214bab8bdca7.png",
+    "archived": "raw/03.png",
+    "prompt": "prompts/03.md",
+    "reference": "references/character.png",
+    "sha256": "c6714558b77f2adbe3b9bc98396519d9aa85ac0e531810edfe515163a4921f11"
+  },
+  {
+    "id": "04",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-32234441-9ca3-47d0-b798-76ac366089b8.png",
+    "archived": "raw/04.png",
+    "prompt": "prompts/04.md",
+    "reference": "references/character.png",
+    "sha256": "17ee05b5d7a6e8d6678144c59a9c74f14f56e6b3aaca467065711f78f847a9d8"
+  },
+  {
+    "id": "05",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-2cafb0f5-910e-4446-9140-425820047a00.png",
+    "archived": "raw/05.png",
+    "prompt": "prompts/05.md",
+    "reference": "references/character.png",
+    "sha256": "32af05fe8caa1b55f9e5b3df16fef42017a704f390c33f0edbcbf67fade5a180"
+  },
+  {
+    "id": "06",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-518ea91f-d6d1-4939-a210-bfbd1ba17221.png",
+    "archived": "raw/06.png",
+    "prompt": "prompts/06.md",
+    "reference": "references/character.png",
+    "sha256": "ab82e83c419d2711e070818baf4e1a72c60ebf0eb804c820be21057cefd3f92d"
+  },
+  {
+    "id": "07",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9245c688-f991-44fb-9723-6a6d1d75b54c.png",
+    "archived": "raw/07.png",
+    "prompt": "prompts/07.md",
+    "reference": "references/character.png",
+    "sha256": "9e6d0137d8042cdbaae5de5ae0c020fa1e05f547aef94a3a33415edff5cc72e2"
+  },
+  {
+    "id": "08",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9b7197cf-9214-4897-aa29-b7fbf1fe40c9.png",
+    "archived": "raw/08.png",
+    "prompt": "prompts/08.md",
+    "reference": "references/character.png",
+    "sha256": "38f2ebb61d96cc9087cb62622c4598fce135d428404b8ac75b3445c5b162f318"
+  }
+]

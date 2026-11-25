@@ -1,0 +1,20 @@
+{
+  "reviewed": "2026-11-25",
+  "keyframes_reviewed": 32,
+  "light_and_dark_reviewed": true,
+  "repairs": [
+    {
+      "id": "02-invite",
+      "reason": "第一格手机持握侧与其余三格不一致，定向修正为同侧"
+    },
+    {
+      "id": "04-arrange",
+      "reason": "第三格后腿姿态与第一格重复，修正为相反步态"
+    },
+    {
+      "id": "08-next-time",
+      "reason": "第二格挥手侧不一致，修正为同侧挥手"
+    }
+  ],
+  "notes": "逐格检查形象、道具、手脚、字幕与完整构图；GIF 时间序列与透明残影由验证脚本检查。未在微信客户端实发。"
+}

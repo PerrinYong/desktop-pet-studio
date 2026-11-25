@@ -1,0 +1,109 @@
+{
+  "generator": "built-in image_gen",
+  "files": [
+    {
+      "id": "01-greeting",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-dd67ecf4-f82a-4aeb-becc-febc2543299d.png",
+      "archived": "animation/raw/01-greeting-sheet.png",
+      "prompt": "animation/prompts/01-greeting.md",
+      "selected": true,
+      "sha256": "3c2a31cd17dc6dfe358851d5538e44575ce0975f6edd165faea96401fbef11fb"
+    },
+    {
+      "id": "02-invite",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-765c07bc-f7e3-450f-a8a3-3b48ee95a634.png",
+      "archived": "animation/raw/02-invite-sheet.png",
+      "prompt": "animation/prompts/02-invite-repair.md",
+      "selected": true,
+      "sha256": "37e972f806c53314dc9fc8b59f88d0f2b59daa158754e6ecb5254ab2b045e228"
+    },
+    {
+      "id": "02-invite-initial",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b2001db2-77ba-4bbc-8a55-bd11d2498053.png",
+      "archived": "animation/raw/02-invite-initial.png",
+      "prompt": "animation/prompts/02-invite.md",
+      "selected": false,
+      "sha256": "318721a12bf943b9c1188ee41ee8aa0ce4586537c777a1cc80b677dc86fcb0ec"
+    },
+    {
+      "id": "03-received",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-eff4ce8b-cf8f-46f4-8ee5-8c42f45478c1.png",
+      "archived": "animation/raw/03-received-sheet.png",
+      "prompt": "animation/prompts/03-received.md",
+      "selected": true,
+      "sha256": "0a26a01acfd5498e06e37c03a80a9c767adbd72aee2c64ccc0b505c8a3316a7d"
+    },
+    {
+      "id": "04-arrange",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b1aaa9dc-5f91-482a-b161-ccfcebf18ebc.png",
+      "archived": "animation/raw/04-arrange-sheet.png",
+      "prompt": "animation/prompts/04-arrange-repair.md",
+      "selected": true,
+      "sha256": "9c1f3ec72517f797989ba474b199999f5564053aaabcbe8c147c02d3d55cf1ee"
+    },
+    {
+      "id": "04-arrange-initial",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-99c6627f-32ae-4fdb-bfef-ee7ed32bea65.png",
+      "archived": "animation/raw/04-arrange-initial.png",
+      "prompt": "animation/prompts/04-arrange.md",
+      "selected": false,
+      "sha256": "6f0bf56df3740911895ca860260166bf92b6a90adba2754e9417a03c44fc69f1"
+    },
+    {
+      "id": "05-reserved",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b94e7fee-0b07-4831-8b3f-a38f0a0c35a5.png",
+      "archived": "animation/raw/05-reserved-sheet.png",
+      "prompt": "animation/prompts/05-reserved.md",
+      "selected": true,
+      "sha256": "1d561e2c1c50c14f96f1e349397ccca225935f2f979065833be1bb94d4bac2e9"
+    },
+    {
+      "id": "06-take-time",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-ee712ade-22ca-4885-a735-186e9f2d12fa.png",
+      "archived": "animation/raw/06-take-time-sheet.png",
+      "prompt": "animation/prompts/06-take-time.md",
+      "selected": true,
+      "sha256": "3e20aa4f760dbe1678faa978cb0c50e16acb43ec06a7adb70980acd0e24be19e"
+    },
+    {
+      "id": "07-thanks",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-d6e09988-831b-4cff-821f-ab36b8f51d06.png",
+      "archived": "animation/raw/07-thanks-sheet.png",
+      "prompt": "animation/prompts/07-thanks.md",
+      "selected": true,
+      "sha256": "39b9b19f5297996229bc1d963e58084b290a4c4f2b5484fbe2ec8ae85ec3e939"
+    },
+    {
+      "id": "08-next-time",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-7a32b68a-0489-4dac-ba33-07fb3e89b8f4.png",
+      "archived": "animation/raw/08-next-time-sheet.png",
+      "prompt": "animation/prompts/08-next-time-repair.md",
+      "selected": true,
+      "sha256": "95ea630928d6a2285bb967d3eefc04a1118e40735d9e000d9553ef04e889f0d0"
+    },
+    {
+      "id": "08-next-time-initial",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-16a3d51e-8f35-4a14-8871-cc86aa05676c.png",
+      "archived": "animation/raw/08-next-time-initial.png",
+      "prompt": "animation/prompts/08-next-time.md",
+      "selected": false,
+      "sha256": "5b52f31dd7b225a3034192399ea5ff38ff9ba5b8015650e314e527db580b319a"
+    },
+    {
+      "id": "cover",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-22911e37-f5b8-4b59-a6bb-dff5d55b10a4.png",
+      "archived": "assets/raw/cover.png",
+      "prompt": "animation/prompts/cover.md",
+      "selected": true,
+      "sha256": "b2289aac0ed0da162a83b6798b5b1f8cf463740e8927c26fdbf762d4f7b15123"
+    },
+    {
+      "id": "banner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-ae651536-7624-46ae-9509-c2dc6ca079c6.png",
+      "archived": "assets/raw/banner.png",
+      "prompt": "animation/prompts/banner.md",
+      "selected": true,
+      "sha256": "2ffcfe04cd830f0a7469715b59dd69cfb4f8ed9dfd3cc6f97242ff21a832a071"
+    }
+  ]
+}

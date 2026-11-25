@@ -1,0 +1,765 @@
+{
+  "ok": true,
+  "originals": 18,
+  "main_images": 16,
+  "validated_exports": 51,
+  "max_main_bytes": 74485,
+  "files": [
+    {
+      "file": "exports/chat-512/01-今日营业.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "1f8ecf423c53abc9e39674fcdb899c4e0059fa8fda41037ed90807b722759304",
+      "bytes": 203338
+    },
+    {
+      "file": "exports/chat-512/02-客户雷达启动.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "e62f1c188066fbb0cc0965484aa058e99ce154a3607f633ba184f1ecec4b04d6",
+      "bytes": 209879
+    },
+    {
+      "file": "exports/chat-512/03-今晚有安排吗.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "583f76e5604369bedae5c38e3756655d7f7554afb5069c0a9893f1a6e4d1a3b0",
+      "bytes": 188694
+    },
+    {
+      "file": "exports/chat-512/04-还有空位.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "6837ee061a3464259f6aecd62a08e9d0f0e6bdd4ba9b8ed4d0c1acc49e55611d",
+      "bytes": 183084
+    },
+    {
+      "file": "exports/chat-512/05-几位到店.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "eb3dc0d91bdeb25f15c36d0d4df58a145bd861bef76cd9fa5e97b784d5610ac4",
+      "bytes": 214204
+    },
+    {
+      "file": "exports/chat-512/06-我帮您留位.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "42cc2a47a42c1d7edbb5313d80b0ac231e9f25e8cabc7f2aeb9efc92041e4ba2",
+      "bytes": 200969
+    },
+    {
+      "file": "exports/chat-512/07-发您定位.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "7814350e9a57569766c3699c5e62ddf83107716d8d7c1d33b5ee78afa228ac60",
+      "bytes": 190852
+    },
+    {
+      "file": "exports/chat-512/08-到了喊我.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "73c81aedc9fd3e7055e1ff427bf0a4ee30c5202d6d0dfa1183bb7072d6f3efab",
+      "bytes": 210796
+    },
+    {
+      "file": "exports/chat-512/09-时间可以改.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "5f667d399a18549ffda02f5fa649375e59a5a288696a5e978264e254a00fff74",
+      "bytes": 191648
+    },
+    {
+      "file": "exports/chat-512/10-谢谢捧场.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "92539fbcc9f8e038e5b513f485401de1b1971b11777dcbdf2b3b1bb073c8968f",
+      "bytes": 160817
+    },
+    {
+      "file": "exports/chat-512/11-包厢已留.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "6c33d34552a7f988a239a7900a9fbca71ba5c556793bab8ace7b3bbdc84a611b",
+      "bytes": 225464
+    },
+    {
+      "file": "exports/chat-512/12-麦克风就位.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "98904229a7507199e0faf9ae8c1c737c40db6b8060dadd53f7ddaa5bcc418091",
+      "bytes": 196397
+    },
+    {
+      "file": "exports/chat-512/13-球台已留.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "7c5a1194d798dd6efd185324773e8bc6d26d5664d830587d4e2b1a62f43c885b",
+      "bytes": 206567
+    },
+    {
+      "file": "exports/chat-512/14-来打一局.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "ef65faea885ebb3da54db25749f83a20420f6427baa9c69977b6dcac7ac2aa59",
+      "bytes": 189458
+    },
+    {
+      "file": "exports/chat-512/15-足浴位已留.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "b9ddbafc2c71512aca5d123922a4e8712edefaa35edf548d0b72121958d94602",
+      "bytes": 244871
+    },
+    {
+      "file": "exports/chat-512/16-到店歇会儿.png",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "e710281d620372268b40225fe3c42a3ce0285ed1760db824c0ada0c9b3c9098f",
+      "bytes": 186190
+    },
+    {
+      "file": "exports/wechat-240/01-今日营业.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "b15ad23538d61f7dbc363081ebc7790527a429a406b3ba307b61a3bc2576a059",
+      "bytes": 58867
+    },
+    {
+      "file": "exports/wechat-240/02-客户雷达启动.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "ded90f4b4ecfa6a57f328a6c3e15d2d34739ade6582a06a424a19a04593be3e0",
+      "bytes": 65872
+    },
+    {
+      "file": "exports/wechat-240/03-今晚有安排吗.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "aadb444fd16a5a08fd319aa4bfaccef13cc1f1f8f3a983b4a09e89e8dfeae6d5",
+      "bytes": 59124
+    },
+    {
+      "file": "exports/wechat-240/04-还有空位.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "a040e8b2ea3b77b69c4cb051ce80128340d7ec3a30633a546ec94051f457a7cf",
+      "bytes": 56845
+    },
+    {
+      "file": "exports/wechat-240/05-几位到店.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "324059ab659f789b8be834539ac61376539c379422b32b761b63273562635fef",
+      "bytes": 63695
+    },
+    {
+      "file": "exports/wechat-240/06-我帮您留位.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "0639b65e99bf11b19eb11bf9ca441470cf8ad60b2d25a14119bd6b5af6eaaf62",
+      "bytes": 64866
+    },
+    {
+      "file": "exports/wechat-240/07-发您定位.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "2f51cb3a9b5ae1eff82aaf2af25f764597bb6c30072a74bed5ad5387dca24f5d",
+      "bytes": 59362
+    },
+    {
+      "file": "exports/wechat-240/08-到了喊我.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "5ce335b9c5dd262227ebff492a831ed567076029377a820bb045c8cdf86404cf",
+      "bytes": 62542
+    },
+    {
+      "file": "exports/wechat-240/09-时间可以改.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "8c540236bdbbb603d27615ee07f6e74d7b938b4921afa2fa1f29f28dd7c57a5b",
+      "bytes": 59646
+    },
+    {
+      "file": "exports/wechat-240/10-谢谢捧场.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "d9197c18191af43140f5542d6fd7d8171f67131b417ccfa8608027509cd40fc1",
+      "bytes": 52742
+    },
+    {
+      "file": "exports/wechat-240/11-包厢已留.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "67f4f8d981824633e76355b629c4366f5aa7693446607e5d663c53cc6f6dc53b",
+      "bytes": 66582
+    },
+    {
+      "file": "exports/wechat-240/12-麦克风就位.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "f6fa206ce76f092519e5c7fe696a1399574814d588631d5917bfb97176aa2b38",
+      "bytes": 62374
+    },
+    {
+      "file": "exports/wechat-240/13-球台已留.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "460e9a8303fcd6cfc40a2d49d06cb81152e62215d490bed497ef8e7fd3821692",
+      "bytes": 62251
+    },
+    {
+      "file": "exports/wechat-240/14-来打一局.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "bca5102ac8482d84b3e7d9559ec7f2ceb3062fcc891f93dee071cfc8ebc6909c",
+      "bytes": 56609
+    },
+    {
+      "file": "exports/wechat-240/15-足浴位已留.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "a77964e3410b2a7f525e8752bce0dfd024ca6238eb1655b7ae7e86a898a42a98",
+      "bytes": 74485
+    },
+    {
+      "file": "exports/wechat-240/16-到店歇会儿.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "679064ebbbb379b7cd6be2e1921a3511d4abc5b6971f90e349c2343191b214d1",
+      "bytes": 58885
+    },
+    {
+      "file": "exports/thumbnails-120/01-今日营业.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "f885593cd38507dffd299e2dcef4f0176813aae6f5f4d3a9748978f027d64171",
+      "bytes": 16572
+    },
+    {
+      "file": "exports/thumbnails-120/02-客户雷达启动.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "7e83402f129d126d2fb39c483be0fe1686111b8d95fa21140194afb4d049ecbf",
+      "bytes": 23375
+    },
+    {
+      "file": "exports/thumbnails-120/03-今晚有安排吗.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "49d8916919f0d310609425d0055f30291e6fdbb7e05e01e2c9979e16836fe1c0",
+      "bytes": 19157
+    },
+    {
+      "file": "exports/thumbnails-120/04-还有空位.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "327ae58ccf43868995d823fe9526fa2fcf2648c3f1098cd762cf249b1d1aab07",
+      "bytes": 19851
+    },
+    {
+      "file": "exports/thumbnails-120/05-几位到店.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "bff9bab9976488133c1d2dd4480f67bd8d34847e658ae706ee1003b2be84a764",
+      "bytes": 21176
+    },
+    {
+      "file": "exports/thumbnails-120/06-我帮您留位.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "b4f2165ad4e12572a60e8a75f9431dd70f4e3a35d82c7f03fe63ecac1129bc4c",
+      "bytes": 19659
+    },
+    {
+      "file": "exports/thumbnails-120/07-发您定位.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "2df672e024244a06a06c5262d382e7f28e87f82ec906c386a5a2955c46948f1b",
+      "bytes": 20290
+    },
+    {
+      "file": "exports/thumbnails-120/08-到了喊我.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "44baee19d63b121fb3a761033685a90727106f53a7b65c968cc6787aaea06dbb",
+      "bytes": 18337
+    },
+    {
+      "file": "exports/thumbnails-120/09-时间可以改.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "2f91b6af80a444c55d728cd61919a30f83f7bd26633e4d5fb05e2d1b26dd14c1",
+      "bytes": 20557
+    },
+    {
+      "file": "exports/thumbnails-120/10-谢谢捧场.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "5b0179a60f1aa68449cf7b2222af43dcd872bd062902a635e6a0687a0f5ac07d",
+      "bytes": 17130
+    },
+    {
+      "file": "exports/thumbnails-120/11-包厢已留.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "f2da06da9f816a4db733b6c0db2eda6151f77a9728fd831d9c06bb46fac4f7d3",
+      "bytes": 17178
+    },
+    {
+      "file": "exports/thumbnails-120/12-麦克风就位.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "e09f034d08162bc0b1c3350d2dc9214f4cf976fb54477a285f607ef186be775d",
+      "bytes": 19941
+    },
+    {
+      "file": "exports/thumbnails-120/13-球台已留.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "a81d709ee9a4866a7238c0087aca3dc3e373dbbf6031b52d74f6b93d3ef79e32",
+      "bytes": 15879
+    },
+    {
+      "file": "exports/thumbnails-120/14-来打一局.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "c9f249b06f4cb983dc5bd39ebe7c9e912be00d3475627cf1786207c8767728fe",
+      "bytes": 21008
+    },
+    {
+      "file": "exports/thumbnails-120/15-足浴位已留.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "72377a1268f37b10c90f33dd72cd0eebbd19b4fa915ce785c0fb196c90786016",
+      "bytes": 18823
+    },
+    {
+      "file": "exports/thumbnails-120/16-到店歇会儿.png",
+      "size": [
+        120,
+        120
+      ],
+      "sha256": "7ec2b44e0bd921e5d42c5a24e0342abc5e4160c2873d16dfe31d7a57742f2bee",
+      "bytes": 19930
+    },
+    {
+      "file": "assets/cover-240.png",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "7a2c7c4f1523ef9dd20a68636b4fe0600670d40768998ef75c29834fb6e3fb63",
+      "bytes": 62208
+    },
+    {
+      "file": "assets/icon-50.png",
+      "size": [
+        50,
+        50
+      ],
+      "sha256": "a89880b928a7dce6c309372639f44361c3f2144a3d803dfc5b6a2962d8e44acd",
+      "bytes": 4925
+    },
+    {
+      "file": "assets/banner-750x400.jpg",
+      "size": [
+        750,
+        400
+      ],
+      "sha256": "f249f547e24c02c3ca27d962fc28804ba3d408840bdd2ada2584ae10949e142b",
+      "bytes": 59229
+    }
+  ],
+  "wechat_client_tested": false,
+  "platform_submitted": false,
+  "white_background": {
+    "color": "#FFFFFF",
+    "count": 32,
+    "transparent_sources_unchanged": true,
+    "files": [
+      {
+        "file": "exports/white-240/01-今日营业.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 52953,
+        "sha256": "47b21e4169c9c19be5ee0eab496fcc318cc63257445bd87bb3da911e8882e0a1"
+      },
+      {
+        "file": "exports/white-240/02-客户雷达启动.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 59681,
+        "sha256": "798beeffea22084c4aa6e6b0957e59865aef72b2b64300a000b6afefee05733e"
+      },
+      {
+        "file": "exports/white-240/03-今晚有安排吗.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 53612,
+        "sha256": "772b3c43e082e82fb4a9f1ddde56db2f06c7c47da067930474b34139d660e223"
+      },
+      {
+        "file": "exports/white-240/04-还有空位.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 51157,
+        "sha256": "c6a2008ebc1b2de68a88764702ba41e4542fb1a311bb9612c07b5a8aea909619"
+      },
+      {
+        "file": "exports/white-240/05-几位到店.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 57584,
+        "sha256": "b0d3bee92fe2cfd748d362352969960bef622dd0277c55dd1d69d49154ba67a5"
+      },
+      {
+        "file": "exports/white-240/06-我帮您留位.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 58530,
+        "sha256": "4a1908f749bf8d130f1dbb78c2f115c797fbddc2c2bab6fd07e97567f54c2f26"
+      },
+      {
+        "file": "exports/white-240/07-发您定位.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 53821,
+        "sha256": "3f4238ddb8084efacb098a41996d0bc57bb50dd7484b19a699e8b12ab6608757"
+      },
+      {
+        "file": "exports/white-240/08-到了喊我.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 56491,
+        "sha256": "462f9c3d3590caf7990df2eff919f5feaf4cc2297532271b23816c0afac2e045"
+      },
+      {
+        "file": "exports/white-240/09-时间可以改.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 53163,
+        "sha256": "a792b870e871a16f8676094ca83ff715f949734103216b2b4fdc6ac02b317654"
+      },
+      {
+        "file": "exports/white-240/10-谢谢捧场.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 47431,
+        "sha256": "14dcf3636991f940113a3542e60ee4106a0882e125ce422dba8b00e605b1d33b"
+      },
+      {
+        "file": "exports/white-240/11-包厢已留.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 60035,
+        "sha256": "a1e3ac522174715255b4793c5161498feddbb45dce6ba8ef728c54b705f0a187"
+      },
+      {
+        "file": "exports/white-240/12-麦克风就位.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 55736,
+        "sha256": "ddef04adf2645df5746b08d3695bc56ca475cd0b571b043436bc1eb10b1b58a8"
+      },
+      {
+        "file": "exports/white-240/13-球台已留.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 55148,
+        "sha256": "79773fb9767bf30ad6638c4ed6203b4f72aa6429588c220ecb7faff6006b8930"
+      },
+      {
+        "file": "exports/white-240/14-来打一局.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 51296,
+        "sha256": "e524de7b920edef393ce20f8bc7cde1eb74649b54393f2067416eb9afecad62a"
+      },
+      {
+        "file": "exports/white-240/15-足浴位已留.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 66964,
+        "sha256": "0282ccefa6f8ce153beedfbc18dee36015eba280a0c12233daefdb93ff8e1b29"
+      },
+      {
+        "file": "exports/white-240/16-到店歇会儿.png",
+        "size": [
+          240,
+          240
+        ],
+        "bytes": 52977,
+        "sha256": "ebf45d68f0a41c56b13744b732fcfba0a63b79b01fcd0572d5de1dd16cc1a6e4"
+      },
+      {
+        "file": "exports/white-512/01-今日营业.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 179949,
+        "sha256": "d8818110f30815c7f28ee6006ec6ef6dc078927fe0457a217c483ac7b59a1b2d"
+      },
+      {
+        "file": "exports/white-512/02-客户雷达启动.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 188421,
+        "sha256": "2aba7fdd8226560e0d49ff54a241ed9fff513b2151079298e5801b1f9d3bf0c9"
+      },
+      {
+        "file": "exports/white-512/03-今晚有安排吗.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 169141,
+        "sha256": "23f8484c5d8b8c85c9bb898b105b709a7ce0663be9c50ce8fe4dd99f926690ca"
+      },
+      {
+        "file": "exports/white-512/04-还有空位.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 163900,
+        "sha256": "515b6bfd85d09afb43a81aac18f46a62037949e3851a3fae7705c55f6a3307b8"
+      },
+      {
+        "file": "exports/white-512/05-几位到店.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 191806,
+        "sha256": "f26d696251256f1c38de13afbf56d0efe0dea571babd7888de6008dcbf9d9162"
+      },
+      {
+        "file": "exports/white-512/06-我帮您留位.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 178844,
+        "sha256": "8dbe54fbba243d747d5ebac1b6191d52984bca81cfd4c581841c075bc35adfb7"
+      },
+      {
+        "file": "exports/white-512/07-发您定位.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 171252,
+        "sha256": "020465090b6bcf1db15c9abad7fde234421986d976a45f7cab94293c65e6ea0e"
+      },
+      {
+        "file": "exports/white-512/08-到了喊我.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 187128,
+        "sha256": "bfccb6aaa91a2a3644a4108a0921cd2b7713e9050779bc160539c1bb7e4e3e37"
+      },
+      {
+        "file": "exports/white-512/09-时间可以改.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 169622,
+        "sha256": "e79649a085e6eae0b152167d6ea74d5ad71cf68da688d247b7447027d988c3b2"
+      },
+      {
+        "file": "exports/white-512/10-谢谢捧场.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 144031,
+        "sha256": "b6cfaaeebb3414f653a4c670798e1a03da1d3908b4ee4c3dbeeec04d0ddbad0a"
+      },
+      {
+        "file": "exports/white-512/11-包厢已留.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 200151,
+        "sha256": "326b6bf1436fa84b625f90ebb51c1e29ebb667a17593ed3e44c82c6240414ed1"
+      },
+      {
+        "file": "exports/white-512/12-麦克风就位.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 173979,
+        "sha256": "ad9fd3f124ba4681d026b6ad8e4cf8c9c643e8f5bcdfccdf1c85483a8d991ff4"
+      },
+      {
+        "file": "exports/white-512/13-球台已留.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 182463,
+        "sha256": "e531efa2a4f1c9a288da1d5997e1760fd36af033a02ef3f15af51e1b7c662994"
+      },
+      {
+        "file": "exports/white-512/14-来打一局.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 169409,
+        "sha256": "5e1e844f52e00af189e2fd45cab94510f1bc5dda4518b24a9db6525ead59be96"
+      },
+      {
+        "file": "exports/white-512/15-足浴位已留.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 218851,
+        "sha256": "5abc06452d786f61dd338278f262874bbfd5e29296419a101848d2c78dfa8779"
+      },
+      {
+        "file": "exports/white-512/16-到店歇会儿.png",
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 166049,
+        "sha256": "6ce368a369a0c433d19459fac12fd57c4436518568cf2726896d823aa6c03af2"
+      }
+    ]
+  }
+}

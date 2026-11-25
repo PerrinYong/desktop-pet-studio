@@ -1,0 +1,179 @@
+{
+  "album": "09-和你黏一会",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01-miss",
+      "caption": "想你了",
+      "png240_bytes": 79208,
+      "gif_bytes": 364661,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "02-nuzzle",
+      "caption": "贴贴",
+      "png240_bytes": 74209,
+      "gif_bytes": 304467,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "03-kiss",
+      "caption": "亲一口",
+      "png240_bytes": 68065,
+      "gif_bytes": 320111,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "04-heartbeat",
+      "caption": "心动了",
+      "png240_bytes": 88860,
+      "gif_bytes": 359361,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "05-pickup",
+      "caption": "接你下班",
+      "png240_bytes": 73957,
+      "gif_bytes": 329299,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "06-dinner-date",
+      "caption": "一起吃饭",
+      "png240_bytes": 73396,
+      "gif_bytes": 316993,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "07-last-bite",
+      "caption": "给你留一口",
+      "png240_bytes": 80576,
+      "gif_bytes": 344849,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "08-busy",
+      "caption": "你先忙",
+      "png240_bytes": 78542,
+      "gif_bytes": 357245,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "09-home-check",
+      "caption": "到家说一声",
+      "png240_bytes": 67021,
+      "gif_bytes": 304539,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "10-comfort",
+      "caption": "抱抱就好",
+      "png240_bytes": 68090,
+      "gif_bytes": 309169,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "11-here",
+      "caption": "我在呢",
+      "png240_bytes": 71041,
+      "gif_bytes": 313823,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "12-sorry",
+      "caption": "对不起嘛",
+      "png240_bytes": 76548,
+      "gif_bytes": 375711,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "13-reconcile",
+      "caption": "和好好不好",
+      "png240_bytes": 83635,
+      "gif_bytes": 363563,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "14-smitten",
+      "caption": "被你拿捏",
+      "png240_bytes": 69836,
+      "gif_bytes": 343729,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "15-goodnight",
+      "caption": "晚安宝宝",
+      "png240_bytes": 76395,
+      "gif_bytes": 369677,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "16-dream",
+      "caption": "梦里见",
+      "png240_bytes": 80551,
+      "gif_bytes": 330593,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    }
+  ]
+}

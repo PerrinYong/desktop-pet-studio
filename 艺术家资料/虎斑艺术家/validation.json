@@ -1,0 +1,38 @@
+{
+  "ok": true,
+  "requirements_source": "user-provided screenshots",
+  "files": [
+    {
+      "file": "avatar-640.jpg",
+      "size": [
+        640,
+        640
+      ],
+      "format": "JPEG",
+      "opaque": true,
+      "bytes": 142760,
+      "maximum_bytes": 500000,
+      "sha256": "43959e2dd6a31f4632b3607bfc8609654c08b88f85140c741b8e3b0f16dbd3b1"
+    },
+    {
+      "file": "banner-750x400.jpg",
+      "size": [
+        750,
+        400
+      ],
+      "format": "JPEG",
+      "opaque": true,
+      "bytes": 77504,
+      "maximum_bytes": 80000,
+      "sha256": "5b2d0009f525cdb49c4a14af10bd238c41f31489d79c7de5b9bcf2586e1fa131"
+    }
+  ],
+  "visual_review": {
+    "same_character_as_reference": true,
+    "glasses_shirt_and_fur_identity_retained": true,
+    "no_text_or_watermark": true,
+    "no_stretching": true,
+    "final_export_visual_check": true
+  },
+  "platform_reviewed": false
+}

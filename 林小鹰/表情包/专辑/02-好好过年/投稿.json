@@ -1,4 +1,10 @@
 {
   "name": "林小鹰好好过年",
-  "description": "回家报平安，拜年说吉祥，红包认真谢，饭局轻松接。让林小鹰陪你把这个年过得暖一点。"
+  "description": "回家报平安，拜年说吉祥，红包认真谢，饭局轻松接。让林小鹰陪你把这个年过得暖一点。",
+  "source_dir": "revisions/图文融合-v2",
+  "assets": {
+    "cover-240.png": "assets/cover-240.png",
+    "icon-50.png": "assets/icon-50.png",
+    "banner-750x400.jpg": "assets/banner-750x400.jpg"
+  }
 }

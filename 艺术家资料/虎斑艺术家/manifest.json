@@ -1,0 +1,85 @@
+{
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    },
+    {
+      "path": "avatar-640.jpg",
+      "bytes": 142760,
+      "sha256": "43959e2dd6a31f4632b3607bfc8609654c08b88f85140c741b8e3b0f16dbd3b1"
+    },
+    {
+      "path": "banner-750x400.jpg",
+      "bytes": 77504,
+      "sha256": "5b2d0009f525cdb49c4a14af10bd238c41f31489d79c7de5b9bcf2586e1fa131"
+    },
+    {
+      "path": "export-transform.json",
+      "bytes": 795,
+      "sha256": "9fc788286719394e9104cbefe81d5a9c8ba96ede990398117f0b2fbdbef9c854"
+    },
+    {
+      "path": "export.ps1",
+      "bytes": 2780,
+      "sha256": "b5a2c6bf9cce3bf82a9f5978955f4a2de75bdd1b0d9a8a36bc308def2cef8ea1"
+    },
+    {
+      "path": "prompts/avatar.md",
+      "bytes": 1556,
+      "sha256": "c1be5af104890458305aff5397c53c3bc95cfcf2b7389e440484bbd12a6268c1"
+    },
+    {
+      "path": "prompts/banner.md",
+      "bytes": 2106,
+      "sha256": "6e9f436783acb23402b001f51827d71819af6db089569b1b04d247744702b35b"
+    },
+    {
+      "path": "provenance.json",
+      "bytes": 566,
+      "sha256": "419d8289102f52cdd92ab290ccc3052661566855bee7f0b1729e3257e5875abe"
+    },
+    {
+      "path": "raw/avatar-master.png",
+      "bytes": 2314423,
+      "sha256": "fb2bf8c35bbddb4ecdc1f48e122a2a57c9fab296615a499a651e7c4a5e337745"
+    },
+    {
+      "path": "raw/banner-master.png",
+      "bytes": 2330315,
+      "sha256": "4a3ea25286b3741e1fb1973f74b351b574a9acaee45bba32eea4954b183cbf1f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1349,
+      "sha256": "7b8f3861a7c59020ebf8933a0d2724e25a453cbb080986c78a0df88c515eb7eb"
+    },
+    {
+      "path": "references/artist-reference.jpg",
+      "bytes": 96654,
+      "sha256": "42f2601a3e6fec722085f815ed2566621181e7c796c3e95ff66cff7197122e05"
+    },
+    {
+      "path": "references/avatar-requirements.png",
+      "bytes": 159756,
+      "sha256": "64193fa746f611cbc4ae1a7d6576305d2a3cba6cbf3b3914e1c13a06699a6b3f"
+    },
+    {
+      "path": "references/banner-requirements.png",
+      "bytes": 325267,
+      "sha256": "a109418908650a5105b4e568b94157ad2d1b99c47702c01abf912b40347d9e96"
+    },
+    {
+      "path": "validation.json",
+      "bytes": 933,
+      "sha256": "e80d24631cf4ad8fd51c8f3e8501346cb1a831ed7509e5f413ab85e2d104dccb"
+    },
+    {
+      "path": "艺术家主页-上传图片.zip",
+      "bytes": 220294,
+      "sha256": "359fcd068daa3f47bcbaf19b59e741ff18389787fb01ef9e4edccfc9f694e9a4"
+    }
+  ],
+  "self_excluded": true
+}

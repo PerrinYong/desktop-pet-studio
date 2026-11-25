@@ -1,0 +1,46 @@
+[
+  {
+    "file": "avatar-640.jpg",
+    "source_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      640,
+      640
+    ],
+    "source_crop_xywh": [
+      0.0,
+      0.0,
+      1254.0,
+      1254.0
+    ],
+    "uniform_scale": 0.5103668261562998,
+    "jpeg_quality": 96,
+    "bytes": 142760,
+    "maximum_bytes": 500000,
+    "stretched": false
+  },
+  {
+    "file": "banner-750x400.jpg",
+    "source_size": [
+      1717,
+      916
+    ],
+    "output_size": [
+      750,
+      400
+    ],
+    "source_crop_xywh": [
+      0.0,
+      0.1333333333333826,
+      1717.0,
+      915.7333333333332
+    ],
+    "uniform_scale": 0.43680838672102507,
+    "jpeg_quality": 88,
+    "bytes": 77504,
+    "maximum_bytes": 80000,
+    "stretched": false
+  }
+]

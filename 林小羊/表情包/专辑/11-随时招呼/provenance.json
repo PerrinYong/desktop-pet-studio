@@ -1,0 +1,132 @@
+{
+  "generator": "built-in image_gen",
+  "identity_reference": "E:/0-MyProj/desktop-pet-studio/林小羊/表情包/专辑/10-今晚有安排/raw/10.png",
+  "files": [
+    {
+      "id": "01",
+      "archived": "raw/01.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-5b6de4eb-b419-4def-8456-d989719b95ac.png",
+      "prompt": "prompts/01.md",
+      "sha256": "a9af8a43c0b2ed7d11d1ec5973be39225ff6db0371ce30416eb21041f5fd51ec"
+    },
+    {
+      "id": "02",
+      "archived": "raw/02.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-4e8e030b-4309-479f-8eab-ae710fc4bda7.png",
+      "prompt": "prompts/02.md",
+      "sha256": "3a6786f7bf6e88f599e6fed71086f5aaecd65aabf0514d920b5cd1b5c9f92ba3"
+    },
+    {
+      "id": "03",
+      "archived": "raw/03.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-c2b34db3-e61d-4250-853b-eb731ba7180d.png",
+      "prompt": "prompts/03.md",
+      "sha256": "8ccc5572579c12ea5976d7f20b825211620b05aad1560bf46801f74e64e2a6e2"
+    },
+    {
+      "id": "04",
+      "archived": "raw/04.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-875b1c45-f29e-4ea0-9674-6bcce059e960.png",
+      "prompt": "prompts/04.md",
+      "sha256": "de223a67146d764c4f6a67f6feada40e7c0ca730f7a8a3179d20f26dfef7d9bd"
+    },
+    {
+      "id": "05",
+      "archived": "raw/05.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-344460bb-7bcd-4ce0-9331-82f2b6e54d74.png",
+      "prompt": "prompts/05.md",
+      "sha256": "a570f7efcdd22437b75abd415337505f95cf288520c7af2a203a15557415eed4"
+    },
+    {
+      "id": "06",
+      "archived": "raw/06.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-e226ca45-4c47-4345-a88b-7a89de4bdad7.png",
+      "prompt": "prompts/06.md",
+      "sha256": "5b16d1829a1782cf6d42ffc586c10209721dca24ef684740526d14f0c85bdb15"
+    },
+    {
+      "id": "07",
+      "archived": "raw/07.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f30aa7b0-0247-4a6b-86ea-5f66ea2f4c46.png",
+      "prompt": "prompts/07.md",
+      "sha256": "7f64cbfff3bc7fa968fe659a869d8cc94a863aa3ca03a72b9ac9d04e8a108afc"
+    },
+    {
+      "id": "08",
+      "archived": "raw/08.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3795eb87-d491-46dd-9c7d-ba8562c9c2a5.png",
+      "prompt": "prompts/08.md",
+      "sha256": "147c629bbe6f2bdbed1c509d081618b264758aca6824f5cefaba4be5128d434e"
+    },
+    {
+      "id": "09",
+      "archived": "raw/09.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-2f6be8c2-2860-4929-8148-cfa2e62572af.png",
+      "prompt": "prompts/09.md",
+      "sha256": "b23bf1783985bafa649591dbbb5a2049eaaa1c4a81ea091ab3a7f03029019c4f"
+    },
+    {
+      "id": "10",
+      "archived": "raw/10.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3c5756c2-dc28-4d38-959d-ea3a7f808d4a.png",
+      "prompt": "prompts/10.md",
+      "sha256": "7c9e2f60590cd788124b7081b25a7e15b12b3b35cb274ecc9b8443c68f1ebfb5"
+    },
+    {
+      "id": "11",
+      "archived": "raw/11.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-48714ea8-1255-4e70-9288-53c5187963db.png",
+      "prompt": "prompts/11.md",
+      "sha256": "6c05dd1075dffa12eb7ff4bd3b770d11715b6f76b51e64dde4eceb23b5918586"
+    },
+    {
+      "id": "12",
+      "archived": "raw/12.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-1fb3cd8f-6546-405f-87a5-93a5e3c99397.png",
+      "prompt": "prompts/12.md",
+      "sha256": "6e571cfe54e6137024edc6a490bcf44bfe8c87fd32844dd5e94586020eb1e887"
+    },
+    {
+      "id": "13",
+      "archived": "raw/13.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9051fae6-d3ee-4f7b-a8d0-62c483145d79.png",
+      "prompt": "prompts/13.md",
+      "sha256": "846a2b5c5215e97525b7df10620d7aa24945e54081698b0ca07ea2a8de8aca29"
+    },
+    {
+      "id": "14",
+      "archived": "raw/14.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-1d9c7774-519b-4b48-805c-23bb3aab9e22.png",
+      "prompt": "prompts/14.md",
+      "sha256": "68a5ad3986e9ae8f65c234b47e5af5a6827ea9481aedf1da8daecd4d4ce3b554"
+    },
+    {
+      "id": "15",
+      "archived": "raw/15.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9c58a70c-5745-463c-9cd4-1dfda177bc0c.png",
+      "prompt": "prompts/15.md",
+      "sha256": "4dbe0b006827162436348b114c09fdb63b7a37bc4b984ca51b64e1ddcb90cfd1"
+    },
+    {
+      "id": "16",
+      "archived": "raw/16.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-624b3d81-4d37-45dc-a1d1-a078f938b5a5.png",
+      "prompt": "prompts/16.md",
+      "sha256": "9bf87735353154816d64627e4a405cd7547a5ec2c5d36b95db02ca9a13129240"
+    },
+    {
+      "id": "cover",
+      "archived": "raw/cover.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-5a0f2f3c-9bee-4251-9d57-ef5312a79ead.png",
+      "prompt": "prompts/cover.md",
+      "sha256": "d1d8a1c6db326bd4f992d7effb2b99976166b1862af6dc16ec88329e00c603c5"
+    },
+    {
+      "id": "banner",
+      "archived": "raw/banner.png",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-e4f9bf75-42df-4b24-b75a-54170261401a.png",
+      "prompt": "prompts/banner.md",
+      "sha256": "4a1a94009547771ce2f50e84b487b86bc328f9dfdefe48735f897e017bd40b8a"
+    }
+  ]
+}

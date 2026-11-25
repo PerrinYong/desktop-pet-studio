@@ -1,0 +1,99 @@
+{
+  "album": "08-羊年一起过",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01-greeting",
+      "caption": "羊年大吉",
+      "png240_bytes": 91361,
+      "gif_bytes": 392931,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "02-prosper",
+      "caption": "恭喜发财",
+      "png240_bytes": 93254,
+      "gif_bytes": 357987,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "03-thanks",
+      "caption": "谢谢红包",
+      "png240_bytes": 86732,
+      "gif_bytes": 360595,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "04-dinner",
+      "caption": "年夜饭开席",
+      "png240_bytes": 91919,
+      "gif_bytes": 373175,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "05-vigil",
+      "caption": "守岁中",
+      "png240_bytes": 83491,
+      "gif_bytes": 345503,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "06-visit",
+      "caption": "串门来啦",
+      "png240_bytes": 78009,
+      "gif_bytes": 347141,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "07-eat-first",
+      "caption": "先吃饭哈",
+      "png240_bytes": 86863,
+      "gif_bytes": 395193,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "08-work",
+      "caption": "开工大吉",
+      "png240_bytes": 86177,
+      "gif_bytes": 339583,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "album": "06-热梗动起来",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01-self-hug",
+      "caption": "爱你老己",
+      "png240_bytes": 70085,
+      "gif_bytes": 325043,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "02-awesome",
+      "caption": "夯爆了",
+      "png240_bytes": 59711,
+      "gif_bytes": 135210,
+      "frames": 8,
+      "distinct_poses": 4,
+      "duration_ms": 800,
+      "loop": 0
+    },
+    {
+      "id": "03-flop",
+      "caption": "拉完了",
+      "png240_bytes": 50918,
+      "gif_bytes": 241945,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "04-handmade",
+      "caption": "手搓中",
+      "png240_bytes": 77649,
+      "gif_bytes": 348797,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "05-no-idea",
+      "caption": "我真没招了",
+      "png240_bytes": 76729,
+      "gif_bytes": 362925,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "06-circle",
+      "caption": "画地为牢啊",
+      "png240_bytes": 68910,
+      "gif_bytes": 319159,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "07-check-ticket",
+      "caption": "我要验牌",
+      "png240_bytes": 92389,
+      "gif_bytes": 393923,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "08-processing",
+      "caption": "处理中",
+      "png240_bytes": 82672,
+      "gif_bytes": 202185,
+      "frames": 8,
+      "distinct_poses": 4,
+      "duration_ms": 800,
+      "loop": 0
+    }
+  ]
+}

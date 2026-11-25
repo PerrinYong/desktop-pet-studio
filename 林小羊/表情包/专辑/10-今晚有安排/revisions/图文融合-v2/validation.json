@@ -1,0 +1,99 @@
+{
+  "album": "10-今晚有安排",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "今日营业",
+      "png240_bytes": 70651
+    },
+    {
+      "id": "02",
+      "caption": "客户雷达启动",
+      "png240_bytes": 79111
+    },
+    {
+      "id": "03",
+      "caption": "今晚有安排吗",
+      "png240_bytes": 67581
+    },
+    {
+      "id": "04",
+      "caption": "还有空位",
+      "png240_bytes": 80863
+    },
+    {
+      "id": "05",
+      "caption": "几位到店",
+      "png240_bytes": 77387
+    },
+    {
+      "id": "06",
+      "caption": "我帮您留位",
+      "png240_bytes": 77420
+    },
+    {
+      "id": "07",
+      "caption": "发您定位",
+      "png240_bytes": 83625
+    },
+    {
+      "id": "08",
+      "caption": "到了喊我",
+      "png240_bytes": 68392
+    },
+    {
+      "id": "09",
+      "caption": "时间可以改",
+      "png240_bytes": 68102
+    },
+    {
+      "id": "10",
+      "caption": "谢谢捧场",
+      "png240_bytes": 61717
+    },
+    {
+      "id": "11",
+      "caption": "包厢已留",
+      "png240_bytes": 83516
+    },
+    {
+      "id": "12",
+      "caption": "麦克风就位",
+      "png240_bytes": 81394
+    },
+    {
+      "id": "13",
+      "caption": "球台已留",
+      "png240_bytes": 76594
+    },
+    {
+      "id": "14",
+      "caption": "来打一局",
+      "png240_bytes": 76680
+    },
+    {
+      "id": "15",
+      "caption": "足浴位已留",
+      "png240_bytes": 77485
+    },
+    {
+      "id": "16",
+      "caption": "到店歇会儿",
+      "png240_bytes": 83492
+    }
+  ]
+}

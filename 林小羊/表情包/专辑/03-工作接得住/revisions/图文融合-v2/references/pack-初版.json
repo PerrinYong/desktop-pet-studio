@@ -1,0 +1,99 @@
+{
+  "name": "林小羊",
+  "series": "工作接得住",
+  "audience": "同事、项目协作群",
+  "purpose": "把确认、处理、对齐与交接说清楚，表情之外补充时间和事实",
+  "created": "2026-11-25",
+  "kind": "static",
+  "production_status": "created_and_locally_validated",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "收到",
+      "meaning": "确认",
+      "scene": "确认收到信息",
+      "display_scene": "确认收到信息",
+      "usage_note": "仅确认收到，不等于已承接或完成",
+      "pose": "Sheep sits gently upright while remaining soft and slightly lopsided, one raised hoof in clear acknowledgment, attentive dot eyes, no salute, no props.",
+      "raw": "raw/01.png",
+      "prompt_file": "prompts/01.md"
+    },
+    {
+      "id": "02",
+      "caption": "我看一下",
+      "meaning": "查看",
+      "scene": "初步检查",
+      "display_scene": "初步检查",
+      "usage_note": "说明开始查看，必要时补反馈时间",
+      "pose": "Sheep leans intently over one plain document with a small magnifying glass held in hoof, body tilts forward, focused neutral face, no text on paper.",
+      "raw": "raw/02.png",
+      "prompt_file": "prompts/02.md"
+    },
+    {
+      "id": "03",
+      "caption": "处理中",
+      "meaning": "处理",
+      "scene": "告知处理状态",
+      "display_scene": "告知处理状态",
+      "usage_note": "正在处理；关键事项另补预计完成时间",
+      "pose": "Sheep leans forward actively typing with two little hooves on a simple plain laptop, wool gathered into forward-weighted shape, attentive dot eyes, small motion strokes on hooves.",
+      "raw": "raw/03.png",
+      "prompt_file": "prompts/03.md"
+    },
+    {
+      "id": "04",
+      "caption": "对齐一下",
+      "meaning": "对齐",
+      "scene": "核对目标与理解",
+      "display_scene": "核对目标与理解",
+      "usage_note": "正文说清要对齐的目标、范围或口径",
+      "pose": "Sheep carefully slides two plain rectangular cards so their top edges align, one hoof on each card, slightly upright focused pose, small single alignment tick. No words on cards.",
+      "raw": "raw/04.png",
+      "prompt_file": "prompts/04.md"
+    },
+    {
+      "id": "05",
+      "caption": "辛苦确认",
+      "meaning": "确认",
+      "scene": "请对方确认结果",
+      "display_scene": "请对方确认结果",
+      "usage_note": "正文带上具体对象、链接和确认事项",
+      "pose": "Sheep holds a simple document outward toward viewer, one visible empty square checkbox on it and pencil in other hoof, polite small smile, body leans invitingly.",
+      "raw": "raw/05.png",
+      "prompt_file": "prompts/05.md"
+    },
+    {
+      "id": "06",
+      "caption": "联调中",
+      "meaning": "联调",
+      "scene": "跨端接口联调",
+      "display_scene": "跨端接口联调",
+      "usage_note": "实际进入联调时使用，正文补环境、接口和阻塞项",
+      "pose": "Sheep sits between TWO tiny simple laptop screens, holds the two ends of a cable trying to connect them, focused small dot eyes, wool body bent forward, no text or logos on screens.",
+      "raw": "raw/06.png",
+      "prompt_file": "prompts/06.md"
+    },
+    {
+      "id": "07",
+      "caption": "已同步",
+      "meaning": "同步",
+      "scene": "完成信息同步",
+      "display_scene": "完成信息同步",
+      "usage_note": "仅在确已发送或更新后使用，不等于对方看过",
+      "pose": "Sheep passes a small plain memo from one side to another, two simple identical memo icons with one small arrow between, soft upright body, satisfied mild nod. No UI text.",
+      "raw": "raw/07.png",
+      "prompt_file": "prompts/07.md"
+    },
+    {
+      "id": "08",
+      "caption": "可以提测",
+      "meaning": "提测",
+      "scene": "研发交接测试",
+      "display_scene": "研发交接测试",
+      "usage_note": "达到约定提测条件后使用，附版本、范围与已知问题；不等于测试通过",
+      "pose": "Sheep gently passes a small plain package toward viewer with one tiny checklist card attached showing two neat check marks, attentive mild smile, body leans forward in handoff; no words on package, no finished trophy.",
+      "raw": "raw/08.png",
+      "prompt_file": "prompts/08.md"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "01-self-hug",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f2c0cf24-d36f-43e4-ad2d-861896092f03.png",
+    "archived": "raw/01-self-hug-sheet.png",
+    "prompt": "prompts/01-self-hug.md",
+    "reference": "references/character.png",
+    "sha256": "d1b9648dbc80fea71a8cd7ec209486418511c26c97a92ddd66a0fd205f6fc64f"
+  },
+  {
+    "id": "02-awesome",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-cebcdb2a-f4e3-4680-9e82-02948c02de34.png",
+    "archived": "raw/02-awesome-sheet.png",
+    "prompt": "prompts/02-awesome.md",
+    "reference": "references/character.png",
+    "sha256": "820c57d3ff327e703d9e5b21d9105456e56f9812dd48c983e8b5818aec5c4176"
+  },
+  {
+    "id": "03-flop",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-179ccf43-1a09-45c5-8fb1-a97cbe5a0da4.png",
+    "archived": "raw/03-flop-sheet.png",
+    "prompt": "prompts/03-flop.md",
+    "reference": "references/character.png",
+    "sha256": "e6852f1581b959a65cb332ad9374830099d20421b0e475dd14ed15a420b64f04"
+  },
+  {
+    "id": "04-handmade",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-97e1a332-bd93-46eb-9e8c-ff77fad47178.png",
+    "archived": "raw/04-handmade-sheet.png",
+    "prompt": "prompts/04-handmade.md",
+    "reference": "references/character.png",
+    "sha256": "4221861221a8deb2cb1698305c51ad2f19bc7c6f77b87dd6504f76f2f85ff754"
+  },
+  {
+    "id": "05-no-idea",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-7c743684-7316-4233-976a-6f622ffa4ed7.png",
+    "archived": "raw/05-no-idea-sheet.png",
+    "prompt": "prompts/05-no-idea.md",
+    "reference": "references/character.png",
+    "sha256": "d23b6737cf2af49d8e512a87cd0be8d0cea3e6bc2c9f3031b9964a06f3771287"
+  },
+  {
+    "id": "06-circle",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-c97736a1-c8ca-4ad9-8c24-9eedb0e12933.png",
+    "archived": "raw/06-circle-sheet.png",
+    "prompt": "prompts/06-circle.md",
+    "reference": "references/character.png",
+    "sha256": "74c1889749ddff42ebe5ce1026c55884e49effd63cbef84f09e7db29e3d05e48"
+  },
+  {
+    "id": "07-check-ticket",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-8fc4766f-3987-45ea-85d2-6a7a26582620.png",
+    "archived": "raw/07-check-ticket-sheet.png",
+    "prompt": "prompts/07-check-ticket.md",
+    "reference": "references/character.png",
+    "sha256": "938a4241aebce6db2a1dd417dea6da666bf33f807f223ea44aabab0009fe0d8c"
+  },
+  {
+    "id": "08-processing-repair",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-62cb8824-80f9-45cc-bb4b-4b26879f0ebd.png",
+    "archived": "raw/08-processing-repair.png",
+    "prompt": "prompts/08-processing-repair.md",
+    "sha256": "e9416b925f55a6b73dfc4ff668a6909360a1026dd392db000b7d6a54ab7870ec"
+  },
+  {
+    "id": "08-processing",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-cc0be2f2-5bf2-4341-9d27-536f353f9397.png",
+    "archived": "raw/08-processing-sheet.png",
+    "prompt": "prompts/08-processing.md",
+    "reference": "references/character.png",
+    "sha256": "dc1883af8b64c1d7993aa012e8cf0a24a0975ebf35e34e7ee6389d2f007711bb"
+  }
+]

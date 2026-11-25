@@ -1,0 +1,59 @@
+{
+  "album": "05-年会轮到我",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "排练中",
+      "png240_bytes": 67956
+    },
+    {
+      "id": "02",
+      "caption": "怎么是我",
+      "png240_bytes": 77604
+    },
+    {
+      "id": "03",
+      "caption": "我负责鼓掌",
+      "png240_bytes": 75524
+    },
+    {
+      "id": "04",
+      "caption": "坐等抽奖",
+      "png240_bytes": 79764
+    },
+    {
+      "id": "05",
+      "caption": "这次到我",
+      "png240_bytes": 71141
+    },
+    {
+      "id": "06",
+      "caption": "重在参与",
+      "png240_bytes": 83141
+    },
+    {
+      "id": "07",
+      "caption": "我先开吃",
+      "png240_bytes": 72969
+    },
+    {
+      "id": "08",
+      "caption": "今晚辛苦啦",
+      "png240_bytes": 76275
+    }
+  ]
+}

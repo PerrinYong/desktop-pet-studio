@@ -1,0 +1,99 @@
+{
+  "name": "林小羊",
+  "series": "年会轮到我",
+  "audience": "同事年会群、熟悉同事私聊",
+  "purpose": "同时容纳期待、参与、紧张和体面收尾，表演和喝酒保留选择",
+  "created": "2026-11-25",
+  "kind": "static",
+  "production_status": "created_and_locally_validated",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "排练中",
+      "meaning": "排练",
+      "scene": "准备年会节目",
+      "display_scene": "准备年会节目",
+      "usage_note": "自愿参与时分享状态",
+      "pose": "Sheep awkwardly practices a tiny dance step, one hoof up one hoof sideways, body bent uncertainly, small plain floor tape mark under feet, simple red bow tie, sheepish face. No text on floor.",
+      "raw": "raw/01.png",
+      "prompt_file": "prompts/01.md"
+    },
+    {
+      "id": "02",
+      "caption": "怎么是我",
+      "meaning": "紧张",
+      "scene": "被叫上台",
+      "display_scene": "被叫上台",
+      "usage_note": "表达紧张，避免把同事画成恶意角色",
+      "pose": "Sheep shrinks into a tiny low wool mound under a small warm spotlight cone, one plain microphone aimed toward it on stand, eyes tiny and surprised, ears droop. Isolated spotlight shape not background panel.",
+      "raw": "raw/02.png",
+      "prompt_file": "prompts/02.md"
+    },
+    {
+      "id": "03",
+      "caption": "我负责鼓掌",
+      "meaning": "参与",
+      "scene": "在台下支持节目",
+      "display_scene": "在台下支持节目",
+      "usage_note": "提供无需表演的参与方式",
+      "pose": "Sheep seated low cheerfully clapping two little hooves, three clear clap motion strokes, small grin and crescent eyes, no props; body bounces slightly.",
+      "raw": "raw/03.png",
+      "prompt_file": "prompts/03.md"
+    },
+    {
+      "id": "04",
+      "caption": "坐等抽奖",
+      "meaning": "期待",
+      "scene": "等抽奖环节",
+      "display_scene": "等抽奖环节",
+      "usage_note": "真实期待与玩笑，不承诺中奖",
+      "pose": "Sheep suddenly sits perfectly upright on a tiny stool, hooves placed neatly on knees, huge attentive dot eyes directed forward, holds one plain raffle ticket with no text or digits.",
+      "raw": "raw/04.png",
+      "prompt_file": "prompts/04.md"
+    },
+    {
+      "id": "05",
+      "caption": "这次到我",
+      "meaning": "中奖",
+      "scene": "中奖或期待叫号",
+      "display_scene": "中奖或期待叫号",
+      "usage_note": "用实际上下文区分期待与已中奖",
+      "pose": "Sheep springs up from a low crouch raising one plain ticket high, eyes delighted, free hoof pointing toward own chest, two small gold confetti bits, no prize logos.",
+      "raw": "raw/05.png",
+      "prompt_file": "prompts/05.md"
+    },
+    {
+      "id": "06",
+      "caption": "重在参与",
+      "meaning": "自嘲",
+      "scene": "没抽中后自我安慰",
+      "display_scene": "没抽中后自我安慰",
+      "usage_note": "保留体面，不嘲笑别人的奖品",
+      "pose": "Sheep slumps on a low stool hugging one tiny plain consolation gift box, small watery dot eyes but crooked soft smile, lone small confetti piece falling, gentle not tragic.",
+      "raw": "raw/06.png",
+      "prompt_file": "prompts/06.md"
+    },
+    {
+      "id": "07",
+      "caption": "我先开吃",
+      "meaning": "吃席",
+      "scene": "聚餐开席",
+      "display_scene": "聚餐开席",
+      "usage_note": "等主持或同桌确认开席后使用",
+      "pose": "Sheep leans forward eagerly with simple bowl and spoon in hooves, round wool body stretched toward bowl, bright tiny eyes, no alcohol, no chopsticks stuck upright in rice.",
+      "raw": "raw/07.png",
+      "prompt_file": "prompts/07.md"
+    },
+    {
+      "id": "08",
+      "caption": "今晚辛苦啦",
+      "meaning": "感谢",
+      "scene": "活动散场",
+      "display_scene": "活动散场",
+      "usage_note": "感谢组织、后勤或表演者的付出",
+      "pose": "Sheep softly tired with loosened little red bow tie, offers one small warm heart with both hooves and gives a small sincere bow, two tiny confetti flecks at feet, clean isolated shape.",
+      "raw": "raw/08.png",
+      "prompt_file": "prompts/08.md"
+    }
+  ]
+}

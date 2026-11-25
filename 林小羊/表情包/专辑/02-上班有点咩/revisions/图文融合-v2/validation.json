@@ -1,0 +1,59 @@
+{
+  "album": "02-上班有点咩",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01",
+      "caption": "人已到工位",
+      "png240_bytes": 61954
+    },
+    {
+      "id": "02",
+      "caption": "会还没开完",
+      "png240_bytes": 58569
+    },
+    {
+      "id": "03",
+      "caption": "又改一版",
+      "png240_bytes": 62739
+    },
+    {
+      "id": "04",
+      "caption": "脑子在加载",
+      "png240_bytes": 65797
+    },
+    {
+      "id": "05",
+      "caption": "这饼有点大",
+      "png240_bytes": 78124
+    },
+    {
+      "id": "06",
+      "caption": "下班再说",
+      "png240_bytes": 73177
+    },
+    {
+      "id": "07",
+      "caption": "我先喝口水",
+      "png240_bytes": 75402
+    },
+    {
+      "id": "08",
+      "caption": "工资撑着我",
+      "png240_bytes": 68562
+    }
+  ]
+}

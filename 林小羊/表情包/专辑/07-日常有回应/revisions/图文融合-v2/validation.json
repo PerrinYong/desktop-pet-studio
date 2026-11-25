@@ -1,0 +1,99 @@
+{
+  "album": "07-日常有回应",
+  "revision": "图文融合-v2",
+  "checks_passed": true,
+  "checks": [
+    "original caption/meaning identity",
+    "dimensions",
+    "submission file size",
+    "true alpha",
+    "clear outer borders",
+    "white composite",
+    "raw SHA256",
+    "unchanged support assets",
+    "GIF frame count/timing/loop/alpha disposal when applicable"
+  ],
+  "visual_review": "另行查看 preview 深浅底总览及动图序列帧；此脚本不自动识别汉字或评价动作美感。",
+  "stickers": [
+    {
+      "id": "01-depart",
+      "caption": "我出发了",
+      "png240_bytes": 73288,
+      "gif_bytes": 157285,
+      "frames": 8,
+      "distinct_poses": 4,
+      "duration_ms": 800,
+      "loop": 0
+    },
+    {
+      "id": "02-home",
+      "caption": "到家啦",
+      "png240_bytes": 79598,
+      "gif_bytes": 325019,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "03-meal",
+      "caption": "开饭了",
+      "png240_bytes": 85447,
+      "gif_bytes": 390371,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "04-hug-you",
+      "caption": "抱抱你",
+      "png240_bytes": 79373,
+      "gif_bytes": 382327,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "05-recharge",
+      "caption": "回血中",
+      "png240_bytes": 79854,
+      "gif_bytes": 350583,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "06-night",
+      "caption": "晚安老己",
+      "png240_bytes": 69986,
+      "gif_bytes": 346693,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "07-weekend",
+      "caption": "周末开摆",
+      "png240_bytes": 71957,
+      "gif_bytes": 344441,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    },
+    {
+      "id": "08-lucky",
+      "caption": "接住好运",
+      "png240_bytes": 75196,
+      "gif_bytes": 303973,
+      "frames": 16,
+      "distinct_poses": 4,
+      "duration_ms": 1600,
+      "loop": 0
+    }
+  ]
+}

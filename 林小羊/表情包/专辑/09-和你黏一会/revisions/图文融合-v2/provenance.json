@@ -1,0 +1,144 @@
+[
+  {
+    "id": "01-miss",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-2b2b8537-ee2c-4792-ab6b-bb0c8ef551e8.png",
+    "archived": "raw/01-miss-sheet.png",
+    "prompt": "prompts/01-miss.md",
+    "reference": "references/character.png",
+    "sha256": "e99376d21b7d13d4166d0765fe4c8f171114497a2637e7bc0baa1c2348ae132f"
+  },
+  {
+    "id": "02-nuzzle",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-d004d8b9-dd07-4188-89e9-d11b2c9be039.png",
+    "archived": "raw/02-nuzzle-sheet.png",
+    "prompt": "prompts/02-nuzzle.md",
+    "reference": "references/character.png",
+    "sha256": "610d4a5b56628eaad1670591a25a5901f0ce425b268100ded78d61c97ab9cf88"
+  },
+  {
+    "id": "03-kiss",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-41fd387f-efac-4504-9a32-8acf7ca6e799.png",
+    "archived": "raw/03-kiss-sheet.png",
+    "prompt": "prompts/03-kiss.md",
+    "reference": "references/character.png",
+    "sha256": "146c197cd3ce8bf00c91ae23d913cf269dcf7746dcd8cca44f81186895008f5c"
+  },
+  {
+    "id": "04-heartbeat",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-725cdced-7dce-4b62-ad80-18231f8f2b55.png",
+    "archived": "raw/04-heartbeat-sheet.png",
+    "prompt": "prompts/04-heartbeat.md",
+    "reference": "references/character.png",
+    "sha256": "b03de7963b6932d323761b35448ea50d2493ebc0a5d2206e748089a9d3aca0d3"
+  },
+  {
+    "id": "05-pickup",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-327f405d-0227-461c-9121-5d1c50202df0.png",
+    "archived": "raw/05-pickup-sheet.png",
+    "prompt": "prompts/05-pickup.md",
+    "reference": "references/character.png",
+    "sha256": "b55d446468f082f0de37c50767aeb3cd4129ae794ffa8ad8a8b86ccce179af95"
+  },
+  {
+    "id": "06-dinner-date",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-48987fbf-0f60-454d-bfbc-af6a1a78b3e1.png",
+    "archived": "raw/06-dinner-date-sheet.png",
+    "prompt": "prompts/06-dinner-date.md",
+    "reference": "references/character.png",
+    "sha256": "675e397bc53db3eba7b2dd866aa1251455f21e7e033781ed66311ffd3e2e8546"
+  },
+  {
+    "id": "07-last-bite",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-940bda58-da51-41bb-b691-11595fb8221c.png",
+    "archived": "raw/07-last-bite-sheet.png",
+    "prompt": "prompts/07-last-bite.md",
+    "reference": "references/character.png",
+    "sha256": "742847cfa5dcce1d67c3890962279dddf513be9cc644d1de45524deb9d7fc94e"
+  },
+  {
+    "id": "08-busy",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-a90605b4-bb76-4395-a7dc-eee2c6d5209f.png",
+    "archived": "raw/08-busy-sheet.png",
+    "prompt": "prompts/08-busy.md",
+    "reference": "references/character.png",
+    "sha256": "5abc43b07eb1952a97721750e967d3cb95a18b27a4e3f358c062f43d89b9364b"
+  },
+  {
+    "id": "09-home-check-repair",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-c8019b2d-54e8-4700-a2f6-14883c2d0529.png",
+    "archived": "raw/09-home-check-repair.png",
+    "prompt": "prompts/09-home-check-repair.md",
+    "sha256": "3dbf70022fc3f1b4c8fb4e8d0d9d0641c691e9244f1d9cb9e4cbdd74e5970852"
+  },
+  {
+    "id": "09-home-check",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9791f2ff-ef6e-4a2a-8e99-0bbae26fdb13.png",
+    "archived": "raw/09-home-check-sheet.png",
+    "prompt": "prompts/09-home-check.md",
+    "reference": "references/character.png",
+    "sha256": "5ca7b21da18114e53f6ba1dc6dae308a3226af2909e298f47b43d02225031c3d"
+  },
+  {
+    "id": "10-comfort",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-deaeff9a-05db-4e0e-9d81-7770236d6bcd.png",
+    "archived": "raw/10-comfort-sheet.png",
+    "prompt": "prompts/10-comfort.md",
+    "reference": "references/character.png",
+    "sha256": "0161e90913ed11a5fc8e79460211125da94b63342ec388d63ce0fbdb56ad4b83"
+  },
+  {
+    "id": "11-here",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-d6b1c2d0-2f27-4825-a129-2af3356363cc.png",
+    "archived": "raw/11-here-sheet.png",
+    "prompt": "prompts/11-here.md",
+    "reference": "references/character.png",
+    "sha256": "60d696ee7bb917ee56e56fb8f321c81d4d918e35dc645b5944411e99865b9b85"
+  },
+  {
+    "id": "12-sorry",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-389b59c8-bbce-4130-b89f-11795ecafedc.png",
+    "archived": "raw/12-sorry-sheet.png",
+    "prompt": "prompts/12-sorry.md",
+    "reference": "references/character.png",
+    "sha256": "fcb2dfba20710c4cbb8e4762b24f9a126ff9f7d19e9b99da3392203f57902b6b"
+  },
+  {
+    "id": "13-reconcile-repair",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-29c8f175-9529-42b2-8ffc-0e44f903ae59.png",
+    "archived": "raw/13-reconcile-repair.png",
+    "prompt": "prompts/13-reconcile-repair.md",
+    "sha256": "48c40e76489edfa405f5f02018b9b0a8c0f4e77c37fd4031cb5927843076bfd2"
+  },
+  {
+    "id": "13-reconcile",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-55cfad5f-57d0-4f15-9842-bcb84209d08c.png",
+    "archived": "raw/13-reconcile-sheet.png",
+    "prompt": "prompts/13-reconcile.md",
+    "reference": "references/character.png",
+    "sha256": "70f03caf7d9dd04dcc45da6316fe8cc89f423848cc5113d16d3127faa1e63b7f"
+  },
+  {
+    "id": "14-smitten",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f391a97c-9740-4afc-ad75-9771ffc94877.png",
+    "archived": "raw/14-smitten-sheet.png",
+    "prompt": "prompts/14-smitten.md",
+    "reference": "references/character.png",
+    "sha256": "3150be4d22184029d5aae2c68140d53ced6e924153d8257013126089babf1fbf"
+  },
+  {
+    "id": "15-goodnight",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f6d7dc95-4af3-467a-98ca-ca10db36d048.png",
+    "archived": "raw/15-goodnight-sheet.png",
+    "prompt": "prompts/15-goodnight.md",
+    "reference": "references/character.png",
+    "sha256": "b8aa564723ada8bf99573f1e03db90a89e6d20fa718a677fdd62e7b17fbb0e0a"
+  },
+  {
+    "id": "16-dream",
+    "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-abec7e67-fe3f-4ba1-b06a-ba35878861f0.png",
+    "archived": "raw/16-dream-sheet.png",
+    "prompt": "prompts/16-dream.md",
+    "reference": "references/character.png",
+    "sha256": "1f2af29b76ea78993f527efba913711c9c595bdfa9c415103028d2206bda9f92"
+  }
+]
