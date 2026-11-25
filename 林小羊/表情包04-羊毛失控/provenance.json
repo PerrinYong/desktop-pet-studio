@@ -1,0 +1,87 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-11-25",
+  "reference": "references/character-master.png",
+  "files": [
+    {
+      "key": "absurd-02",
+      "pack": "absurd",
+      "id": "02",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-354e4051-128c-4a2f-9c50-4b3167f9736c.png",
+      "archived": "raw/02.png",
+      "sha256": "a3302524724afc7c61446a4cb54ea2380d08c494c8f9ccc79a1f71b0626002f5"
+    },
+    {
+      "key": "absurd-01",
+      "pack": "absurd",
+      "id": "01",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-12fba4d2-30b7-41de-b62e-9b6bae383ebd.png",
+      "archived": "raw/01.png",
+      "sha256": "8b3fd0dc4d9c8138a817733d3225367f861bef1d69b229bbb5ca4f5bf89db947"
+    },
+    {
+      "key": "absurd-03",
+      "pack": "absurd",
+      "id": "03",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-0160eacf-44cd-4109-b31b-cf45a7586570.png",
+      "archived": "raw/03.png",
+      "sha256": "b16438e5053407a0d694ceff058c8d955fc41c742458dde31aac1fa48293184d"
+    },
+    {
+      "key": "absurd-04",
+      "pack": "absurd",
+      "id": "04",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-57301651-5e64-46cc-9c47-5c74671e3528.png",
+      "archived": "raw/04.png",
+      "sha256": "4498da90e3fdcc2635a71b9ca78c7929254c800d40f4375d5ddd8545adef58b3"
+    },
+    {
+      "key": "absurd-05",
+      "pack": "absurd",
+      "id": "05",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-078583cb-e17a-4a71-beec-0cbb1c95d087.png",
+      "archived": "raw/05.png",
+      "sha256": "1fa82d4d5cf395e69bd6ffa0e7d147cfbe454fa1ed9702b9d741490a702f6de3"
+    },
+    {
+      "key": "absurd-06",
+      "pack": "absurd",
+      "id": "06",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-dbbdf4ef-e85e-4a0a-8995-c797d7e13ab3.png",
+      "archived": "raw/06.png",
+      "sha256": "78ef5e4062150e72bba8307463f0d26f80f9d630659f63fec38602c8adef0e15"
+    },
+    {
+      "key": "absurd-07",
+      "pack": "absurd",
+      "id": "07",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3d3f606e-46c3-4f60-b831-20e20dfa352e.png",
+      "archived": "raw/07.png",
+      "sha256": "831e9ca5e211df8bb89ca07bf04e626a7acdb27f750787511f511b563d90c46c"
+    },
+    {
+      "key": "absurd-08",
+      "pack": "absurd",
+      "id": "08",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3fa426a5-4801-45b3-9ff8-fda320671e7b.png",
+      "archived": "raw/08.png",
+      "sha256": "c077fe6397c909dceffe0e54e685cbe5ecee6dd46aea6b9fed53801d0a95e639"
+    }
+  ],
+  "animation_sources": [
+    {
+      "id": "cheer",
+      "caption": "好耶",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-07397a96-efb1-4478-a6a2-644f91871a17.png",
+      "archived": "animation/raw/cheer-sheet.png",
+      "sha256": "e540f525ca2a0ec6d294a90bed94ff42027f6700b850dec6d9cf287fb5706419"
+    },
+    {
+      "id": "side-hop",
+      "caption": "反复横跳",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-368ac66d-79de-432c-9d50-8d3c91dd9cd4.png",
+      "archived": "animation/raw/side-hop-sheet.png",
+      "sha256": "8defebe858f747302a45ea92950c9aefc161a26e2948d838a6ea354c08bb48f1"
+    }
+  ]
+}

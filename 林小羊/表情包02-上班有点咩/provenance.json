@@ -1,0 +1,71 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-11-25",
+  "reference": "references/character-master.png",
+  "files": [
+    {
+      "key": "work-rant-03",
+      "pack": "work-rant",
+      "id": "03",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-42896002-d66a-41d8-89aa-6a192c68c21c.png",
+      "archived": "raw/03.png",
+      "sha256": "dd21c4e5b54a5d0b5d08c1cac64611cce262a744daa20407b9da43e7fa2e13a6"
+    },
+    {
+      "key": "work-rant-01",
+      "pack": "work-rant",
+      "id": "01",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-4e985f77-05f3-4112-ae04-977e0f047deb.png",
+      "archived": "raw/01.png",
+      "sha256": "f15a8d784286df67855ad3808cc9098744dd911a3d2ef908ffa35c39b84c4f62"
+    },
+    {
+      "key": "work-rant-02",
+      "pack": "work-rant",
+      "id": "02",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f3368188-6c3b-46b8-9626-d3382829683e.png",
+      "archived": "raw/02.png",
+      "sha256": "677e70ff405ddbd2d42a68d2e220eb6daa23f366e71be0d729137e1b81d48e56"
+    },
+    {
+      "key": "work-rant-04",
+      "pack": "work-rant",
+      "id": "04",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-5edac337-2917-4b73-b975-9d8540372fda.png",
+      "archived": "raw/04.png",
+      "sha256": "1606001fea24ebd1530033b8459ec1937707038e8cb9c25225928b7fe94d5537"
+    },
+    {
+      "key": "work-rant-05",
+      "pack": "work-rant",
+      "id": "05",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-0b461382-4f49-4620-b5c2-657aa5784f9d.png",
+      "archived": "raw/05.png",
+      "sha256": "fcb4586a695a1dfe0028204483978cdaddb4b34a0721f9f3782848b36b326349"
+    },
+    {
+      "key": "work-rant-06",
+      "pack": "work-rant",
+      "id": "06",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-ec9a9d94-cdab-45aa-94ff-5023320c6da0.png",
+      "archived": "raw/06.png",
+      "sha256": "abe677179959f5c3662d2dcc1aad787ed3067b7bf19afa8cb4462c0a721174ca"
+    },
+    {
+      "key": "work-rant-07",
+      "pack": "work-rant",
+      "id": "07",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-560cc695-660d-4bad-bfaa-868428221ca8.png",
+      "archived": "raw/07.png",
+      "sha256": "b5761ee6f59d7c3ad071f9b17d58679824e8bb6d8002268c4ecb1762c306cb68"
+    },
+    {
+      "key": "work-rant-08",
+      "pack": "work-rant",
+      "id": "08",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-60b1f240-c160-4839-8f4f-edfe7e6d892c.png",
+      "archived": "raw/08.png",
+      "sha256": "a5f9a5b6dee417a98cfe46e75f173a59067d967e15b8611f81c0e32e7689cdd0"
+    }
+  ]
+}

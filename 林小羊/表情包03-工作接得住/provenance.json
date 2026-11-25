@@ -1,0 +1,71 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-11-25",
+  "reference": "references/character-master.png",
+  "files": [
+    {
+      "key": "work-useful-03",
+      "pack": "work-useful",
+      "id": "03",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-45293368-8ae5-461b-92b7-43a9d983f297.png",
+      "archived": "raw/03.png",
+      "sha256": "3fc0ffff81ae0347762a83760db6e624a43b75b0747b071284b4f1d3acebb735"
+    },
+    {
+      "key": "work-useful-01",
+      "pack": "work-useful",
+      "id": "01",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-e08a3539-2bad-4688-b16d-4b1cfcb035a5.png",
+      "archived": "raw/01.png",
+      "sha256": "854d9cbfd5efe974964c1cf7b6f31e067a95af2a1860b03866237ec420644538"
+    },
+    {
+      "key": "work-useful-02",
+      "pack": "work-useful",
+      "id": "02",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-accf32da-27f6-4f94-ab58-ae5d887ce097.png",
+      "archived": "raw/02.png",
+      "sha256": "42ad6f7fbb60dc5ecebfa0aa1cd40f1d8a31a58db2aeb70f112406f5c9c77e02"
+    },
+    {
+      "key": "work-useful-04",
+      "pack": "work-useful",
+      "id": "04",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-d124e255-26d5-4951-8a2e-7d5fe70170c9.png",
+      "archived": "raw/04.png",
+      "sha256": "60a7451a10fc5d0258d8d50395b8cb0f904a609a6bb94285f966bee67f27652b"
+    },
+    {
+      "key": "work-useful-05",
+      "pack": "work-useful",
+      "id": "05",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-3e70c3bc-8401-4c7f-a675-c9d1eb9ee95c.png",
+      "archived": "raw/05.png",
+      "sha256": "22cd09c78e7d723e751013d716745e4d9fca98804b2bace0653bd27c3d777b74"
+    },
+    {
+      "key": "work-useful-06",
+      "pack": "work-useful",
+      "id": "06",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-a31a7be1-ccbb-4d35-8a71-6595d4d9c40f.png",
+      "archived": "raw/06.png",
+      "sha256": "5f7b5bd4d3a5bab55c8329d47a09f1886226c20fd8f82f1c74e4c539011b67d9"
+    },
+    {
+      "key": "work-useful-07",
+      "pack": "work-useful",
+      "id": "07",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-bcc10c3d-8489-4dfb-8a5c-4d5167974e70.png",
+      "archived": "raw/07.png",
+      "sha256": "7a4c532473e8cfe13bf4de486dd1aa767902776685d5ae809474790fddd2f951"
+    },
+    {
+      "key": "work-useful-08",
+      "pack": "work-useful",
+      "id": "08",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-8a4851f9-20ba-455e-9b82-ff21c98e6876.png",
+      "archived": "raw/08.png",
+      "sha256": "c623bb1d6e397b8e3bf0c99d78cdf92ffdb5e9678e075f9eb5eda9038364cf4b"
+    }
+  ]
+}

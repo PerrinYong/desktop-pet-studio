@@ -1,0 +1,177 @@
+{
+  "ok": true,
+  "count": 8,
+  "format": "PNG RGBA",
+  "kind": "static",
+  "exports": [
+    512,
+    240,
+    120
+  ],
+  "main_internal_target_bytes": 100000,
+  "thumbnail_internal_target_bytes": 50000,
+  "official_submission_rules_verified": false,
+  "wechat_client_tested": false,
+  "files": [
+    {
+      "id": "01",
+      "caption": "人已到工位",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 63046,
+      "thumbnail_bytes": 19781,
+      "transparent_fraction": 0.4734,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        17,
+        21,
+        222,
+        221
+      ],
+      "sha256": "51d91c358668a7f99f4c8bd4e7f7b74740395fa9c02251057378531979a4b5e6",
+      "raw_sha256": "f15a8d784286df67855ad3808cc9098744dd911a3d2ef908ffa35c39b84c4f62"
+    },
+    {
+      "id": "02",
+      "caption": "会还没开完",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 49737,
+      "thumbnail_bytes": 15748,
+      "transparent_fraction": 0.5934,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        12,
+        56,
+        227,
+        200
+      ],
+      "sha256": "b981a0810d46252d743eed40661337682f4023e0c8972bc6c432bc955c1f859d",
+      "raw_sha256": "677e70ff405ddbd2d42a68d2e220eb6daa23f366e71be0d729137e1b81d48e56"
+    },
+    {
+      "id": "03",
+      "caption": "又改一版",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 61169,
+      "thumbnail_bytes": 18989,
+      "transparent_fraction": 0.47,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        14,
+        22,
+        222,
+        225
+      ],
+      "sha256": "ff753fcf91048bfcd3b3f7ccfa8290a034fda3d8c03118bbe974349820ff56f5",
+      "raw_sha256": "dd21c4e5b54a5d0b5d08c1cac64611cce262a744daa20407b9da43e7fa2e13a6"
+    },
+    {
+      "id": "04",
+      "caption": "脑子在加载",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 57339,
+      "thumbnail_bytes": 18012,
+      "transparent_fraction": 0.4638,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        22,
+        16,
+        212,
+        226
+      ],
+      "sha256": "0e0f2599c8dae45e483d06812f5936eda4cd15b63466139b347a79b4149ef34d",
+      "raw_sha256": "1606001fea24ebd1530033b8459ec1937707038e8cb9c25225928b7fe94d5537"
+    },
+    {
+      "id": "05",
+      "caption": "这饼有点大",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 78474,
+      "thumbnail_bytes": 24461,
+      "transparent_fraction": 0.4447,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        24,
+        17,
+        214,
+        226
+      ],
+      "sha256": "8e8d3921f550b8768686d65e1dc6a0a926d9405fe59a1fc7870e637c61788080",
+      "raw_sha256": "fcb4586a695a1dfe0028204483978cdaddb4b34a0721f9f3782848b36b326349"
+    },
+    {
+      "id": "06",
+      "caption": "下班再说",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 63482,
+      "thumbnail_bytes": 19654,
+      "transparent_fraction": 0.4739,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        23,
+        25,
+        218,
+        220
+      ],
+      "sha256": "2aec8c88f6c71b0826d715ba5940ee131b0f99f6e85f7e1033df2c5ab09a14b9",
+      "raw_sha256": "abe677179959f5c3662d2dcc1aad787ed3067b7bf19afa8cb4462c0a721174ca"
+    },
+    {
+      "id": "07",
+      "caption": "我先喝口水",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 57299,
+      "thumbnail_bytes": 18080,
+      "transparent_fraction": 0.4735,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        11,
+        30,
+        227,
+        217
+      ],
+      "sha256": "fe1148eda1f6a79ff4c7545bd1e6a6e7cdd8f5d19dbc98553f70f4a5e5b7d520",
+      "raw_sha256": "b5761ee6f59d7c3ad071f9b17d58679824e8bb6d8002268c4ecb1762c306cb68"
+    },
+    {
+      "id": "08",
+      "caption": "工资撑着我",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 63430,
+      "thumbnail_bytes": 19727,
+      "transparent_fraction": 0.4474,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        17,
+        22,
+        220,
+        223
+      ],
+      "sha256": "4f05b3e028a5ff87e0bf8204f8cf8df3d72f188670d7101e2ff8b3b6230cd3f6",
+      "raw_sha256": "a5f9a5b6dee417a98cfe46e75f173a59067d967e15b8611f81c0e32e7689cdd0"
+    }
+  ]
+}

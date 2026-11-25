@@ -1,0 +1,485 @@
+{
+  "created": "2026-11-25",
+  "files": [
+    {
+      "path": "animation/exports/反复横跳.gif",
+      "bytes": 104335,
+      "sha256": "6b8ee3dd278e4fc23e3c8dc34818a91f53d306e1dcd10c193c5f37e0305470c5"
+    },
+    {
+      "path": "animation/exports/好耶.gif",
+      "bytes": 94900,
+      "sha256": "49933ccdbf145169ed2bd6046ff860378604d01b72a35d25401b89c2d1476ff2"
+    },
+    {
+      "path": "animation/frames/cheer/frame-000.png",
+      "bytes": 32523,
+      "sha256": "d057891a41588c519e8fa41cba06dc5f886e82b458556b159365a8ed80a2f83b"
+    },
+    {
+      "path": "animation/frames/cheer/frame-001.png",
+      "bytes": 32523,
+      "sha256": "d057891a41588c519e8fa41cba06dc5f886e82b458556b159365a8ed80a2f83b"
+    },
+    {
+      "path": "animation/frames/cheer/frame-002.png",
+      "bytes": 32523,
+      "sha256": "d057891a41588c519e8fa41cba06dc5f886e82b458556b159365a8ed80a2f83b"
+    },
+    {
+      "path": "animation/frames/cheer/frame-003.png",
+      "bytes": 37802,
+      "sha256": "b80daccf9396ed78dadbc623b0691e1d84e1c9da8e93d1a5ccbf353c9d133e96"
+    },
+    {
+      "path": "animation/frames/cheer/frame-004.png",
+      "bytes": 37438,
+      "sha256": "c009a325d36b3effde384380b3651de9ac115d1745af6eb9dc5225a0f1be1989"
+    },
+    {
+      "path": "animation/frames/cheer/frame-005.png",
+      "bytes": 37438,
+      "sha256": "c009a325d36b3effde384380b3651de9ac115d1745af6eb9dc5225a0f1be1989"
+    },
+    {
+      "path": "animation/frames/cheer/frame-006.png",
+      "bytes": 37016,
+      "sha256": "59114c55beb2e70a452527b5b5d494ed605314c1654868e82bd5814d42904155"
+    },
+    {
+      "path": "animation/frames/cheer/frame-007.png",
+      "bytes": 37016,
+      "sha256": "59114c55beb2e70a452527b5b5d494ed605314c1654868e82bd5814d42904155"
+    },
+    {
+      "path": "animation/frames/cheer/key-0.png",
+      "bytes": 32523,
+      "sha256": "d057891a41588c519e8fa41cba06dc5f886e82b458556b159365a8ed80a2f83b"
+    },
+    {
+      "path": "animation/frames/cheer/key-1.png",
+      "bytes": 37802,
+      "sha256": "b80daccf9396ed78dadbc623b0691e1d84e1c9da8e93d1a5ccbf353c9d133e96"
+    },
+    {
+      "path": "animation/frames/cheer/key-2.png",
+      "bytes": 37438,
+      "sha256": "c009a325d36b3effde384380b3651de9ac115d1745af6eb9dc5225a0f1be1989"
+    },
+    {
+      "path": "animation/frames/cheer/key-3.png",
+      "bytes": 37016,
+      "sha256": "59114c55beb2e70a452527b5b5d494ed605314c1654868e82bd5814d42904155"
+    },
+    {
+      "path": "animation/frames/cheer/source-0.png",
+      "bytes": 279012,
+      "sha256": "78b528228b61cf2352f31f332f80b130093e161a7f4ab51896e3ba9295f340c0"
+    },
+    {
+      "path": "animation/frames/cheer/source-1.png",
+      "bytes": 329859,
+      "sha256": "63ae03478d8a8d13556ff2cbb9c26b3158ad695df908e13099f8725e54a60032"
+    },
+    {
+      "path": "animation/frames/cheer/source-2.png",
+      "bytes": 330225,
+      "sha256": "dfa2cf7017960c69fb05ba41d22e47f8fa4b61e038056b1e0d9d9859874c8458"
+    },
+    {
+      "path": "animation/frames/cheer/source-3.png",
+      "bytes": 323310,
+      "sha256": "b4e80a4decd09283f0d24936dff52101989c4b0615541a805a2d7a78994ecb28"
+    },
+    {
+      "path": "animation/frames/side-hop/frame-000.png",
+      "bytes": 35667,
+      "sha256": "ed97a7df1bae8390d4395a9b54abe83e5cf0e90d1418fd0c66a215f760d3d67c"
+    },
+    {
+      "path": "animation/frames/side-hop/frame-001.png",
+      "bytes": 35667,
+      "sha256": "ed97a7df1bae8390d4395a9b54abe83e5cf0e90d1418fd0c66a215f760d3d67c"
+    },
+    {
+      "path": "animation/frames/side-hop/frame-002.png",
+      "bytes": 37108,
+      "sha256": "58fa15e0b3a538d0fd77e2b6187d9553ec36aeaf395b733244bfcdc32cabf507"
+    },
+    {
+      "path": "animation/frames/side-hop/frame-003.png",
+      "bytes": 37108,
+      "sha256": "58fa15e0b3a538d0fd77e2b6187d9553ec36aeaf395b733244bfcdc32cabf507"
+    },
+    {
+      "path": "animation/frames/side-hop/frame-004.png",
+      "bytes": 35902,
+      "sha256": "87757dd7598d023c4e8e91c991ccaab98c74d7d07c79f1d7b85001956a40ff10"
+    },
+    {
+      "path": "animation/frames/side-hop/frame-005.png",
+      "bytes": 35902,
+      "sha256": "87757dd7598d023c4e8e91c991ccaab98c74d7d07c79f1d7b85001956a40ff10"
+    },
+    {
+      "path": "animation/frames/side-hop/frame-006.png",
+      "bytes": 37271,
+      "sha256": "d68122250e308ea1a374f8d6251377e91ccdb37cbab4f0420aded78e0ae4974f"
+    },
+    {
+      "path": "animation/frames/side-hop/frame-007.png",
+      "bytes": 37271,
+      "sha256": "d68122250e308ea1a374f8d6251377e91ccdb37cbab4f0420aded78e0ae4974f"
+    },
+    {
+      "path": "animation/frames/side-hop/key-0.png",
+      "bytes": 35667,
+      "sha256": "ed97a7df1bae8390d4395a9b54abe83e5cf0e90d1418fd0c66a215f760d3d67c"
+    },
+    {
+      "path": "animation/frames/side-hop/key-1.png",
+      "bytes": 37108,
+      "sha256": "58fa15e0b3a538d0fd77e2b6187d9553ec36aeaf395b733244bfcdc32cabf507"
+    },
+    {
+      "path": "animation/frames/side-hop/key-2.png",
+      "bytes": 35902,
+      "sha256": "87757dd7598d023c4e8e91c991ccaab98c74d7d07c79f1d7b85001956a40ff10"
+    },
+    {
+      "path": "animation/frames/side-hop/key-3.png",
+      "bytes": 37271,
+      "sha256": "d68122250e308ea1a374f8d6251377e91ccdb37cbab4f0420aded78e0ae4974f"
+    },
+    {
+      "path": "animation/frames/side-hop/source-0.png",
+      "bytes": 296835,
+      "sha256": "cfb79d08302aa7a77e0dd9af3ca2cb2c3b1bd2fad499a49132404bc53d55583c"
+    },
+    {
+      "path": "animation/frames/side-hop/source-1.png",
+      "bytes": 315839,
+      "sha256": "9ef1143649fe4a6b62822c6b62d02f0519f89aa68672a14f1802a1bfde0183e3"
+    },
+    {
+      "path": "animation/frames/side-hop/source-2.png",
+      "bytes": 302819,
+      "sha256": "7a5c301fdd59c701eb4c0b8fd6e7da6767fe7c9b030065f01fbd132b65298d4d"
+    },
+    {
+      "path": "animation/frames/side-hop/source-3.png",
+      "bytes": 318232,
+      "sha256": "78b21fbca40571b89632e8d88a629c9b1096515bf4224291b578ab96ea3e6643"
+    },
+    {
+      "path": "animation/preview/cheer-dark.jpg",
+      "bytes": 33531,
+      "sha256": "b40df46a1a70bc0dab62c02bd7ff18126a712e1013b10c17bc6eba1859eac86d"
+    },
+    {
+      "path": "animation/preview/cheer-light.jpg",
+      "bytes": 29070,
+      "sha256": "edab788398b5e077dc2af5109934f0e3bd6983a8ff3994031d09539d6496e6e9"
+    },
+    {
+      "path": "animation/preview/side-hop-dark.jpg",
+      "bytes": 36946,
+      "sha256": "05c0d04245e4f7485aa2414b92d12594bd52831962f612dde15ecbf5fb3a5b4d"
+    },
+    {
+      "path": "animation/preview/side-hop-light.jpg",
+      "bytes": 32179,
+      "sha256": "280cc9d96aeb79d7e7317da07b869c3e1c6fe63b11514ba4030372dc8d1691f0"
+    },
+    {
+      "path": "animation/prompts/cheer.md",
+      "bytes": 1689,
+      "sha256": "9907bc6a62346059d67dbdd6a06a866a19f4eddfdcea06d88eaae07f9604f8b9"
+    },
+    {
+      "path": "animation/prompts/side-hop.md",
+      "bytes": 1619,
+      "sha256": "ee9c19448a57846930b854ab8f37963e45908f3821c524bbe884f12e9f5e16d4"
+    },
+    {
+      "path": "animation/raw/cheer-sheet.png",
+      "bytes": 1235400,
+      "sha256": "e540f525ca2a0ec6d294a90bed94ff42027f6700b850dec6d9cf287fb5706419"
+    },
+    {
+      "path": "animation/raw/side-hop-sheet.png",
+      "bytes": 1208916,
+      "sha256": "8defebe858f747302a45ea92950c9aefc161a26e2948d838a6ea354c08bb48f1"
+    },
+    {
+      "path": "animation/README.md",
+      "bytes": 1294,
+      "sha256": "a3a91cc09fcbb829daa4610757a3cedaf29d1c80380e72d21eac7973922d0860"
+    },
+    {
+      "path": "animation/timing.json",
+      "bytes": 1037,
+      "sha256": "49f29b77ebb5a1171c401642dcd9e4b91ee7a8c5d37b2007a4967050fd2b4f19"
+    },
+    {
+      "path": "animation/validation.json",
+      "bytes": 1062,
+      "sha256": "784d8a27d7e824fb1b3a657fb3ebdd01fd49c4cea24e17191cab5c8b3c71300a"
+    },
+    {
+      "path": "exports/chat-512/01-我裂开了.png",
+      "bytes": 241606,
+      "sha256": "4e704f775d981ab02b747b8412fece79328a291a84d1b89b5fa31ddf9c89d3e7"
+    },
+    {
+      "path": "exports/chat-512/02-脑子打结.png",
+      "bytes": 232103,
+      "sha256": "df9dd54f0ef0fdb1ddcde7db9ee0b8150b03b4971145b0465624343de433859d"
+    },
+    {
+      "path": "exports/chat-512/03-原地起飞.png",
+      "bytes": 168139,
+      "sha256": "06acef164768bd6249de1e4c28e40ae2c7038a5dc236997e004facb7d54b4580"
+    },
+    {
+      "path": "exports/chat-512/04-已变成饼.png",
+      "bytes": 161141,
+      "sha256": "64669d011e085ed76e913481c82b009c806ce8115217c783113734987841e8e1"
+    },
+    {
+      "path": "exports/chat-512/05-反复横跳.png",
+      "bytes": 257774,
+      "sha256": "c1b0445ab5b0764807c34bbbd140d70d32fd85cb78288a0e860cf7628920537b"
+    },
+    {
+      "path": "exports/chat-512/06-快乐到变形.png",
+      "bytes": 240149,
+      "sha256": "4172805a267076e998e6d5c61ef3e3b2fadf3b47277a2ddac19883c1e9580803"
+    },
+    {
+      "path": "exports/chat-512/07-灵魂出窍.png",
+      "bytes": 206837,
+      "sha256": "5b06a55fc939eff218ef9875ff8231ecdf7c82ea90ce2c828e2a87f7f3c75a0c"
+    },
+    {
+      "path": "exports/chat-512/08-好耶.png",
+      "bytes": 207995,
+      "sha256": "1f5e461b3bec28b8e24c68576b22c1331278d40f8afcc2f5048df64949d4693e"
+    },
+    {
+      "path": "exports/thumbnails-120/01-我裂开了.png",
+      "bytes": 18777,
+      "sha256": "163c4e0c4cd2593afd98db71e98fae26491212239677dd24ff4defa389fb68aa"
+    },
+    {
+      "path": "exports/thumbnails-120/02-脑子打结.png",
+      "bytes": 17855,
+      "sha256": "217c11f1e5659edcee42e65a87ad7aad70f9e8e993f34ddf0e94f596e896ad57"
+    },
+    {
+      "path": "exports/thumbnails-120/03-原地起飞.png",
+      "bytes": 13174,
+      "sha256": "73a5484093a4532faa8040e9e19db3b9a25a3558aa958caee4532b82617dfdc4"
+    },
+    {
+      "path": "exports/thumbnails-120/04-已变成饼.png",
+      "bytes": 13109,
+      "sha256": "9856026991d946d24b193bdb4d89ae7414c5c03710823a8fece4235524371545"
+    },
+    {
+      "path": "exports/thumbnails-120/05-反复横跳.png",
+      "bytes": 20010,
+      "sha256": "ea2c3a387c03560744acaa8975779386c06bbee97d98608e19c55fd7316a92b1"
+    },
+    {
+      "path": "exports/thumbnails-120/06-快乐到变形.png",
+      "bytes": 18150,
+      "sha256": "a4911840c6f06792a7437c15c19d3906b189e2d48512ad95f592a8b081865f71"
+    },
+    {
+      "path": "exports/thumbnails-120/07-灵魂出窍.png",
+      "bytes": 16158,
+      "sha256": "513f65fde54e97e5fee5a184bb6951fc73e565232dcf197c0258fda57f942155"
+    },
+    {
+      "path": "exports/thumbnails-120/08-好耶.png",
+      "bytes": 15692,
+      "sha256": "1312e4352f3e0ad942d0300158b9521933cf68016314622a76c3575c0c465d90"
+    },
+    {
+      "path": "exports/wechat-240/01-我裂开了.png",
+      "bytes": 59557,
+      "sha256": "d627452e9e7a584e1fc3bae79e595f43a06b0631739bcbe13c95b3c474867db1"
+    },
+    {
+      "path": "exports/wechat-240/02-脑子打结.png",
+      "bytes": 57424,
+      "sha256": "993206576d8b34ff11bd385e302484d1a505b5de67359cf8f3cccbc9dd61f9be"
+    },
+    {
+      "path": "exports/wechat-240/03-原地起飞.png",
+      "bytes": 42112,
+      "sha256": "cbb7458087921151cb0d83e556d407f1585840ba1c0c9c07e9ca0f1b17d124d1"
+    },
+    {
+      "path": "exports/wechat-240/04-已变成饼.png",
+      "bytes": 41234,
+      "sha256": "5fc5caf5b17194c9c3957f60b065560c61018efbf549849f975b2287c6f7d9ad"
+    },
+    {
+      "path": "exports/wechat-240/05-反复横跳.png",
+      "bytes": 63994,
+      "sha256": "16e6ed06bc3e193a752bcfa90ff07d88eac623b9bb2e76d0907c83fb37249aeb"
+    },
+    {
+      "path": "exports/wechat-240/06-快乐到变形.png",
+      "bytes": 58182,
+      "sha256": "6c5420dae78040b9e2415a9971ded95b2b1258915b45c495913fc14bb1f5cc4c"
+    },
+    {
+      "path": "exports/wechat-240/07-灵魂出窍.png",
+      "bytes": 51524,
+      "sha256": "b03a921badbad8c9bd6ec681902417410841fdb59616e9bfa6fc29c9fe5d136a"
+    },
+    {
+      "path": "exports/wechat-240/08-好耶.png",
+      "bytes": 51498,
+      "sha256": "5976094d2cdae8537e1126aca9918a490b76996d90631f9d37bfe1fa7ac26d4d"
+    },
+    {
+      "path": "pack.json",
+      "bytes": 4754,
+      "sha256": "d56b5a7b56fa4530fb11cc8b34f9c5657140b9adf0edc031f3f21ffbf7deb18b"
+    },
+    {
+      "path": "preview/contact-dark.jpg",
+      "bytes": 118096,
+      "sha256": "3a627ba8582ae5bdf89c33e0bf9ce773851ab0730ac48f2ec61f89bc09c644de"
+    },
+    {
+      "path": "preview/contact-light.jpg",
+      "bytes": 101447,
+      "sha256": "ef6ccaa6d278a94a8e658c93ae6c174223f65e1b93bd2ad091e62dbd9633a295"
+    },
+    {
+      "path": "prompts/01.md",
+      "bytes": 1413,
+      "sha256": "fef5ab70ce0de17c31bbc7ffb9ac22ba281e8de097138ba4a1aeb81df24d00a3"
+    },
+    {
+      "path": "prompts/02.md",
+      "bytes": 1372,
+      "sha256": "42b9079b411912c58dbf1c36d0db2de7d1acbefea8234153ef7ac2f249a4cfb9"
+    },
+    {
+      "path": "prompts/03.md",
+      "bytes": 1368,
+      "sha256": "36f8824eb4221b9e21b4a71b97869e7f5d3582cd0af6fdf080d64d5f0699f3b7"
+    },
+    {
+      "path": "prompts/04.md",
+      "bytes": 1345,
+      "sha256": "c978240edd5e422ff5d0dfaeb55784c8912e2e3921eb4a105c5bca87db18e9f9"
+    },
+    {
+      "path": "prompts/05.md",
+      "bytes": 1396,
+      "sha256": "282f876d3a66c65d6be91d7292760005b39f3761d52942c1cadd6345842c907f"
+    },
+    {
+      "path": "prompts/06.md",
+      "bytes": 1352,
+      "sha256": "44f073cfb1f04db61ca1ab493cdadae93492a0dcf322a01525dc1580fdcf1031"
+    },
+    {
+      "path": "prompts/07.md",
+      "bytes": 1394,
+      "sha256": "fbc8523de7597307d2642fd6fb4636d3b55d0daba5ba2bf499c1dac0745ce3d6"
+    },
+    {
+      "path": "prompts/08.md",
+      "bytes": 1360,
+      "sha256": "4470935e2ee9be55d7a31bb51ab114ac713428b9f638a5b03212bc6a4c057052"
+    },
+    {
+      "path": "provenance.json",
+      "bytes": 3675,
+      "sha256": "b12fbb0719d9018a5dc66c7f1ef73fd2582fb116874910d9bca321b39e4defeb"
+    },
+    {
+      "path": "raw/01.png",
+      "bytes": 1434841,
+      "sha256": "8b3fd0dc4d9c8138a817733d3225367f861bef1d69b229bbb5ca4f5bf89db947"
+    },
+    {
+      "path": "raw/02.png",
+      "bytes": 1312326,
+      "sha256": "a3302524724afc7c61446a4cb54ea2380d08c494c8f9ccc79a1f71b0626002f5"
+    },
+    {
+      "path": "raw/03.png",
+      "bytes": 916099,
+      "sha256": "b16438e5053407a0d694ceff058c8d955fc41c742458dde31aac1fa48293184d"
+    },
+    {
+      "path": "raw/04.png",
+      "bytes": 851082,
+      "sha256": "4498da90e3fdcc2635a71b9ca78c7929254c800d40f4375d5ddd8545adef58b3"
+    },
+    {
+      "path": "raw/05.png",
+      "bytes": 1425198,
+      "sha256": "1fa82d4d5cf395e69bd6ffa0e7d147cfbe454fa1ed9702b9d741490a702f6de3"
+    },
+    {
+      "path": "raw/06.png",
+      "bytes": 1430749,
+      "sha256": "78ef5e4062150e72bba8307463f0d26f80f9d630659f63fec38602c8adef0e15"
+    },
+    {
+      "path": "raw/07.png",
+      "bytes": 1189094,
+      "sha256": "831e9ca5e211df8bb89ca07bf04e626a7acdb27f750787511f511b563d90c46c"
+    },
+    {
+      "path": "raw/08.png",
+      "bytes": 1194265,
+      "sha256": "c077fe6397c909dceffe0e54e685cbe5ecee6dd46aea6b9fed53801d0a95e639"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2376,
+      "sha256": "798ecd75ed5e192a9ddbf86b66e8e018b2d59973868fb95e30eba674c6cee161"
+    },
+    {
+      "path": "references/character-master.png",
+      "bytes": 989101,
+      "sha256": "670922e98f092922569610ed177d434a16c8c1cde482999a03bef9f85556f416"
+    },
+    {
+      "path": "scripts/export-animation.ps1",
+      "bytes": 4350,
+      "sha256": "5fb6949b50b9e78050ae8aec48ef832c049b9be2e9dfd4697eedd3a3dd4f2d5a"
+    },
+    {
+      "path": "scripts/export.ps1",
+      "bytes": 6314,
+      "sha256": "35deb4e0356696e35ad8627ad1035b046b5d5edc4bf021aa431d6fc5bdd01b4c"
+    },
+    {
+      "path": "validation.json",
+      "bytes": 4492,
+      "sha256": "7c863a94dc0ef29314c52987ef891f834df4ff0c9105da1e941d8e4a17f5c2ed"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 576,
+      "sha256": "a360b30cf40615e08b09738b26ca5323af590f13266a1095326aea80dde4148f"
+    },
+    {
+      "path": "含义词.txt",
+      "bytes": 181,
+      "sha256": "13a655b014369e34aaaa28e394961a861258a7fbdf45cb16168f8c2fedda5bcd"
+    }
+  ]
+}

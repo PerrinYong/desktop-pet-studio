@@ -1,0 +1,55 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-11-25",
+  "reference": "references/character-master.png",
+  "files": [
+    {
+      "id": "01-self-hug",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-65cc6e17-f6d0-4ecd-83c5-1b3328a3004c.png",
+      "archived": "animation/raw/01-self-hug-sheet.png",
+      "sha256": "7e4e70967dfe02a14735265978a47e2ee842508e9f69c4e77609ac9d7ea598e9"
+    },
+    {
+      "id": "02-awesome",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-52cd92e0-e2f8-4eb9-9b18-810611299eb3.png",
+      "archived": "animation/raw/02-awesome-sheet.png",
+      "sha256": "dbd692b16e09e501e1d600bc461272b183a4d2b0f6dda0a863261c54d395400e"
+    },
+    {
+      "id": "03-flop",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-146c813a-1b94-46af-a84b-45714637337b.png",
+      "archived": "animation/raw/03-flop-sheet.png",
+      "sha256": "96e30acd97297328b98ab028a34971e737a6979e836ba93c962b4f6301c26f47"
+    },
+    {
+      "id": "04-handmade",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-e2a2f23d-5ecb-422d-8309-d68f9d3d54dd.png",
+      "archived": "animation/raw/04-handmade-sheet.png",
+      "sha256": "266273d231d06415727587435abe5afaa51a6a00743f297b5cc41dfcfb82e451"
+    },
+    {
+      "id": "05-no-idea",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-49c95f46-20c3-403a-bf81-0ae35dee2ecd.png",
+      "archived": "animation/raw/05-no-idea-sheet.png",
+      "sha256": "3fe2fc911eef96e718c34c421c70130b234edda7cd16882c2bfb8633070c0f3b"
+    },
+    {
+      "id": "06-circle",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-10341dda-2915-45ea-aa92-79df28e53e4d.png",
+      "archived": "animation/raw/06-circle-sheet.png",
+      "sha256": "61de261d133c8198ade39f055c2fabb919c72da73d8762058172f9da96bef18d"
+    },
+    {
+      "id": "07-check-ticket",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-cf81b318-d543-4801-843e-1c9525e0bd1c.png",
+      "archived": "animation/raw/07-check-ticket-sheet.png",
+      "sha256": "72e33bba52e584046220e5267ae71e82f0b162605e70cf4a9708e99d985d723c"
+    },
+    {
+      "id": "08-processing",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-960f60b1-534e-45ed-9681-39a717c26fa9.png",
+      "archived": "animation/raw/08-processing-sheet.png",
+      "sha256": "fba50b4e8538287cf6be7d849d7d6c5e14b7351da41a6df8e029e22935d6be39"
+    }
+  ]
+}

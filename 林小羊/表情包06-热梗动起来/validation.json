@@ -1,0 +1,249 @@
+{
+  "ok": true,
+  "created": "2026-11-25",
+  "originals_hash_verified": 8,
+  "local_links_valid": true,
+  "wechat_client_tested": false,
+  "files": [
+    {
+      "file": "animation/exports/爱你老己.gif",
+      "bytes": 211833,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "08326f142e817b09931ae7388b92e7afafe88c0307520281965931093f1411f5"
+    },
+    {
+      "file": "animation/exports/夯爆了.gif",
+      "bytes": 97853,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 8,
+      "distinct_frames": 4,
+      "duration_ms": 800,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "5bf37749a24bd53943ba48c69a67510d4c9ddee5b604f2766ed6bd74f214b00b"
+    },
+    {
+      "file": "animation/exports/拉完了.gif",
+      "bytes": 154669,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "c078cc3d99bfba8c235065c425be99cabaedfd905f0f62e8f3a66bc5d9a3fd0c"
+    },
+    {
+      "file": "animation/exports/手搓中.gif",
+      "bytes": 221641,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "52d9019f908cfb9d0ab004ce3b6370878d2c0e4dc49991fefc446a5eddd4f9de"
+    },
+    {
+      "file": "animation/exports/我真没招了.gif",
+      "bytes": 218657,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "3c4c2ff9099942bc77b21aead2162249f5101f35c53fb4d837f418e62497bfc0"
+    },
+    {
+      "file": "animation/exports/画地为牢啊.gif",
+      "bytes": 209203,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "15d7d48dbee88f04297f02b124026910023c9c5f59d8538cdc8848216a24bc8e"
+    },
+    {
+      "file": "animation/exports/我要验牌.gif",
+      "bytes": 240841,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "1367a964b58360f3fdb8b5622030daf292c32652e7db78f41da3dc85e57e3e90"
+    },
+    {
+      "file": "animation/exports/处理中.gif",
+      "bytes": 103657,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 8,
+      "distinct_frames": 4,
+      "duration_ms": 800,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "bf8d591f25603fac7fee3600d9923fc961961356e2a951904939905da5fc4592"
+    }
+  ]
+}

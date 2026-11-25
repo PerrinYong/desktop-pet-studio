@@ -1,0 +1,247 @@
+{
+  "fps": 10,
+  "frames_per_sheet": 4,
+  "kind": "keyframe_animation",
+  "files": [
+    {
+      "frame_ms": 100,
+      "id": "01-self-hug",
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "loop_ms": 1600,
+      "bytes": 211833,
+      "sha256": "08326f142e817b09931ae7388b92e7afafe88c0307520281965931093f1411f5",
+      "file": "exports/爱你老己.gif",
+      "loop": "forever",
+      "size": [
+        240,
+        240
+      ],
+      "caption": "爱你老己"
+    },
+    {
+      "frame_ms": 100,
+      "id": "02-awesome",
+      "sequence": [
+        0,
+        0,
+        1,
+        2,
+        2,
+        3,
+        1,
+        0
+      ],
+      "loop_ms": 800,
+      "bytes": 97853,
+      "sha256": "5bf37749a24bd53943ba48c69a67510d4c9ddee5b604f2766ed6bd74f214b00b",
+      "file": "exports/夯爆了.gif",
+      "loop": "forever",
+      "size": [
+        240,
+        240
+      ],
+      "caption": "夯爆了"
+    },
+    {
+      "frame_ms": 100,
+      "id": "03-flop",
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        1,
+        1
+      ],
+      "loop_ms": 1600,
+      "bytes": 154669,
+      "sha256": "c078cc3d99bfba8c235065c425be99cabaedfd905f0f62e8f3a66bc5d9a3fd0c",
+      "file": "exports/拉完了.gif",
+      "loop": "forever",
+      "size": [
+        240,
+        240
+      ],
+      "caption": "拉完了"
+    },
+    {
+      "frame_ms": 100,
+      "id": "04-handmade",
+      "sequence": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        1,
+        0,
+        0,
+        3,
+        3
+      ],
+      "loop_ms": 1600,
+      "bytes": 221641,
+      "sha256": "52d9019f908cfb9d0ab004ce3b6370878d2c0e4dc49991fefc446a5eddd4f9de",
+      "file": "exports/手搓中.gif",
+      "loop": "forever",
+      "size": [
+        240,
+        240
+      ],
+      "caption": "手搓中"
+    },
+    {
+      "frame_ms": 100,
+      "id": "05-no-idea",
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1,
+        0,
+        0
+      ],
+      "loop_ms": 1600,
+      "bytes": 218657,
+      "sha256": "3c4c2ff9099942bc77b21aead2162249f5101f35c53fb4d837f418e62497bfc0",
+      "file": "exports/我真没招了.gif",
+      "loop": "forever",
+      "size": [
+        240,
+        240
+      ],
+      "caption": "我真没招了"
+    },
+    {
+      "frame_ms": 100,
+      "id": "06-circle",
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1,
+        0,
+        0
+      ],
+      "loop_ms": 1600,
+      "bytes": 209203,
+      "sha256": "15d7d48dbee88f04297f02b124026910023c9c5f59d8538cdc8848216a24bc8e",
+      "file": "exports/画地为牢啊.gif",
+      "loop": "forever",
+      "size": [
+        240,
+        240
+      ],
+      "caption": "画地为牢啊"
+    },
+    {
+      "frame_ms": 100,
+      "id": "07-check-ticket",
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1,
+        0,
+        0
+      ],
+      "loop_ms": 1600,
+      "bytes": 240841,
+      "sha256": "1367a964b58360f3fdb8b5622030daf292c32652e7db78f41da3dc85e57e3e90",
+      "file": "exports/我要验牌.gif",
+      "loop": "forever",
+      "size": [
+        240,
+        240
+      ],
+      "caption": "我要验牌"
+    },
+    {
+      "frame_ms": 100,
+      "id": "08-processing",
+      "sequence": [
+        0,
+        1,
+        2,
+        3,
+        2,
+        1,
+        0,
+        3
+      ],
+      "loop_ms": 800,
+      "bytes": 103657,
+      "sha256": "bf8d591f25603fac7fee3600d9923fc961961356e2a951904939905da5fc4592",
+      "file": "exports/处理中.gif",
+      "loop": "forever",
+      "size": [
+        240,
+        240
+      ],
+      "caption": "处理中"
+    }
+  ]
+}

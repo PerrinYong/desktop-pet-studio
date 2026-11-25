@@ -1,0 +1,55 @@
+{
+  "files": [
+    {
+      "loop": "forever",
+      "file": "exports/好耶.gif",
+      "bytes": 94900,
+      "caption": "好耶",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "49933ccdbf145169ed2bd6046ff860378604d01b72a35d25401b89c2d1476ff2",
+      "frame_ms": 100,
+      "sequence": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        3,
+        3
+      ],
+      "id": "cheer",
+      "loop_ms": 800
+    },
+    {
+      "loop": "forever",
+      "file": "exports/反复横跳.gif",
+      "bytes": 104335,
+      "caption": "反复横跳",
+      "size": [
+        240,
+        240
+      ],
+      "sha256": "6b8ee3dd278e4fc23e3c8dc34818a91f53d306e1dcd10c193c5f37e0305470c5",
+      "frame_ms": 100,
+      "sequence": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3
+      ],
+      "id": "side-hop",
+      "loop_ms": 800
+    }
+  ],
+  "kind": "keyframe_animation",
+  "fps": 10,
+  "frames_per_sheet": 4
+}

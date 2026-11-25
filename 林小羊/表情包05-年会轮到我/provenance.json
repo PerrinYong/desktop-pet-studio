@@ -1,0 +1,71 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-11-25",
+  "reference": "references/character-master.png",
+  "files": [
+    {
+      "key": "annual-04",
+      "pack": "annual",
+      "id": "04",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-debeb644-d38c-46a6-8cc8-c2f04c5ca5b1.png",
+      "archived": "raw/04.png",
+      "sha256": "464eae1869132996fa70e78bf78f7a3b035b56f8b52c190ed18f4836699f967b"
+    },
+    {
+      "key": "annual-01",
+      "pack": "annual",
+      "id": "01",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-5c5c319b-b658-4e74-b6cf-267aa79f01b4.png",
+      "archived": "raw/01.png",
+      "sha256": "b3400b2d4e376c926d45f6e2ac2cb9752a86b7ad225b4985122165b5793118ad"
+    },
+    {
+      "key": "annual-02",
+      "pack": "annual",
+      "id": "02",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-2c15275a-4db4-47ac-b20f-dc9b71354e0d.png",
+      "archived": "raw/02.png",
+      "sha256": "0dbded385537801da7f446934afb71cc97042b897b31a7841e729d708845ee9e"
+    },
+    {
+      "key": "annual-03",
+      "pack": "annual",
+      "id": "03",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-26119a99-172a-439f-b33b-2ad099c43d4b.png",
+      "archived": "raw/03.png",
+      "sha256": "bfc00b476b1926501962c1f85dfc1676fb222fc22649632600061de1386cd1d3"
+    },
+    {
+      "key": "annual-05",
+      "pack": "annual",
+      "id": "05",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9d4a6808-5bf7-4348-ad3e-d91d91525660.png",
+      "archived": "raw/05.png",
+      "sha256": "ac443cb1e0bf445cbb55c69d03b89dc0c6b92dca6e5ca65433ec9c0f5ee543f8"
+    },
+    {
+      "key": "annual-06",
+      "pack": "annual",
+      "id": "06",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-d14f98c3-2cc3-4fc6-a74f-4bfda7244fd1.png",
+      "archived": "raw/06.png",
+      "sha256": "3cb8a3086778145895d8ab4a37202cfd2195042250caa6d51286b9674c410e12"
+    },
+    {
+      "key": "annual-07",
+      "pack": "annual",
+      "id": "07",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-449e8ef3-8cad-436c-9a65-5d6a29cd09de.png",
+      "archived": "raw/07.png",
+      "sha256": "78dbffc91afb82a20492fed221acecff9c94c6d067ae634d41c8d7df39147ca3"
+    },
+    {
+      "key": "annual-08",
+      "pack": "annual",
+      "id": "08",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-37e5ee2c-0e94-4800-b93d-87bd1a2248df.png",
+      "archived": "raw/08.png",
+      "sha256": "eec2439a6251e0f060d8974c7c1da92d315e566c47f49412fc0f09ed2ca857bf"
+    }
+  ]
+}

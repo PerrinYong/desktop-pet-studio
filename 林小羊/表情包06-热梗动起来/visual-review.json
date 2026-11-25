@@ -1,0 +1,17 @@
+{
+  "reviewed": "2026-11-25",
+  "raw_sheets_reviewed": 8,
+  "captions_reviewed": 8,
+  "backgrounds": [
+    "light",
+    "dark"
+  ],
+  "checks": [
+    "character identity",
+    "four distinct poses",
+    "caption spelling and legibility",
+    "no clipped content",
+    "motion semantics"
+  ],
+  "wechat_client_tested": false
+}

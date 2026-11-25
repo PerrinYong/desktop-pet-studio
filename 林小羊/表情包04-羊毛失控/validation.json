@@ -1,0 +1,177 @@
+{
+  "ok": true,
+  "count": 8,
+  "format": "PNG RGBA",
+  "kind": "static",
+  "exports": [
+    512,
+    240,
+    120
+  ],
+  "main_internal_target_bytes": 100000,
+  "thumbnail_internal_target_bytes": 50000,
+  "official_submission_rules_verified": false,
+  "wechat_client_tested": false,
+  "files": [
+    {
+      "id": "01",
+      "caption": "我裂开了",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 59557,
+      "thumbnail_bytes": 18777,
+      "transparent_fraction": 0.4591,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        22,
+        13,
+        217,
+        230
+      ],
+      "sha256": "d627452e9e7a584e1fc3bae79e595f43a06b0631739bcbe13c95b3c474867db1",
+      "raw_sha256": "8b3fd0dc4d9c8138a817733d3225367f861bef1d69b229bbb5ca4f5bf89db947"
+    },
+    {
+      "id": "02",
+      "caption": "脑子打结",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 57424,
+      "thumbnail_bytes": 17855,
+      "transparent_fraction": 0.4835,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        33,
+        14,
+        204,
+        229
+      ],
+      "sha256": "993206576d8b34ff11bd385e302484d1a505b5de67359cf8f3cccbc9dd61f9be",
+      "raw_sha256": "a3302524724afc7c61446a4cb54ea2380d08c494c8f9ccc79a1f71b0626002f5"
+    },
+    {
+      "id": "03",
+      "caption": "原地起飞",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 42112,
+      "thumbnail_bytes": 13174,
+      "transparent_fraction": 0.6712,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        41,
+        11,
+        196,
+        228
+      ],
+      "sha256": "cbb7458087921151cb0d83e556d407f1585840ba1c0c9c07e9ca0f1b17d124d1",
+      "raw_sha256": "b16438e5053407a0d694ceff058c8d955fc41c742458dde31aac1fa48293184d"
+    },
+    {
+      "id": "04",
+      "caption": "已变成饼",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 41234,
+      "thumbnail_bytes": 13109,
+      "transparent_fraction": 0.6808,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        15,
+        76,
+        222,
+        188
+      ],
+      "sha256": "5fc5caf5b17194c9c3957f60b065560c61018efbf549849f975b2287c6f7d9ad",
+      "raw_sha256": "4498da90e3fdcc2635a71b9ca78c7929254c800d40f4375d5ddd8545adef58b3"
+    },
+    {
+      "id": "05",
+      "caption": "反复横跳",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 63994,
+      "thumbnail_bytes": 20010,
+      "transparent_fraction": 0.4773,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        12,
+        21,
+        226,
+        219
+      ],
+      "sha256": "16e6ed06bc3e193a752bcfa90ff07d88eac623b9bb2e76d0907c83fb37249aeb",
+      "raw_sha256": "1fa82d4d5cf395e69bd6ffa0e7d147cfbe454fa1ed9702b9d741490a702f6de3"
+    },
+    {
+      "id": "06",
+      "caption": "快乐到变形",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 58182,
+      "thumbnail_bytes": 18150,
+      "transparent_fraction": 0.4673,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        15,
+        17,
+        222,
+        226
+      ],
+      "sha256": "6c5420dae78040b9e2415a9971ded95b2b1258915b45c495913fc14bb1f5cc4c",
+      "raw_sha256": "78ef5e4062150e72bba8307463f0d26f80f9d630659f63fec38602c8adef0e15"
+    },
+    {
+      "id": "07",
+      "caption": "灵魂出窍",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 51524,
+      "thumbnail_bytes": 16158,
+      "transparent_fraction": 0.5665,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        29,
+        13,
+        209,
+        228
+      ],
+      "sha256": "b03a921badbad8c9bd6ec681902417410841fdb59616e9bfa6fc29c9fe5d136a",
+      "raw_sha256": "831e9ca5e211df8bb89ca07bf04e626a7acdb27f750787511f511b563d90c46c"
+    },
+    {
+      "id": "08",
+      "caption": "好耶",
+      "size": [
+        240,
+        240
+      ],
+      "bytes": 51498,
+      "thumbnail_bytes": 15692,
+      "transparent_fraction": 0.5716,
+      "outer_edge_nontransparent_pixels": 0,
+      "alpha_bbox": [
+        38,
+        16,
+        203,
+        226
+      ],
+      "sha256": "5976094d2cdae8537e1126aca9918a490b76996d90631f9d37bfe1fa7ac26d4d",
+      "raw_sha256": "c077fe6397c909dceffe0e54e685cbe5ecee6dd46aea6b9fed53801d0a95e639"
+    }
+  ]
+}

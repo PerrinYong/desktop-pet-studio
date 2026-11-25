@@ -1,0 +1,20 @@
+{
+  "reviewed": "2026-11-25",
+  "captions_checked": 8,
+  "character_identity": "Lin Xiaoyang original ivory doodle sheep",
+  "preview_backgrounds": [
+    "light",
+    "dark"
+  ],
+  "checked": [
+    "exact Chinese captions",
+    "pose and scene meaning",
+    "stable horns/ears/color identity",
+    "240px caption readability",
+    "no clipped visible content"
+  ],
+  "client_tested": false,
+  "platform_reviewed": false,
+  "actual_reuse_measured": false,
+  "animation_review": "Four distinct poses per GIF, anchored caption; keyframe filmstrips reviewed on dark background"
+}

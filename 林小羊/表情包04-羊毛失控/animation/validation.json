@@ -1,0 +1,69 @@
+{
+  "ok": true,
+  "files": [
+    {
+      "file": "好耶.gif",
+      "size": [
+        240,
+        240
+      ],
+      "frames": 8,
+      "distinct_frames": 4,
+      "loop": 0,
+      "duration_ms": 800,
+      "frame_durations_ms": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "bytes": 94900
+    },
+    {
+      "file": "反复横跳.gif",
+      "size": [
+        240,
+        240
+      ],
+      "frames": 8,
+      "distinct_frames": 4,
+      "loop": 0,
+      "duration_ms": 800,
+      "frame_durations_ms": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "bytes": 104335
+    }
+  ]
+}
