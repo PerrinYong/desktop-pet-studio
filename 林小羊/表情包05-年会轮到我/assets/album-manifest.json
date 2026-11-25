@@ -1,0 +1,48 @@
+{
+  "name": "林小羊·年会轮到我",
+  "kind": "静态",
+  "scene": "年会聚会",
+  "description": "上台有点慌，鼓掌很在行。陪你排练、等抽奖、开吃，也认真说一句今晚辛苦啦。",
+  "files": [
+    {
+      "file": "exports/wechat-240/01-排练中.png",
+      "bytes": 49773,
+      "sha256": "5350d994f2b45d800bb57cbe0729bf3c391afb3d2f104b44c6a99c0985017132"
+    },
+    {
+      "file": "exports/wechat-240/02-怎么是我.png",
+      "bytes": 51845,
+      "sha256": "8ea28c77a052ef8e3ffb43c2e9bfc488226cb6b3d14853bd94f784ccbd069fa8"
+    },
+    {
+      "file": "exports/wechat-240/03-我负责鼓掌.png",
+      "bytes": 57758,
+      "sha256": "156ed65dbadbd52e28d7fe20a632c88ed20e84709cebfcab66139774dbd21d08"
+    },
+    {
+      "file": "exports/wechat-240/04-坐等抽奖.png",
+      "bytes": 54854,
+      "sha256": "9e7f3140ff7a568b97b68e71b8380a2b4540bf8ed981fb46e532bce051587b64"
+    },
+    {
+      "file": "exports/wechat-240/05-这次到我.png",
+      "bytes": 53414,
+      "sha256": "7b8b253d93a70d2561843c1036c3cea2b7e9544ef2331c45ac1ce11fe921ef7c"
+    },
+    {
+      "file": "exports/wechat-240/06-重在参与.png",
+      "bytes": 61826,
+      "sha256": "7f338a96d6ccad2c44b2eba0350afc9e46202aff03a8387ae1fc13c15a9179b7"
+    },
+    {
+      "file": "exports/wechat-240/07-我先开吃.png",
+      "bytes": 61720,
+      "sha256": "d3b1a07552c0ca220e3a8118b7c3e59fbabe83feb3148013c5d7f7225e77ba94"
+    },
+    {
+      "file": "exports/wechat-240/08-今晚辛苦啦.png",
+      "bytes": 59935,
+      "sha256": "bc2837c54a1d809f20a806821beddf2a0b9285aaa6ff3ecc7529f94b3add7238"
+    }
+  ]
+}

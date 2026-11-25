@@ -1,0 +1,88 @@
+{
+  "name": "林小羊·和你黏一会",
+  "kind": "动态",
+  "scene": "情侣日常",
+  "description": "想你就贴贴，累了就抱抱。约饭、陪伴、和好、晚安，把喜欢放进日常的小回应。",
+  "files": [
+    {
+      "file": "animation/exports/一起吃饭.gif",
+      "bytes": 229047,
+      "sha256": "c19b440fe50fa072c75195c5f744e6f2209ccdace2e740576fe2f412af965629"
+    },
+    {
+      "file": "animation/exports/亲一口.gif",
+      "bytes": 193847,
+      "sha256": "c708c206b366d22aa32528caf56f4088d5deed5976cf0061764928a0b1d777a2"
+    },
+    {
+      "file": "animation/exports/你先忙.gif",
+      "bytes": 244917,
+      "sha256": "8a7db0397981945b175634f41075ccc705b80a77881a68c0de7f497f9d5cb062"
+    },
+    {
+      "file": "animation/exports/到家说一声.gif",
+      "bytes": 215223,
+      "sha256": "8793b5fe4b4bbbd8def0f1f87a9f037069ceb004c32cee3e4cb9febc4b4621ec"
+    },
+    {
+      "file": "animation/exports/和好好不好.gif",
+      "bytes": 205953,
+      "sha256": "5cb0b31c52e9d918ef358017c8fe890d4250a7522c82e4976f8295261f7540da"
+    },
+    {
+      "file": "animation/exports/对不起嘛.gif",
+      "bytes": 228275,
+      "sha256": "48f5ed7643e5d158600b6a53ca28135fa0767b79844c9b143d6e3d9b8483c00b"
+    },
+    {
+      "file": "animation/exports/心动了.gif",
+      "bytes": 214091,
+      "sha256": "14d15cc6132ed726848f81d556b9955d63131a5caebd03961f42b9e321ab4e70"
+    },
+    {
+      "file": "animation/exports/想你了.gif",
+      "bytes": 245555,
+      "sha256": "600318aac47f718c035da01fe787f5700ddadff3affca1cc8b7a89c176442b16"
+    },
+    {
+      "file": "animation/exports/我在呢.gif",
+      "bytes": 217521,
+      "sha256": "cbb0836b2dc29965ea644e97a5c84f16099c72cbb7dd7d4a365f1030743f639d"
+    },
+    {
+      "file": "animation/exports/抱抱就好.gif",
+      "bytes": 243623,
+      "sha256": "8ebc5647a24109ee0ae2354a6b45ca572c1a249887b82383a3d6648bdf350488"
+    },
+    {
+      "file": "animation/exports/接你下班.gif",
+      "bytes": 220923,
+      "sha256": "c11e85060fb64ae4e77322d09942209891363f8da9303de12be96becf63de524"
+    },
+    {
+      "file": "animation/exports/晚安宝宝.gif",
+      "bytes": 195753,
+      "sha256": "58cea7ecda3d45b1b745295ae9daf2af1f39a6bfc58dabefa7e3e9b51af22449"
+    },
+    {
+      "file": "animation/exports/梦里见.gif",
+      "bytes": 223469,
+      "sha256": "0df6c59e9f90a6951beae3c405f85f304f3a2894ee56189459f3c29ca893d9e4"
+    },
+    {
+      "file": "animation/exports/给你留一口.gif",
+      "bytes": 247239,
+      "sha256": "67ec764eaaefdabec1b19f4514e5540d94819bd57572c3f1710b5564efa3d952"
+    },
+    {
+      "file": "animation/exports/被你拿捏.gif",
+      "bytes": 222973,
+      "sha256": "38fd3069e5471856b28b08c92304686b540875cf7a7d2de9a9fa32f21cde2027"
+    },
+    {
+      "file": "animation/exports/贴贴.gif",
+      "bytes": 194469,
+      "sha256": "78a128020d1944e70a504a289c5e53033464c17595c749530fa1dd685ffaf3bd"
+    }
+  ]
+}

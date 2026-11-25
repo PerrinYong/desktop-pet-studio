@@ -1,0 +1,3 @@
+# 深色预览复查后的透明背景修正
+
+Edit this exact 2x2 sprite sheet: remove ALL rectangular background haze, paper texture and background color from all four cells. Outside the two sheep, table, bowls, hooves and action marks must be TRUE alpha=0 transparency, including gaps between bodies and around the table. Preserve all four poses, character scale, ivory wool, facial expressions, scarf, colors, outlines and grid layout unchanged. Do not erase white wool or rice. No cast shadows, no opaque or semi-transparent rectangle, no scenery, no new text. This is a clean technical sprite cutout on transparent background.

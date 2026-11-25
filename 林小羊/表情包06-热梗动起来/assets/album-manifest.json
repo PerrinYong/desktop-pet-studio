@@ -1,0 +1,48 @@
+{
+  "name": "林小羊·热梗动起来",
+  "kind": "动态",
+  "scene": "熟人玩梗",
+  "description": "爱你老己，也偶尔没招。让林小羊把熟人聊天里的夸张反应，演给你看。",
+  "files": [
+    {
+      "file": "animation/exports/处理中.gif",
+      "bytes": 103657,
+      "sha256": "bf8d591f25603fac7fee3600d9923fc961961356e2a951904939905da5fc4592"
+    },
+    {
+      "file": "animation/exports/夯爆了.gif",
+      "bytes": 97853,
+      "sha256": "5bf37749a24bd53943ba48c69a67510d4c9ddee5b604f2766ed6bd74f214b00b"
+    },
+    {
+      "file": "animation/exports/我真没招了.gif",
+      "bytes": 218657,
+      "sha256": "3c4c2ff9099942bc77b21aead2162249f5101f35c53fb4d837f418e62497bfc0"
+    },
+    {
+      "file": "animation/exports/我要验牌.gif",
+      "bytes": 240841,
+      "sha256": "1367a964b58360f3fdb8b5622030daf292c32652e7db78f41da3dc85e57e3e90"
+    },
+    {
+      "file": "animation/exports/手搓中.gif",
+      "bytes": 221641,
+      "sha256": "52d9019f908cfb9d0ab004ce3b6370878d2c0e4dc49991fefc446a5eddd4f9de"
+    },
+    {
+      "file": "animation/exports/拉完了.gif",
+      "bytes": 154669,
+      "sha256": "c078cc3d99bfba8c235065c425be99cabaedfd905f0f62e8f3a66bc5d9a3fd0c"
+    },
+    {
+      "file": "animation/exports/爱你老己.gif",
+      "bytes": 211833,
+      "sha256": "08326f142e817b09931ae7388b92e7afafe88c0307520281965931093f1411f5"
+    },
+    {
+      "file": "animation/exports/画地为牢啊.gif",
+      "bytes": 209203,
+      "sha256": "15d7d48dbee88f04297f02b124026910023c9c5f59d8538cdc8848216a24bc8e"
+    }
+  ]
+}

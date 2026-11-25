@@ -1,0 +1,48 @@
+{
+  "name": "林小羊·工作接得住",
+  "kind": "静态",
+  "scene": "工作协作",
+  "description": "收到、处理中、一起对齐。用清楚又柔软的回应，接住工作里的每一次协作。",
+  "files": [
+    {
+      "file": "exports/wechat-240/01-收到.png",
+      "bytes": 51087,
+      "sha256": "28389b66430a55743debbff3c6ed1d3e9f37478d5b59b0296acf9ba50278bc51"
+    },
+    {
+      "file": "exports/wechat-240/02-我看一下.png",
+      "bytes": 54047,
+      "sha256": "6ca8b77afa54269c543b854b99b4d5431c44f8cea3c7a17f33135b17c35a057c"
+    },
+    {
+      "file": "exports/wechat-240/03-处理中.png",
+      "bytes": 57679,
+      "sha256": "d32b0c928a7700364949a818858d9f9ae2a4f70a1dfcda294e575a9e3f927a2b"
+    },
+    {
+      "file": "exports/wechat-240/04-对齐一下.png",
+      "bytes": 56043,
+      "sha256": "fb1ccb21df40e4dbfaa03169f88ea11e0cfad257c0312eece45642e33ffb641d"
+    },
+    {
+      "file": "exports/wechat-240/05-辛苦确认.png",
+      "bytes": 58616,
+      "sha256": "1ec892dc9a07f4937b4c459645e62cc46a47e8efaf540c5efbc31d45f51ac4a4"
+    },
+    {
+      "file": "exports/wechat-240/06-联调中.png",
+      "bytes": 60779,
+      "sha256": "26b253f94f3741c1e110221ef0212ab519b62668d80d0c2b32d67a06874a4921"
+    },
+    {
+      "file": "exports/wechat-240/07-已同步.png",
+      "bytes": 56661,
+      "sha256": "20ae46c107fbf7eb5581029ef1a6cc14d3fe77669035831441c189ce91d5a4ad"
+    },
+    {
+      "file": "exports/wechat-240/08-可以提测.png",
+      "bytes": 60774,
+      "sha256": "967b5e99917b142d60696250c2aee481e45e64ac22259c76753cd55af874be53"
+    }
+  ]
+}

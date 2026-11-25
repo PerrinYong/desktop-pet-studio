@@ -1,0 +1,48 @@
+{
+  "name": "林小羊·羊年一起过",
+  "kind": "动态",
+  "scene": "春节过年",
+  "description": "拜年接福，红包认真谢，团圆饭慢慢吃。林小羊陪你把羊年过得暖乎乎。",
+  "files": [
+    {
+      "file": "animation/exports/串门来啦.gif",
+      "bytes": 230193,
+      "sha256": "a6bdce88e9e4611bc092d45336506d2daaa9a63a8ce2301259c57e850564b753"
+    },
+    {
+      "file": "animation/exports/先吃饭哈.gif",
+      "bytes": 238239,
+      "sha256": "b574c1320c1f2e36aa90bea56000da40df21ffb1fa6964117ebd19021a6ca720"
+    },
+    {
+      "file": "animation/exports/守岁中.gif",
+      "bytes": 198497,
+      "sha256": "5cedb17c8f1dc09d84221a311d128b92b44f0d72758226774590a72ff6d68983"
+    },
+    {
+      "file": "animation/exports/年夜饭开席.gif",
+      "bytes": 241791,
+      "sha256": "59e39e05829e455580ea60299f19b4efa3536bfeabf9fd8059167d4ff2a9c452"
+    },
+    {
+      "file": "animation/exports/开工大吉.gif",
+      "bytes": 208759,
+      "sha256": "92650088ba3e5c1a4a3f090c4a4ab2a05e7a8c6cf3370bf1a8151333094d6952"
+    },
+    {
+      "file": "animation/exports/恭喜发财.gif",
+      "bytes": 213687,
+      "sha256": "8f512f37949acfd7cbb38f2f35416de4f978ac7da500795540fbc8fa5bc90e86"
+    },
+    {
+      "file": "animation/exports/羊年大吉.gif",
+      "bytes": 191513,
+      "sha256": "a0dbae88f2321a54ae4d9395e32f357f02602371820513a8f519eebe6c90ddfa"
+    },
+    {
+      "file": "animation/exports/谢谢红包.gif",
+      "bytes": 233079,
+      "sha256": "b90715fe921ff27503f1b9a4f1cd22a7c5b1a5dd8003402ce6290b709a24cd24"
+    }
+  ]
+}

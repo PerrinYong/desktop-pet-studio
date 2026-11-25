@@ -1,0 +1,48 @@
+{
+  "name": "林小羊·上班有点咩",
+  "kind": "静态",
+  "scene": "职场吐槽",
+  "description": "人到工位，精神慢慢加载。开会、改稿、下班，让林小羊替你轻轻吐个槽。",
+  "files": [
+    {
+      "file": "exports/wechat-240/01-人已到工位.png",
+      "bytes": 63046,
+      "sha256": "51d91c358668a7f99f4c8bd4e7f7b74740395fa9c02251057378531979a4b5e6"
+    },
+    {
+      "file": "exports/wechat-240/02-会还没开完.png",
+      "bytes": 49737,
+      "sha256": "b981a0810d46252d743eed40661337682f4023e0c8972bc6c432bc955c1f859d"
+    },
+    {
+      "file": "exports/wechat-240/03-又改一版.png",
+      "bytes": 61169,
+      "sha256": "ff753fcf91048bfcd3b3f7ccfa8290a034fda3d8c03118bbe974349820ff56f5"
+    },
+    {
+      "file": "exports/wechat-240/04-脑子在加载.png",
+      "bytes": 57339,
+      "sha256": "0e0f2599c8dae45e483d06812f5936eda4cd15b63466139b347a79b4149ef34d"
+    },
+    {
+      "file": "exports/wechat-240/05-这饼有点大.png",
+      "bytes": 78474,
+      "sha256": "8e8d3921f550b8768686d65e1dc6a0a926d9405fe59a1fc7870e637c61788080"
+    },
+    {
+      "file": "exports/wechat-240/06-下班再说.png",
+      "bytes": 63482,
+      "sha256": "2aec8c88f6c71b0826d715ba5940ee131b0f99f6e85f7e1033df2c5ab09a14b9"
+    },
+    {
+      "file": "exports/wechat-240/07-我先喝口水.png",
+      "bytes": 57299,
+      "sha256": "fe1148eda1f6a79ff4c7545bd1e6a6e7cdd8f5d19dbc98553f70f4a5e5b7d520"
+    },
+    {
+      "file": "exports/wechat-240/08-工资撑着我.png",
+      "bytes": 63430,
+      "sha256": "4f05b3e028a5ff87e0bf8204f8cf8df3d72f188670d7101e2ff8b3b6230cd3f6"
+    }
+  ]
+}

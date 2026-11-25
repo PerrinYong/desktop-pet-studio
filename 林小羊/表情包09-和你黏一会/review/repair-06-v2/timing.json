@@ -1,0 +1,39 @@
+{
+  "fps": 10,
+  "files": [
+    {
+      "bytes": 229047,
+      "frame_ms": 100,
+      "id": "06-dinner-date",
+      "caption": "一起吃饭",
+      "loop_ms": 1600,
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "file": "exports/一起吃饭.gif",
+      "sha256": "c19b440fe50fa072c75195c5f744e6f2209ccdace2e740576fe2f412af965629",
+      "loop": "forever",
+      "size": [
+        240,
+        240
+      ]
+    }
+  ],
+  "kind": "keyframe_animation",
+  "frames_per_sheet": 4
+}

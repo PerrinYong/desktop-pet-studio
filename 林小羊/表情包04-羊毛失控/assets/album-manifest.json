@@ -1,0 +1,52 @@
+{
+  "name": "林小羊·羊毛失控",
+  "kind": "静态",
+  "scene": "抽象反应",
+  "description": "脑袋打结，羊毛出走。裂开、变饼、突然弹起，把说不清的状态交给这团羊毛。",
+  "files": [
+    {
+      "file": "exports/wechat-240/01-我裂开了.png",
+      "bytes": 59557,
+      "sha256": "d627452e9e7a584e1fc3bae79e595f43a06b0631739bcbe13c95b3c474867db1"
+    },
+    {
+      "file": "exports/wechat-240/02-脑子打结.png",
+      "bytes": 57424,
+      "sha256": "993206576d8b34ff11bd385e302484d1a505b5de67359cf8f3cccbc9dd61f9be"
+    },
+    {
+      "file": "exports/wechat-240/03-原地起飞.png",
+      "bytes": 42112,
+      "sha256": "cbb7458087921151cb0d83e556d407f1585840ba1c0c9c07e9ca0f1b17d124d1"
+    },
+    {
+      "file": "exports/wechat-240/04-已变成饼.png",
+      "bytes": 41234,
+      "sha256": "5fc5caf5b17194c9c3957f60b065560c61018efbf549849f975b2287c6f7d9ad"
+    },
+    {
+      "file": "exports/wechat-240/05-反复横跳.png",
+      "bytes": 63994,
+      "sha256": "16e6ed06bc3e193a752bcfa90ff07d88eac623b9bb2e76d0907c83fb37249aeb"
+    },
+    {
+      "file": "exports/wechat-240/06-快乐到变形.png",
+      "bytes": 58182,
+      "sha256": "6c5420dae78040b9e2415a9971ded95b2b1258915b45c495913fc14bb1f5cc4c"
+    },
+    {
+      "file": "exports/wechat-240/07-灵魂出窍.png",
+      "bytes": 51524,
+      "sha256": "b03a921badbad8c9bd6ec681902417410841fdb59616e9bfa6fc29c9fe5d136a"
+    },
+    {
+      "file": "exports/wechat-240/08-好耶.png",
+      "bytes": 51498,
+      "sha256": "5976094d2cdae8537e1126aca9918a490b76996d90631f9d37bfe1fa7ac26d4d"
+    }
+  ],
+  "supplement_not_in_album": [
+    "animation/exports/反复横跳.gif",
+    "animation/exports/好耶.gif"
+  ]
+}

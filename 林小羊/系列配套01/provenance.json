@@ -1,0 +1,126 @@
+{
+  "created": "2026-11-25",
+  "tool": "built-in image_gen",
+  "reference": "references/character-master.png",
+  "files": [
+    {
+      "id": "02-cover",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-dd0be02a-e650-4996-8054-b4eac1726edf.png",
+      "archived": "raw/02-cover.png",
+      "prompt": "prompts/02-cover.md",
+      "sha256": "0195448d04395398724d95d98635cdb1377ffc95b86827770228e53dc4f97eb7"
+    },
+    {
+      "id": "profile-avatar",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-42ec7a28-8adf-4ad9-8f00-9d52a600209c.png",
+      "archived": "raw/profile-avatar.png",
+      "prompt": "prompts/profile-avatar.md",
+      "sha256": "d104dd30483b85573d072ff33ef1d71986170d82a295663c82339145d76f21ec"
+    },
+    {
+      "id": "03-cover",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-8448cb98-9cf2-4a5f-b408-16aa77677708.png",
+      "archived": "raw/03-cover.png",
+      "prompt": "prompts/03-cover.md",
+      "sha256": "e9d2bf7e1ebb36efeea310681c5118c5384b372399c8232949afd7025b0a6a7c"
+    },
+    {
+      "id": "02-banner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-c94ff494-0513-46ea-9804-b4f610765076.png",
+      "archived": "raw/02-banner.png",
+      "prompt": "prompts/02-banner.md",
+      "sha256": "d61772132fd81bc3f8ed8d50b6adae1c6774f15e5121c397e46ba806dbf29827"
+    },
+    {
+      "id": "03-banner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-5766a002-e9b7-4848-8992-dfda94c672f6.png",
+      "archived": "raw/03-banner.png",
+      "prompt": "prompts/03-banner.md",
+      "sha256": "036bf1d2f9f7bccb94cb0bba98727f81dc69cfe69b2354ec18884f6db37ed89c"
+    },
+    {
+      "id": "04-cover",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9b49c636-7d1d-4fb3-8dfd-762f6326f05a.png",
+      "archived": "raw/04-cover.png",
+      "prompt": "prompts/04-cover.md",
+      "sha256": "26d332f8e02249c199a63b21452dc967a0641609f9ed960ab0fc80c6e79f1bb5"
+    },
+    {
+      "id": "04-banner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-2a2019be-1869-4fcb-a02f-7a2250a1d3b3.png",
+      "archived": "raw/04-banner.png",
+      "prompt": "prompts/04-banner.md",
+      "sha256": "c63ef58cad00aeb33357580e5f0bff160c45d8bcf991f8f35a5b70e6b309e916"
+    },
+    {
+      "id": "05-banner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f44a5701-a260-4f71-89e2-4c03bb3b8e08.png",
+      "archived": "raw/05-banner.png",
+      "prompt": "prompts/05-banner.md",
+      "sha256": "2a7ea5374c3fb87bc5f128b6cca4ddba5042e1647fb4c2caf74f0d9d3c93a73d"
+    },
+    {
+      "id": "05-cover",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-7055e507-b1cd-4115-baad-3a8a1052880d.png",
+      "archived": "raw/05-cover.png",
+      "prompt": "prompts/05-cover.md",
+      "sha256": "455f7e341e90084a95113981dcf253a187f7c7b71459d7780e126916b109d42d"
+    },
+    {
+      "id": "06-cover",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-a6920060-cecf-4ef9-bde6-b30959da3465.png",
+      "archived": "raw/06-cover.png",
+      "prompt": "prompts/06-cover.md",
+      "sha256": "ce806584aa3ab702a6b721039657e77b6c43131e95d7b11628d445daca0690be"
+    },
+    {
+      "id": "06-banner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b8c734ad-58df-49e5-b876-90e1dff2929c.png",
+      "archived": "raw/06-banner.png",
+      "prompt": "prompts/06-banner.md",
+      "sha256": "a18d2641b529c495d87bd91d3e90eb8eef3b0b5e495f76cfc1e12143c6a887b5"
+    },
+    {
+      "id": "07-banner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-332343ca-765c-4859-a4cb-636f7f88abf6.png",
+      "archived": "raw/07-banner.png",
+      "prompt": "prompts/07-banner.md",
+      "sha256": "a74d985aad60506fefd44ae8d052782d396943175ea25e8e19dfcde502936ed6"
+    },
+    {
+      "id": "07-cover",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f7646401-ee4f-4c9f-97d6-db4a7162ac48.png",
+      "archived": "raw/07-cover.png",
+      "prompt": "prompts/07-cover.md",
+      "sha256": "d6f6789c75ff5dd9da64edb4dfa559cd3fc9534da86a34e702edeb4dea8a9d7c"
+    },
+    {
+      "id": "08-cover",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-4c240783-bc36-4f07-a34a-763a7d974f2a.png",
+      "archived": "raw/08-cover.png",
+      "prompt": "prompts/08-cover.md",
+      "sha256": "1453e91e16e139f9edb6cfc903041024f8b684ea2fb611cf839d425368f8beb3"
+    },
+    {
+      "id": "09-banner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-43978b1e-b0bf-4002-b7d1-dfebd29a7899.png",
+      "archived": "raw/09-banner.png",
+      "prompt": "prompts/09-banner.md",
+      "sha256": "52cd1fd308845df01c1f448471261b65fbc0eb6e936fde6f199e9b376e2fbae7"
+    },
+    {
+      "id": "08-banner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-f70fc184-3226-4905-ab38-544b765af4ca.png",
+      "archived": "raw/08-banner.png",
+      "prompt": "prompts/08-banner.md",
+      "sha256": "a3d376024f17569d760fa9126c216ff719eec409cd013d32d3aee1e8b6317bec"
+    },
+    {
+      "id": "09-cover",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-27a7641f-e65f-4c25-b2f1-dc28bf9d5757.png",
+      "archived": "raw/09-cover.png",
+      "prompt": "prompts/09-cover.md",
+      "sha256": "3e4167963cd4c51d814768e238a938bedc433ed9db7f50a2330a07176db69046"
+    }
+  ]
+}

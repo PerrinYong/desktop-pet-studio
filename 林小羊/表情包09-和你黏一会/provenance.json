@@ -1,0 +1,111 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-11-25",
+  "reference": "references/character-master.png",
+  "files": [
+    {
+      "id": "01-miss",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-1ccdc36e-5134-4cfc-b4de-ce8c0ca9f7c8.png",
+      "archived": "animation/raw/01-miss-sheet.png",
+      "sha256": "bedeb2248cbdaaefa74bb6c04813d452f0df43c414739b860598679243beabac"
+    },
+    {
+      "id": "02-nuzzle",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-06d298cb-ccae-4932-831b-9486aad33199.png",
+      "archived": "animation/raw/02-nuzzle-sheet.png",
+      "sha256": "a0056f1cf1d8cfeaa2699292fcdcd6dba00ffd5d6ede24e27302e5f6a5451c4f"
+    },
+    {
+      "id": "03-kiss",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-fd6625dd-f8a1-423d-804c-25e70f581d26.png",
+      "archived": "animation/raw/03-kiss-sheet.png",
+      "sha256": "cd0391f7b668c6608087f40c79de9c9a181e7026abec68b370821ad3570856c6"
+    },
+    {
+      "id": "04-heartbeat",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b060a709-20b6-4599-b1e1-34c0156824c6.png",
+      "archived": "animation/raw/04-heartbeat-sheet.png",
+      "sha256": "dadac843ef4900046c35cc2fe1c045b1772ea808c01b25c6d9711cd780d90b4e"
+    },
+    {
+      "id": "05-pickup",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-54ae84e7-8b6f-495d-8a17-163a59def617.png",
+      "archived": "animation/raw/05-pickup-sheet.png",
+      "sha256": "ebc247f7c7337a70e940290f4579a7b8af11786f7c1d4b660ebc48489f9084d2"
+    },
+    {
+      "id": "06-dinner-date",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-86bbb279-195b-44a7-a37f-cbaad5f7b895.png",
+      "archived": "animation/raw/06-dinner-date-sheet-v1-haze.png",
+      "sha256": "3fa8d7f6f25e0cc4281979ab71b7634f57b170a9f550ed37a56f9a324de7a08d",
+      "status": "superseded_background_haze"
+    },
+    {
+      "id": "07-last-bite",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-89777984-f10a-46bb-9057-8059e58d0856.png",
+      "archived": "animation/raw/07-last-bite-sheet.png",
+      "sha256": "eba22df607879a2f085897b4a59c8c4688902dbe7c26f0da289b078f5be591ba"
+    },
+    {
+      "id": "08-busy",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-ef464968-22b5-43f6-a7a3-123fc0633b6d.png",
+      "archived": "animation/raw/08-busy-sheet.png",
+      "sha256": "88bd7912ec4c907d434adad3a5fc08f08456cea65cac3fde4398ada06b2549fd"
+    },
+    {
+      "id": "09-home-check",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-280a4a6c-c4e6-4cd2-a926-58e4782e7b6e.png",
+      "archived": "animation/raw/09-home-check-sheet.png",
+      "sha256": "0a3007930068d35c60accdb751d9d8d190819dc82d024d19ffc3401c5ea34bd9"
+    },
+    {
+      "id": "10-comfort",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-ebe26f08-da46-4238-8af2-9e13c216aebf.png",
+      "archived": "animation/raw/10-comfort-sheet.png",
+      "sha256": "2a9ff4f6fe9a4a5478710857fc69f6251fcc64f3b6c179728a3fd3bcaed27bcd"
+    },
+    {
+      "id": "11-here",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-aa60cda0-0058-4c64-b112-de3cc0537e21.png",
+      "archived": "animation/raw/11-here-sheet.png",
+      "sha256": "0e10016fda83d6cd2cf053521598cbf765b4777f8ebedb2be8296aef7fdcb5d7"
+    },
+    {
+      "id": "12-sorry",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-77ab7153-9aa4-4f2f-97df-6c416ac18fe5.png",
+      "archived": "animation/raw/12-sorry-sheet.png",
+      "sha256": "343e314295c7ae596a2dbb6f6c7f3e67adabb0e2c6e647a18f1203bd0e69a387"
+    },
+    {
+      "id": "13-reconcile",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-ea6dcca7-c372-4567-8cad-16957fbc1d61.png",
+      "archived": "animation/raw/13-reconcile-sheet.png",
+      "sha256": "12dc90f2f2e3998e4fd89c3c0386d7250ac48ffdc7b5b9c66c9c9b54e1a75a16"
+    },
+    {
+      "id": "14-smitten",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-b74edc9c-a8f0-4426-966d-2bd4752e7923.png",
+      "archived": "animation/raw/14-smitten-sheet.png",
+      "sha256": "a1d17125f2195127b9fd81f32a194718d39b4d846d7750117f0dde19c6b0e426"
+    },
+    {
+      "id": "15-goodnight",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-50a94dba-5263-4adb-91cb-31af5693b87f.png",
+      "archived": "animation/raw/15-goodnight-sheet.png",
+      "sha256": "9a004e759a8629c469b85673bb8de1d055b33daf31d3de21bfbbb2440fc952d2"
+    },
+    {
+      "id": "16-dream",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-104aa53b-1f64-4c6f-b248-43e5bdf09dfb.png",
+      "archived": "animation/raw/16-dream-sheet.png",
+      "sha256": "f1350f9bd4b552e60bdf1c74cce5a9ecca9f9ba54bdda24586ae072271a35c71"
+    },
+    {
+      "status": "selected",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-fb890c91-8b75-4318-90bd-1bdb258bb39c.png",
+      "id": "06-dinner-date-v2",
+      "archived": "animation/raw/06-dinner-date-sheet.png",
+      "sha256": "92806be1bdd9b4ce3f57b476b506291e3554a392a3faca9e39fcc06042779f40"
+    }
+  ]
+}

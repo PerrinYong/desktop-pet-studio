@@ -1,0 +1,63 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-11-25",
+  "reference": "references/character-master.png",
+  "files": [
+    {
+      "id": "01-depart",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-430a2995-8fa3-4194-b590-13fc8a3ad7a0.png",
+      "archived": "animation/raw/01-depart-sheet.png",
+      "sha256": "dadd05f1cd3939554b0ae4c2158d755dd53722b047d8fc7a05fc242168ba7279"
+    },
+    {
+      "id": "02-home",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-1bb9fdcc-ba45-4217-baf0-bfb3fe34bd17.png",
+      "archived": "animation/raw/02-home-sheet.png",
+      "sha256": "05dcf864fade972d60d906c0531693160b245d7bfffd11f88b1a055b3917c999"
+    },
+    {
+      "id": "03-meal",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-bb575edd-114b-47d0-8353-86f9bc43cbaa.png",
+      "archived": "animation/raw/03-meal-sheet-v1-opaque.png",
+      "status": "superseded_opaque_background",
+      "sha256": "07df2fc572cac773debf281363f99fbdc446fe69f8c72ef4a725fd900672b362"
+    },
+    {
+      "id": "04-hug-you",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-adde0db5-a087-4ffa-92ae-76197d1021b4.png",
+      "archived": "animation/raw/04-hug-you-sheet.png",
+      "sha256": "1d59d346db44303133bd14e9b87f270ac8e1e1de070272e6884b692725f14c04"
+    },
+    {
+      "id": "05-recharge",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-955400cf-e99d-402d-9dc8-9969a9e3426a.png",
+      "archived": "animation/raw/05-recharge-sheet.png",
+      "sha256": "99ddb622537a88738a56b2979fa39ac691702a0cf5672b743853a03dcdffd004"
+    },
+    {
+      "id": "06-night",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-610f2b96-18e0-4114-b13d-205761860e0a.png",
+      "archived": "animation/raw/06-night-sheet.png",
+      "sha256": "608cfba2bd53d5d2afaee138ea78fce5db691cb61263b760a5948f30f7dbd4db"
+    },
+    {
+      "id": "07-weekend",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-4e20502b-d6e0-417c-a36b-8f089d3b86dc.png",
+      "archived": "animation/raw/07-weekend-sheet.png",
+      "sha256": "fa7650f737bb34ee8696b59c74229cd2992bdb9dbd44c16ec2ca505a7ec7d0a0"
+    },
+    {
+      "id": "08-lucky",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-5b51c8fe-f6f8-4a20-8eec-d57fd679b631.png",
+      "archived": "animation/raw/08-lucky-sheet.png",
+      "sha256": "c9cfa3ffef60e200a8490b095e1a9f1b42e9d47e3928a5b28603e2ba4baf5a62"
+    },
+    {
+      "id": "03-meal-v2",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-fe5cb017-cf55-4da8-8bb8-e395e93c9b9e.png",
+      "archived": "animation/raw/03-meal-sheet.png",
+      "status": "selected",
+      "sha256": "7485aa234a9a644c10c30a544cd63ef5a590e2938495e6fde12b5bdbfeb7ea1c"
+    }
+  ]
+}

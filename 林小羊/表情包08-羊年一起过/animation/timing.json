@@ -1,0 +1,263 @@
+{
+  "fps": 10,
+  "files": [
+    {
+      "caption": "羊年大吉",
+      "file": "exports/羊年大吉.gif",
+      "sha256": "a0dbae88f2321a54ae4d9395e32f357f02602371820513a8f519eebe6c90ddfa",
+      "loop": "forever",
+      "bytes": 191513,
+      "frame_ms": 100,
+      "size": [
+        240,
+        240
+      ],
+      "loop_ms": 1600,
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "id": "01-greeting"
+    },
+    {
+      "caption": "恭喜发财",
+      "file": "exports/恭喜发财.gif",
+      "sha256": "8f512f37949acfd7cbb38f2f35416de4f978ac7da500795540fbc8fa5bc90e86",
+      "loop": "forever",
+      "bytes": 213687,
+      "frame_ms": 100,
+      "size": [
+        240,
+        240
+      ],
+      "loop_ms": 1600,
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "id": "02-prosper"
+    },
+    {
+      "caption": "谢谢红包",
+      "file": "exports/谢谢红包.gif",
+      "sha256": "b90715fe921ff27503f1b9a4f1cd22a7c5b1a5dd8003402ce6290b709a24cd24",
+      "loop": "forever",
+      "bytes": 233079,
+      "frame_ms": 100,
+      "size": [
+        240,
+        240
+      ],
+      "loop_ms": 1600,
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "id": "03-thanks"
+    },
+    {
+      "caption": "年夜饭开席",
+      "file": "exports/年夜饭开席.gif",
+      "sha256": "59e39e05829e455580ea60299f19b4efa3536bfeabf9fd8059167d4ff2a9c452",
+      "loop": "forever",
+      "bytes": 241791,
+      "frame_ms": 100,
+      "size": [
+        240,
+        240
+      ],
+      "loop_ms": 1600,
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "id": "04-dinner"
+    },
+    {
+      "caption": "守岁中",
+      "file": "exports/守岁中.gif",
+      "sha256": "5cedb17c8f1dc09d84221a311d128b92b44f0d72758226774590a72ff6d68983",
+      "loop": "forever",
+      "bytes": 198497,
+      "frame_ms": 100,
+      "size": [
+        240,
+        240
+      ],
+      "loop_ms": 1600,
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "id": "05-vigil"
+    },
+    {
+      "caption": "串门来啦",
+      "file": "exports/串门来啦.gif",
+      "sha256": "a6bdce88e9e4611bc092d45336506d2daaa9a63a8ce2301259c57e850564b753",
+      "loop": "forever",
+      "bytes": 230193,
+      "frame_ms": 100,
+      "size": [
+        240,
+        240
+      ],
+      "loop_ms": 1600,
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "id": "06-visit"
+    },
+    {
+      "caption": "先吃饭哈",
+      "file": "exports/先吃饭哈.gif",
+      "sha256": "b574c1320c1f2e36aa90bea56000da40df21ffb1fa6964117ebd19021a6ca720",
+      "loop": "forever",
+      "bytes": 238239,
+      "frame_ms": 100,
+      "size": [
+        240,
+        240
+      ],
+      "loop_ms": 1600,
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "id": "07-eat-first"
+    },
+    {
+      "caption": "开工大吉",
+      "file": "exports/开工大吉.gif",
+      "sha256": "92650088ba3e5c1a4a3f090c4a4ab2a05e7a8c6cf3370bf1a8151333094d6952",
+      "loop": "forever",
+      "bytes": 208759,
+      "frame_ms": 100,
+      "size": [
+        240,
+        240
+      ],
+      "loop_ms": 1600,
+      "sequence": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "id": "08-work"
+    }
+  ],
+  "frames_per_sheet": 4,
+  "kind": "keyframe_animation"
+}

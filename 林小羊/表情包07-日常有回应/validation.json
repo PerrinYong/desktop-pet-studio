@@ -1,0 +1,257 @@
+{
+  "ok": true,
+  "created": "2026-11-25",
+  "originals_hash_verified": 9,
+  "local_links_valid": true,
+  "wechat_client_tested": false,
+  "files": [
+    {
+      "file": "animation/exports/我出发了.gif",
+      "bytes": 106897,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 8,
+      "distinct_frames": 4,
+      "duration_ms": 800,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "24611e5eab3d842a107962745bc548d8d90e8336c858d4d842de1a170e25cecf"
+    },
+    {
+      "file": "animation/exports/到家啦.gif",
+      "bytes": 214243,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "8390c7074dc6cfee03e7d89aea2065a31638ebf03848c881aae031afc82e76ca"
+    },
+    {
+      "file": "animation/exports/开饭了.gif",
+      "bytes": 212475,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "bef45eeb67e51b817677d51a5074258021d301a44ad5c2b65a480459bd4b7d6a"
+    },
+    {
+      "file": "animation/exports/抱抱你.gif",
+      "bytes": 217187,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "c9ef68311ffeaaa476d5a7fffb34fa596e4d21ee9dc340bc857030825f88b2e0"
+    },
+    {
+      "file": "animation/exports/回血中.gif",
+      "bytes": 228631,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "8282d19b62ca14462a769681ce03b3e8077e2ff81209726ccb656eb6384705e9"
+    },
+    {
+      "file": "animation/exports/晚安老己.gif",
+      "bytes": 229613,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "dc069d197c2b94054c4cc0a7716550360fb987631a72fce08a8c44b7957d1fe3"
+    },
+    {
+      "file": "animation/exports/周末开摆.gif",
+      "bytes": 211981,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "a49a31a5338e56ee81b5c67e115574c7651b49a614d318e97787700a15eb22bd"
+    },
+    {
+      "file": "animation/exports/接住好运.gif",
+      "bytes": 202933,
+      "size": [
+        240,
+        240
+      ],
+      "frames": 16,
+      "distinct_frames": 4,
+      "duration_ms": 1600,
+      "loop": "forever",
+      "unexpected_opaque_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "caption_stable": true,
+      "sha256": "b28d507b7f9b993bd78d3e275351baf6a45f43d03b1e2e5296fe4f7ec936fa23"
+    }
+  ]
+}

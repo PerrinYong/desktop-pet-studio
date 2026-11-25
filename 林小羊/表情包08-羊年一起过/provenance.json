@@ -1,0 +1,55 @@
+{
+  "tool": "built-in image_gen",
+  "created": "2026-11-25",
+  "reference": "references/character-master.png",
+  "files": [
+    {
+      "id": "01-greeting",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-6d249964-e5ba-43a5-8893-9c13b25efd2c.png",
+      "archived": "animation/raw/01-greeting-sheet.png",
+      "sha256": "5834083465bd971e2202fd46aba49f42209aabdbb8cd1eaa502875f492414d7e"
+    },
+    {
+      "id": "02-prosper",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-be8f0ff2-de68-4cbf-8948-f856e6fc3d59.png",
+      "archived": "animation/raw/02-prosper-sheet.png",
+      "sha256": "19b833836aea368b24ed5f45509a3b52f46027d9ec3b7264d7d5f9ee5f884b33"
+    },
+    {
+      "id": "03-thanks",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-e644457d-5e47-46c7-b81f-4271864a5841.png",
+      "archived": "animation/raw/03-thanks-sheet.png",
+      "sha256": "6d333a135c3e090c2467ac26192362352236e0b44cfc3d93b429e9bb493305c3"
+    },
+    {
+      "id": "04-dinner",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-63cf6cf7-9e7d-4e67-8f2a-6afdb6da4b2e.png",
+      "archived": "animation/raw/04-dinner-sheet.png",
+      "sha256": "c41aff8105e6ac4fb54fc02b7025729e4c75ac9e0c4eab701a626c91240b56f9"
+    },
+    {
+      "id": "05-vigil",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-21d658cb-28f4-4fab-a238-5f2988cc8b20.png",
+      "archived": "animation/raw/05-vigil-sheet.png",
+      "sha256": "e52e1447fefbb57f8d2188e9f667160a04b9e690f64c74379d96aaea36de9664"
+    },
+    {
+      "id": "06-visit",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-a1a57bf8-febb-4e67-be73-de0e6f34e555.png",
+      "archived": "animation/raw/06-visit-sheet.png",
+      "sha256": "217fb964a5aae0b4f0cf93be61a4c765131fd3ae93bb7c357a841c11048fe382"
+    },
+    {
+      "id": "07-eat-first",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9c9dfb63-9e60-4d3c-b94f-f7504f488ab5.png",
+      "archived": "animation/raw/07-eat-first-sheet.png",
+      "sha256": "59134435abf67de3bee4dc6a133a5aa0bd75ec3ece7d39ac6b95697dacc6cf5a"
+    },
+    {
+      "id": "08-work",
+      "source": "C:\\Users\\prin\\.codex\\generated_images\\01a20d01-6832-7843-82b4-d289d27c1a2f\\exec-9f644604-e1b3-49f9-8928-ba870bb6cdc1.png",
+      "archived": "animation/raw/08-work-sheet.png",
+      "sha256": "0281dd697277387ce6e33ec1ab60b8a97c9ac16a2053304f97fa617f1bb11353"
+    }
+  ]
+}

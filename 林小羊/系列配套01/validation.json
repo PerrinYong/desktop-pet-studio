@@ -1,0 +1,381 @@
+{
+  "ok": true,
+  "created": "2026-11-25",
+  "support_assets": 26,
+  "album_count": 8,
+  "files": [
+    {
+      "sha256": "b6c258dd7a445c2d4372a80277e40983026ac11d27c92bd76d6674c032b902bd",
+      "source": "raw/profile-avatar.png",
+      "file": "profile/avatar-240.png",
+      "height": 240,
+      "width": 240,
+      "bytes": 56487,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "95c5267cd7a3bf09db22570d6490587943daab12010689718bb22bf3559b12df",
+      "source": "raw/profile-avatar.png",
+      "file": "profile/icon-50.png",
+      "height": 50,
+      "width": 50,
+      "bytes": 4563,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "412d99e0606d95291b1473f2e2642be4f3f00ec1098fbb940739b55347752ec1",
+      "source": "raw/02-cover.png",
+      "file": "02/cover-240.png",
+      "height": 240,
+      "width": 240,
+      "bytes": 60628,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "9463ca3d393a84dc6412b3e87035bfe1eeadb19ec94383d48361cb8b46a3f23f",
+      "source": "raw/02-cover.png",
+      "file": "02/icon-50.png",
+      "height": 50,
+      "width": 50,
+      "bytes": 4866,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "16532e9478954ab2424771bae663b34708fddcbebfa81bb288d13a80324b540a",
+      "source": "raw/02-banner.png",
+      "file": "02/banner-750x400.jpg",
+      "height": 400,
+      "width": 750,
+      "bytes": 48883,
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "sha256": "d0d2f3e312ac015cf88d4e19ffd087142a2f79a2544505b6d5acef9b8b24264d",
+      "source": "raw/03-cover.png",
+      "file": "03/cover-240.png",
+      "height": 240,
+      "width": 240,
+      "bytes": 59787,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "aa84c5072250aa0ce03392ad89ffaf3b65d4c4b03043341005c146e1c02badd8",
+      "source": "raw/03-cover.png",
+      "file": "03/icon-50.png",
+      "height": 50,
+      "width": 50,
+      "bytes": 4802,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "4396340eb769af3afbc86da60c1c653b78ce503211eda0529fda0fcb742ce3b5",
+      "source": "raw/03-banner.png",
+      "file": "03/banner-750x400.jpg",
+      "height": 400,
+      "width": 750,
+      "bytes": 39929,
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "sha256": "05217d298ccfc11460e87320e3732871b39583b463aa903d45d3511ca6d0e90a",
+      "source": "raw/04-cover.png",
+      "file": "04/cover-240.png",
+      "height": 240,
+      "width": 240,
+      "bytes": 32196,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "08f0c4bab9d4fd37b6925c2df376e7977f5fd1057ff8934ae48d541af3182854",
+      "source": "raw/04-cover.png",
+      "file": "04/icon-50.png",
+      "height": 50,
+      "width": 50,
+      "bytes": 2655,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "9cc0b0ade90c61bb9e3eddf66880ec5151bae1353755bf4dc6fcbe1d4ae835ca",
+      "source": "raw/04-banner.png",
+      "file": "04/banner-750x400.jpg",
+      "height": 400,
+      "width": 750,
+      "bytes": 34915,
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "sha256": "d143b95aeb67cc7c965e3a11ce0a19d5f7330992eb65759dd68d829d877d1bba",
+      "source": "raw/05-cover.png",
+      "file": "05/cover-240.png",
+      "height": 240,
+      "width": 240,
+      "bytes": 62820,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "44cd95147a3513571f8e25ad5552cd172e40890d4885a557cacc600fe0ebc4ec",
+      "source": "raw/05-cover.png",
+      "file": "05/icon-50.png",
+      "height": 50,
+      "width": 50,
+      "bytes": 4955,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "09b4b44bf7988d94ccd37e3467831311fabd8d7717f749446a9ae3a71273c2df",
+      "source": "raw/05-banner.png",
+      "file": "05/banner-750x400.jpg",
+      "height": 400,
+      "width": 750,
+      "bytes": 52403,
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "sha256": "c361408f0c49705556393230363b0d0f334ca3b95335c24e11513c245c9e6171",
+      "source": "raw/06-cover.png",
+      "file": "06/cover-240.png",
+      "height": 240,
+      "width": 240,
+      "bytes": 60224,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "52606d26d35755c9ed81caf055fe53afc1c4afd9e90bf1de911dd17cd746caea",
+      "source": "raw/06-cover.png",
+      "file": "06/icon-50.png",
+      "height": 50,
+      "width": 50,
+      "bytes": 4757,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "c72f635c05e609ea1360aaed02bf4e8cd14dbc0b653d62112b20e5b933cd973c",
+      "source": "raw/06-banner.png",
+      "file": "06/banner-750x400.jpg",
+      "height": 400,
+      "width": 750,
+      "bytes": 33843,
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "sha256": "57baca3e9b0540f58920a3180a1f2acab9b86255dea78db4f5c27d01194647ab",
+      "source": "raw/07-cover.png",
+      "file": "07/cover-240.png",
+      "height": 240,
+      "width": 240,
+      "bytes": 59805,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "b2e5ad08f51c6b5d6e90c48529820cc59d593524fda89243eddaa9a1dad745a3",
+      "source": "raw/07-cover.png",
+      "file": "07/icon-50.png",
+      "height": 50,
+      "width": 50,
+      "bytes": 4632,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "3f60de1c34340ea993cad9d0d0b2b535b2d2e86a0b79e741651ad4b5cfb6ce17",
+      "source": "raw/07-banner.png",
+      "file": "07/banner-750x400.jpg",
+      "height": 400,
+      "width": 750,
+      "bytes": 45654,
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "sha256": "2aefd19de8d43861394a89229c964eab9a341a1a9d8971bfcf72df74df2bde70",
+      "source": "raw/08-cover.png",
+      "file": "08/cover-240.png",
+      "height": 240,
+      "width": 240,
+      "bytes": 54883,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "f642bd0fe2177eebee4e0b98d272896b405647dc84c1ac39d980a86f8ef30273",
+      "source": "raw/08-cover.png",
+      "file": "08/icon-50.png",
+      "height": 50,
+      "width": 50,
+      "bytes": 4416,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "bd9de988fb321bc3bd200abb24243f9db99166392e9079bce533c2e1be464ba3",
+      "source": "raw/08-banner.png",
+      "file": "08/banner-750x400.jpg",
+      "height": 400,
+      "width": 750,
+      "bytes": 53233,
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    },
+    {
+      "sha256": "69ab2c3dfd737e795224345c9ec8f48526223cecf822ba44a373c460365a3fc6",
+      "source": "raw/09-cover.png",
+      "file": "09/cover-240.png",
+      "height": 240,
+      "width": 240,
+      "bytes": 49510,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "f69bebc79fc4525c25bad7598c20d280bb071c353440d359bbbd1f4a83bd5084",
+      "source": "raw/09-cover.png",
+      "file": "09/icon-50.png",
+      "height": 50,
+      "width": 50,
+      "bytes": 3904,
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "sha256": "dbb46440885c1bcb4ee62d1abd163ea400ca18856944469b519d910fa34ae878",
+      "source": "raw/09-banner.png",
+      "file": "09/banner-750x400.jpg",
+      "height": 400,
+      "width": 750,
+      "bytes": 38925,
+      "alpha_extrema": [
+        255,
+        255
+      ]
+    }
+  ],
+  "albums": [
+    {
+      "id": "02",
+      "name": "上班有点咩",
+      "count": 8,
+      "kind": "静态",
+      "manifest": "表情包02-上班有点咩/assets/album-manifest.json"
+    },
+    {
+      "id": "03",
+      "name": "工作接得住",
+      "count": 8,
+      "kind": "静态",
+      "manifest": "表情包03-工作接得住/assets/album-manifest.json"
+    },
+    {
+      "id": "04",
+      "name": "羊毛失控",
+      "count": 8,
+      "kind": "静态",
+      "manifest": "表情包04-羊毛失控/assets/album-manifest.json"
+    },
+    {
+      "id": "05",
+      "name": "年会轮到我",
+      "count": 8,
+      "kind": "静态",
+      "manifest": "表情包05-年会轮到我/assets/album-manifest.json"
+    },
+    {
+      "id": "06",
+      "name": "热梗动起来",
+      "count": 8,
+      "kind": "动态",
+      "manifest": "表情包06-热梗动起来/assets/album-manifest.json"
+    },
+    {
+      "id": "07",
+      "name": "日常有回应",
+      "count": 8,
+      "kind": "动态",
+      "manifest": "表情包07-日常有回应/assets/album-manifest.json"
+    },
+    {
+      "id": "08",
+      "name": "羊年一起过",
+      "count": 8,
+      "kind": "动态",
+      "manifest": "表情包08-羊年一起过/assets/album-manifest.json"
+    },
+    {
+      "id": "09",
+      "name": "和你黏一会",
+      "count": 16,
+      "kind": "动态",
+      "manifest": "表情包09-和你黏一会/assets/album-manifest.json"
+    }
+  ],
+  "wechat_client_tested": false,
+  "platform_submitted": false,
+  "spec_basis": "用户此前提供的规格截图；未声称已复核当前平台规则"
+}
