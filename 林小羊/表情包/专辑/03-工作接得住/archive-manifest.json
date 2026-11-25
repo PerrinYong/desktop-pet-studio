@@ -1,0 +1,255 @@
+{
+  "created": "2026-11-25",
+  "files": [
+    {
+      "path": "exports/chat-512/01-收到.png",
+      "bytes": 207008,
+      "sha256": "c86da677ecf54512d13aaacbe276e8a2b5c8b449803a548fb02d471044a2c4ac"
+    },
+    {
+      "path": "exports/chat-512/02-我看一下.png",
+      "bytes": 216855,
+      "sha256": "b15af36de9b648703c46feeed771c17e5bfe268f02bfea95d3d2109e287ff9aa"
+    },
+    {
+      "path": "exports/chat-512/03-处理中.png",
+      "bytes": 228869,
+      "sha256": "ab9463b7dcbee573ce0d8e123d076410730a904c91f56ebd51c3d5a66c27d054"
+    },
+    {
+      "path": "exports/chat-512/04-对齐一下.png",
+      "bytes": 228566,
+      "sha256": "6ddfdba407b6f6cc78a8873aec3da40d9f71d15dcd926042ad2d44c2b76f21f9"
+    },
+    {
+      "path": "exports/chat-512/05-辛苦确认.png",
+      "bytes": 238796,
+      "sha256": "1b97222451194267c1d3f77ec7f34e86328d36a004ce83795c0e45fc4e451847"
+    },
+    {
+      "path": "exports/chat-512/06-联调中.png",
+      "bytes": 244968,
+      "sha256": "f2f77ee951e370b53f9b33ac689950a63cce06c0dfa09fd83f1af77ff2002bcd"
+    },
+    {
+      "path": "exports/chat-512/07-已同步.png",
+      "bytes": 226138,
+      "sha256": "9fc4f6d3157034458acd58f9a702293c3516dbd596aea078247b3d569bea15e0"
+    },
+    {
+      "path": "exports/chat-512/08-可以提测.png",
+      "bytes": 242713,
+      "sha256": "ef32453978e337772b751c4e1d215473645b416089e126918434cf2725d89443"
+    },
+    {
+      "path": "exports/thumbnails-120/01-收到.png",
+      "bytes": 15682,
+      "sha256": "b6d24731d82dfd21734d2cedbd309f548697c1f4f967bc9f9f87a280179d4a58"
+    },
+    {
+      "path": "exports/thumbnails-120/02-我看一下.png",
+      "bytes": 17179,
+      "sha256": "d960fbc57a8e5700396aa57a4a41decb8c171defca034fc0774a52be9c63988d"
+    },
+    {
+      "path": "exports/thumbnails-120/03-处理中.png",
+      "bytes": 18056,
+      "sha256": "781b4732c03f93abfd1ae4b075a978ffa932b09780d02386e1fd641b5e640a9c"
+    },
+    {
+      "path": "exports/thumbnails-120/04-对齐一下.png",
+      "bytes": 17745,
+      "sha256": "9983a388160b7b1f4737742984205fddd14e7995e6f020c13ace80920b420ef4"
+    },
+    {
+      "path": "exports/thumbnails-120/05-辛苦确认.png",
+      "bytes": 18488,
+      "sha256": "06dcbc9cb15901c3b391dbf9b57596f4be51169ca4b37e64effd70a5fcd0ab66"
+    },
+    {
+      "path": "exports/thumbnails-120/06-联调中.png",
+      "bytes": 19088,
+      "sha256": "0fea31b3c53aaee64f1e817c24236438db5cb17c77e015571b40fdfa0f960cee"
+    },
+    {
+      "path": "exports/thumbnails-120/07-已同步.png",
+      "bytes": 17718,
+      "sha256": "ab8e7f597b512675f791e7068247fd15a69497681cc25b313487a4502aa76d58"
+    },
+    {
+      "path": "exports/thumbnails-120/08-可以提测.png",
+      "bytes": 19002,
+      "sha256": "e6bdf90a5970e2c04e00bae0d46d521b30fe34d2b01f0495d858f96869879f50"
+    },
+    {
+      "path": "exports/wechat-240/01-收到.png",
+      "bytes": 51087,
+      "sha256": "28389b66430a55743debbff3c6ed1d3e9f37478d5b59b0296acf9ba50278bc51"
+    },
+    {
+      "path": "exports/wechat-240/02-我看一下.png",
+      "bytes": 54047,
+      "sha256": "6ca8b77afa54269c543b854b99b4d5431c44f8cea3c7a17f33135b17c35a057c"
+    },
+    {
+      "path": "exports/wechat-240/03-处理中.png",
+      "bytes": 57679,
+      "sha256": "d32b0c928a7700364949a818858d9f9ae2a4f70a1dfcda294e575a9e3f927a2b"
+    },
+    {
+      "path": "exports/wechat-240/04-对齐一下.png",
+      "bytes": 56043,
+      "sha256": "fb1ccb21df40e4dbfaa03169f88ea11e0cfad257c0312eece45642e33ffb641d"
+    },
+    {
+      "path": "exports/wechat-240/05-辛苦确认.png",
+      "bytes": 58616,
+      "sha256": "1ec892dc9a07f4937b4c459645e62cc46a47e8efaf540c5efbc31d45f51ac4a4"
+    },
+    {
+      "path": "exports/wechat-240/06-联调中.png",
+      "bytes": 60779,
+      "sha256": "26b253f94f3741c1e110221ef0212ab519b62668d80d0c2b32d67a06874a4921"
+    },
+    {
+      "path": "exports/wechat-240/07-已同步.png",
+      "bytes": 56661,
+      "sha256": "20ae46c107fbf7eb5581029ef1a6cc14d3fe77669035831441c189ce91d5a4ad"
+    },
+    {
+      "path": "exports/wechat-240/08-可以提测.png",
+      "bytes": 60774,
+      "sha256": "967b5e99917b142d60696250c2aee481e45e64ac22259c76753cd55af874be53"
+    },
+    {
+      "path": "pack.json",
+      "bytes": 4477,
+      "sha256": "8414b8dcc0602f289186712e0a5c2f29fb8fb57a27a715b597f2443203645ee8"
+    },
+    {
+      "path": "preview/contact-dark.jpg",
+      "bytes": 120559,
+      "sha256": "b9dea416fb121b4733e0028b8bdbaf78655fe75d9512fd99947c1234ff64419d"
+    },
+    {
+      "path": "preview/contact-light.jpg",
+      "bytes": 106606,
+      "sha256": "1ae02a1e2dec4e07ba50433887b601cc88da56ced886aecbbdb59b733f7be696"
+    },
+    {
+      "path": "prompts/01.md",
+      "bytes": 1298,
+      "sha256": "9a86ffc31cc81f7cb6b19b9859102ade50d05b5c7354235e1b7c69992b5d163e"
+    },
+    {
+      "path": "prompts/02.md",
+      "bytes": 1307,
+      "sha256": "3b88dde0c3a4cecbfa7fb83d41509373591b021267f8493036eacd04757cd7da"
+    },
+    {
+      "path": "prompts/03.md",
+      "bytes": 1332,
+      "sha256": "ef379e2f02abc1ae8e7797f5841070f78b12bdfa0e2bb59696c3b2ba7f1fbab1"
+    },
+    {
+      "path": "prompts/04.md",
+      "bytes": 1337,
+      "sha256": "df91f3a8e286c83df6b1a3a1e011b9a05a36fcbf01254619d877ef930d751d8c"
+    },
+    {
+      "path": "prompts/05.md",
+      "bytes": 1320,
+      "sha256": "9c3b5c9d092570f44f58c12157935d274e2a5227ecc349710dcd593ec993739d"
+    },
+    {
+      "path": "prompts/06.md",
+      "bytes": 1334,
+      "sha256": "7f01e383ba28e5bb621bccf8c38ab7ec6a43d9aa390a3953285dfb31fca7d1d1"
+    },
+    {
+      "path": "prompts/07.md",
+      "bytes": 1323,
+      "sha256": "eaf0a33dd2b00a1614b3ce29c78eec59598b68426fb1e7a3ee63d9f845e02cf7"
+    },
+    {
+      "path": "prompts/08.md",
+      "bytes": 1376,
+      "sha256": "5743adf572f5e5324100d2053adfcd6eb98bac30a1af06cab4bf46808f2d7414"
+    },
+    {
+      "path": "provenance.json",
+      "bytes": 3016,
+      "sha256": "8e7fbf68a84edefa85bd45c78fa8bd726c8dc64d847f4b5c807aece77073173b"
+    },
+    {
+      "path": "raw/01.png",
+      "bytes": 1213730,
+      "sha256": "854d9cbfd5efe974964c1cf7b6f31e067a95af2a1860b03866237ec420644538"
+    },
+    {
+      "path": "raw/02.png",
+      "bytes": 1179117,
+      "sha256": "42ad6f7fbb60dc5ecebfa0aa1cd40f1d8a31a58db2aeb70f112406f5c9c77e02"
+    },
+    {
+      "path": "raw/03.png",
+      "bytes": 1248358,
+      "sha256": "3fc0ffff81ae0347762a83760db6e624a43b75b0747b071284b4f1d3acebb735"
+    },
+    {
+      "path": "raw/04.png",
+      "bytes": 1360753,
+      "sha256": "60a7451a10fc5d0258d8d50395b8cb0f904a609a6bb94285f966bee67f27652b"
+    },
+    {
+      "path": "raw/05.png",
+      "bytes": 1382134,
+      "sha256": "22cd09c78e7d723e751013d716745e4d9fca98804b2bace0653bd27c3d777b74"
+    },
+    {
+      "path": "raw/06.png",
+      "bytes": 1431501,
+      "sha256": "5f7b5bd4d3a5bab55c8329d47a09f1886226c20fd8f82f1c74e4c539011b67d9"
+    },
+    {
+      "path": "raw/07.png",
+      "bytes": 1298693,
+      "sha256": "7a4c532473e8cfe13bf4de486dd1aa767902776685d5ae809474790fddd2f951"
+    },
+    {
+      "path": "raw/08.png",
+      "bytes": 1340251,
+      "sha256": "c623bb1d6e397b8e3bf0c99d78cdf92ffdb5e9678e075f9eb5eda9038364cf4b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2258,
+      "sha256": "89bef673c160485b8196437d46acb6d8a35237723ed3d412a35470a300de9976"
+    },
+    {
+      "path": "references/character-master.png",
+      "bytes": 989101,
+      "sha256": "670922e98f092922569610ed177d434a16c8c1cde482999a03bef9f85556f416"
+    },
+    {
+      "path": "scripts/export.ps1",
+      "bytes": 6317,
+      "sha256": "9629c7725eb72a722bd910ebfae6eaec86a0a2c1bdad6b2a222c29f4f9f09392"
+    },
+    {
+      "path": "validation.json",
+      "bytes": 4479,
+      "sha256": "045844b979638daefef3bfd6cb865c2c1312546a10306d5af6f8e004960fcf1e"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 456,
+      "sha256": "b1c5d9710054b66f176c8ba900d45ffeba19748f6cc4a08e8908c7eae0cb717f"
+    },
+    {
+      "path": "含义词.txt",
+      "bytes": 169,
+      "sha256": "7c636a851d61ca8c50174e957ba5841b5beadbf62f1a6f09070a0a79e99945b0"
+    }
+  ]
+}

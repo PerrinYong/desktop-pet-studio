@@ -1,0 +1,469 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 74,
+      "sha256": "5ac165455ed382f58125fd5718ff9a981943aff9318267080bffb95ea27c6efd"
+    },
+    {
+      "path": "exports/chat-512/01-收到.png",
+      "bytes": 277680,
+      "sha256": "63e8ac95e122c07a34d9ca69ef9b4418aa99ef3e31a39284568bc6eab81992dc"
+    },
+    {
+      "path": "exports/chat-512/02-好耶.png",
+      "bytes": 279537,
+      "sha256": "f50cf743941011350ee5ffee7b51641503f89affb75982655b78905c1e032d81"
+    },
+    {
+      "path": "exports/chat-512/03-谢谢你.png",
+      "bytes": 266967,
+      "sha256": "09c56a2de3eb273b1d26dd68a8623bd072c353bc475bd5a054274aba2036409b"
+    },
+    {
+      "path": "exports/chat-512/04-抱抱.png",
+      "bytes": 319376,
+      "sha256": "4a2da2abdfaa5d49960c6ff8aea71349f7dd4f4540ea67df037694c0cbe267c8"
+    },
+    {
+      "path": "exports/chat-512/05-辛苦啦.png",
+      "bytes": 252042,
+      "sha256": "598406afd6745cb457f777a23a742159724ca80571b9b0eba5058250c4da32bf"
+    },
+    {
+      "path": "exports/chat-512/06-我想想.png",
+      "bytes": 269158,
+      "sha256": "fb59c4f7518a91f03eea0c310568045b08504140d2ce46f58678c79833e60dca"
+    },
+    {
+      "path": "exports/chat-512/07-啊？.png",
+      "bytes": 254213,
+      "sha256": "bceb3713bd4448cf6b30ed50a3c41a33cf20a8a299ca75896e853c52189775aa"
+    },
+    {
+      "path": "exports/chat-512/08-救命.png",
+      "bytes": 304868,
+      "sha256": "508ee8d9a543a2d319792d5a61ef87fd4477eb84eda5f5a352c2f22833b48598"
+    },
+    {
+      "path": "exports/chat-512/09-我裂开了.png",
+      "bytes": 315573,
+      "sha256": "2e1da064acf1b61400e0a940a78cd5642228054f6f736a8b0e9bace703ff254b"
+    },
+    {
+      "path": "exports/chat-512/10-让我缓缓.png",
+      "bytes": 300394,
+      "sha256": "32abccf8989ec5ae8c23be4b28f94fe68a7c1fe7336ba0ed9002b20cdaa75e1e"
+    },
+    {
+      "path": "exports/chat-512/11-困了.png",
+      "bytes": 256182,
+      "sha256": "0b0fe86879c304184979ef9ea372cd17b58074fe9e92b0358050c444f786d3a8"
+    },
+    {
+      "path": "exports/chat-512/12-晚安.png",
+      "bytes": 277522,
+      "sha256": "762e362bc0fbfa1d3a9fa28a3eb4f96b43a437b8c2bbea165248668d1ad2e386"
+    },
+    {
+      "path": "exports/chat-512/13-加油.png",
+      "bytes": 284427,
+      "sha256": "04817276291a1d24afd668cd6f67ac5e7661c9852d51821c2651b4bf7d32ba52"
+    },
+    {
+      "path": "exports/chat-512/14-安排.png",
+      "bytes": 270068,
+      "sha256": "00d6a7280ff60deb82f4ab860acb2e5e9d5da31ef2d122a17b6404f7024d9ff5"
+    },
+    {
+      "path": "exports/chat-512/15-先溜了.png",
+      "bytes": 274418,
+      "sha256": "8b6b95b6e327405061c41573a5ac8378634681f02fc0f39642ef0b9ab54beb66"
+    },
+    {
+      "path": "exports/chat-512/16-哈哈哈.png",
+      "bytes": 295628,
+      "sha256": "fad7de5cd31795e37baa094f0a6608cce98f8e4302c08530a728e86c7e60a871"
+    },
+    {
+      "path": "exports/thumbnails-120/01-收到.png",
+      "bytes": 20136,
+      "sha256": "79ca0ccbdebfadffc85ce3849a4f2c54e05eac7b0af26e74313ef0630f9ae75c"
+    },
+    {
+      "path": "exports/thumbnails-120/02-好耶.png",
+      "bytes": 20343,
+      "sha256": "f2fd59bc0608ac6aedd965fe7b0ce0c34425184e83d096d9846f4980d3eaad5d"
+    },
+    {
+      "path": "exports/thumbnails-120/03-谢谢你.png",
+      "bytes": 19104,
+      "sha256": "fe82ca4b5fb13280001f70396f68229186eb8610fe08e5bb70e9daca90ea0786"
+    },
+    {
+      "path": "exports/thumbnails-120/04-抱抱.png",
+      "bytes": 22815,
+      "sha256": "c828c9fad525e568dc75713a3c4a20d6b958a80a8992ca75d7403a0ab8a0dc1e"
+    },
+    {
+      "path": "exports/thumbnails-120/05-辛苦啦.png",
+      "bytes": 18284,
+      "sha256": "f39f48c7c7a2f8311160b261851cfabc9c58719d39953a1de8e70e14106c196c"
+    },
+    {
+      "path": "exports/thumbnails-120/06-我想想.png",
+      "bytes": 19645,
+      "sha256": "21d68076038aa41dc46ca13643698b69a5c1c92d701de77d565fa3b75f706065"
+    },
+    {
+      "path": "exports/thumbnails-120/07-啊？.png",
+      "bytes": 18594,
+      "sha256": "4e028d257875796bb7fd1436ae74d0cf4efbbaa5e87c803a0a96f75a530595b9"
+    },
+    {
+      "path": "exports/thumbnails-120/08-救命.png",
+      "bytes": 21838,
+      "sha256": "58fb1a3191cf727128945ca008937535c71043896c3ff0f80940f0600b3879d7"
+    },
+    {
+      "path": "exports/thumbnails-120/09-我裂开了.png",
+      "bytes": 23636,
+      "sha256": "393f563ffd8a8e77c8b292a0d35b93d462d4b5471a130bd21c0310b0f886dedd"
+    },
+    {
+      "path": "exports/thumbnails-120/10-让我缓缓.png",
+      "bytes": 21746,
+      "sha256": "2e3be1074afc7465e5a5cf125aaac01d24ba0a0990422bdfa2d7bf7e1936f737"
+    },
+    {
+      "path": "exports/thumbnails-120/11-困了.png",
+      "bytes": 18701,
+      "sha256": "d9e2d30c298c580697db0118a0a2c8fd8101d24f2fa78eecfa2e6d39b3576e56"
+    },
+    {
+      "path": "exports/thumbnails-120/12-晚安.png",
+      "bytes": 19377,
+      "sha256": "ffc9222cec78952fd4be9417d5d1a80cb09faadca1e87b7220e57ab9b5776b52"
+    },
+    {
+      "path": "exports/thumbnails-120/13-加油.png",
+      "bytes": 21089,
+      "sha256": "4a0543b348901f22020e22c5a6fb6e729e19580e15f6a8cd41d93ad26e0a55c9"
+    },
+    {
+      "path": "exports/thumbnails-120/14-安排.png",
+      "bytes": 19662,
+      "sha256": "c1ea0058db945cf14baeaa2602042a27eb5af889e755f3ae4c6f0575a8a5ee5a"
+    },
+    {
+      "path": "exports/thumbnails-120/15-先溜了.png",
+      "bytes": 19908,
+      "sha256": "e4e6f131ff04756d4f646067f93d803e408da6c32344cbaf0d33015b4956a841"
+    },
+    {
+      "path": "exports/thumbnails-120/16-哈哈哈.png",
+      "bytes": 21633,
+      "sha256": "5022f9ba8b0113add97f6f0532d087a8533f3e40f9d6e2ec1a1715bb13892984"
+    },
+    {
+      "path": "exports/wechat-240/01-收到.png",
+      "bytes": 67851,
+      "sha256": "f10948e76735e7e16acc745535715529cad541abc318e1a4dc22c25c0a7ab237"
+    },
+    {
+      "path": "exports/wechat-240/02-好耶.png",
+      "bytes": 67637,
+      "sha256": "f3577cd2170b8708f548854d04b38bfff5531a40838a810611f5f4ba6014f895"
+    },
+    {
+      "path": "exports/wechat-240/03-谢谢你.png",
+      "bytes": 65187,
+      "sha256": "c7a120676d597a5e55f3b391b9237edbb8b72004bfcda4111a9510b6b0512425"
+    },
+    {
+      "path": "exports/wechat-240/04-抱抱.png",
+      "bytes": 77525,
+      "sha256": "2a3dc4ce61b1d7839991a1a9b2d50678f46d4351f002083eff8a4bd0cda0aba7"
+    },
+    {
+      "path": "exports/wechat-240/05-辛苦啦.png",
+      "bytes": 61761,
+      "sha256": "f90c47392ef2c2118a05e433a09fe97bdf4a460073c369587cebf8f6424c22ff"
+    },
+    {
+      "path": "exports/wechat-240/06-我想想.png",
+      "bytes": 65857,
+      "sha256": "7a99595d5ede8037f4a27554ecc06b22785a0631a866a0f5943b04e59dc736ba"
+    },
+    {
+      "path": "exports/wechat-240/07-啊？.png",
+      "bytes": 62391,
+      "sha256": "6ee5b201c01219c43c735f088c7a2bdc25d8d7fe33fda182c864e7c90d7e2d54"
+    },
+    {
+      "path": "exports/wechat-240/08-救命.png",
+      "bytes": 74228,
+      "sha256": "a445f8461bb5c8bb4993841e2786d7aff4dac5a95dc22485527331b1049098a9"
+    },
+    {
+      "path": "exports/wechat-240/09-我裂开了.png",
+      "bytes": 78023,
+      "sha256": "c0c3a6e82048cb43867120cd04a497a0b2605267996f5e4880f79d7eeee473eb"
+    },
+    {
+      "path": "exports/wechat-240/10-让我缓缓.png",
+      "bytes": 73568,
+      "sha256": "6b77625ac04fd489bb7f9b63e851086cd9eeb2f65041454ab4adc49e15731343"
+    },
+    {
+      "path": "exports/wechat-240/11-困了.png",
+      "bytes": 62531,
+      "sha256": "f9f8e1f54ba22f91ee813aab28385272c8acb6ed77d69cb86fa7dae686a51332"
+    },
+    {
+      "path": "exports/wechat-240/12-晚安.png",
+      "bytes": 66052,
+      "sha256": "af6655dff75d11de7044ed8cfd9cb6272dae5c12c391c088d96a47199d6e9f68"
+    },
+    {
+      "path": "exports/wechat-240/13-加油.png",
+      "bytes": 70499,
+      "sha256": "89afd707e465c87adb3ed70d7db1a79b0f633143fe9f5ddfa38ce6aa86b25099"
+    },
+    {
+      "path": "exports/wechat-240/14-安排.png",
+      "bytes": 65986,
+      "sha256": "595385b90ec00f51c0b45648ff2c87af79a494ae5c188a65e1318221f27113de"
+    },
+    {
+      "path": "exports/wechat-240/15-先溜了.png",
+      "bytes": 66512,
+      "sha256": "89763a91257151dfd9afdc64fa24d786e6a509bd838d072fae8113cc1e5e7394"
+    },
+    {
+      "path": "exports/wechat-240/16-哈哈哈.png",
+      "bytes": 72936,
+      "sha256": "3b9728118c474e3e2c78f53f2ff56b4e4993aebe55b6ca092cb5030cde948493"
+    },
+    {
+      "path": "pack.json",
+      "bytes": 5184,
+      "sha256": "83265a1c24cd3734dd5fe3dacdb5cfd2e8ce56fb980f1acab05ef16615c2ed00"
+    },
+    {
+      "path": "preview/contact-dark.jpg",
+      "bytes": 201940,
+      "sha256": "bc1b2686d24bc4d2889d3c3ef29488d59a4e45c19affc5d07a4e8ee2b7ef7b19"
+    },
+    {
+      "path": "preview/contact-light.jpg",
+      "bytes": 170477,
+      "sha256": "907b8bd24850d68e1241d1cea2e007ee71536012ef5dde2e732903dddabb66ba"
+    },
+    {
+      "path": "prompts/01.md",
+      "bytes": 1443,
+      "sha256": "9685e5c7524dc5834d1e92de0b282fe7e229ff84e6f846181be3c863b5dd2210"
+    },
+    {
+      "path": "prompts/02.md",
+      "bytes": 1434,
+      "sha256": "53da8a413f5fc4d54559a259c178314ba8b53ce45cdfbdebd9f68868683f74cd"
+    },
+    {
+      "path": "prompts/03.md",
+      "bytes": 1429,
+      "sha256": "cf47d2da252d38528f655a156f1d620bc5eeabb549583636c64cd41508faf09f"
+    },
+    {
+      "path": "prompts/04.md",
+      "bytes": 1437,
+      "sha256": "394c5e9b8bd3d1b8c07cdcdd5ba00da9b10ba0b61575ba5ebde17bd82d5a2ce6"
+    },
+    {
+      "path": "prompts/05.md",
+      "bytes": 1440,
+      "sha256": "343bdfdbc659850154950934696237960c392f54f00ab21da481942cf95e04a2"
+    },
+    {
+      "path": "prompts/06.md",
+      "bytes": 1458,
+      "sha256": "c2dcf8d4ccaeb42050f74e34a14075c5f9764074ed6dd5a68228cea35d75483e"
+    },
+    {
+      "path": "prompts/07.md",
+      "bytes": 1459,
+      "sha256": "5a9a1c74a21b7882fdcfc0a5d4b14b89fa0971c570dc9743764e694cbd5fbe4e"
+    },
+    {
+      "path": "prompts/08.md",
+      "bytes": 1486,
+      "sha256": "81740b8295e2b2cf6148d8d0c25637f62778f5b1097361e931f3deee855cf515"
+    },
+    {
+      "path": "prompts/09.md",
+      "bytes": 1575,
+      "sha256": "7e90c72b7b8ef27cd7041563d9bbeba19ad45a84aa5e7f6ef9415ab07d11c1c0"
+    },
+    {
+      "path": "prompts/10.md",
+      "bytes": 1512,
+      "sha256": "08f4dee810ade25440cef7801cf23e63101aae3e7d943a150eb7b24c737d396a"
+    },
+    {
+      "path": "prompts/11.md",
+      "bytes": 1461,
+      "sha256": "2a6256712af2ed7c3f692647f3875599032add915b20cee5fac30edbe140108b"
+    },
+    {
+      "path": "prompts/12.md",
+      "bytes": 1473,
+      "sha256": "1ed8bab72ed1805c2c3fee35b995754d13b8d7257f9f7986ee55f4aa44ef6f24"
+    },
+    {
+      "path": "prompts/13.md",
+      "bytes": 1481,
+      "sha256": "2970c801353baae4cadeabefb6dd8d562775580d76d3864ed764c825ae91094f"
+    },
+    {
+      "path": "prompts/14.md",
+      "bytes": 1471,
+      "sha256": "f4ce3690387206daa2b50a8b5ba8a1bc7f5ed2c8c77a2e4d1486d4eff70959cd"
+    },
+    {
+      "path": "prompts/15.md",
+      "bytes": 1467,
+      "sha256": "9975e669aca3856520de65d4c1d7c46b1d302d10405f80b0af66da29836bee9d"
+    },
+    {
+      "path": "prompts/16.md",
+      "bytes": 1491,
+      "sha256": "59d6e897f0f37bea103326ca3e1895d084595f705dc3b2f4a68b265108db1dcf"
+    },
+    {
+      "path": "raw/01.png",
+      "bytes": 1496054,
+      "sha256": "485ea39deff2e22e4f27ab1e1af69143015dc60d05472f09b547baee36a079ea"
+    },
+    {
+      "path": "raw/02.png",
+      "bytes": 1625467,
+      "sha256": "b58fec9863d5e3b9b56141c78ca15bb9daf7d9267401faed7c7f8a4bdecfbae9"
+    },
+    {
+      "path": "raw/03.png",
+      "bytes": 1479725,
+      "sha256": "78aacb6bbce21788c28faad572192912d45b7408cb9dc531974edeb505f9f758"
+    },
+    {
+      "path": "raw/04.png",
+      "bytes": 1824255,
+      "sha256": "bf08a580ecd708c2286d60eb7f401965b558a8425461d96a51ff6eab89368e8c"
+    },
+    {
+      "path": "raw/05.png",
+      "bytes": 1394708,
+      "sha256": "60bcd21f154c7b9da2163cce1d2a6c778156babcd0c257af94f220240e17ca8b"
+    },
+    {
+      "path": "raw/06.png",
+      "bytes": 1458014,
+      "sha256": "18f2fd5d03c2677fdcb28c1c72e46e059003254b5f7bb284db83a486cfa74f2c"
+    },
+    {
+      "path": "raw/07.png",
+      "bytes": 1346268,
+      "sha256": "267910db9c351d07336ee560b08f7a25c343f72c2c15f148789b0cfa92008a48"
+    },
+    {
+      "path": "raw/08.png",
+      "bytes": 1681860,
+      "sha256": "b76a08e35023502b1746c560e4085a3990a497165effd10fc262695e1991d1be"
+    },
+    {
+      "path": "raw/09.png",
+      "bytes": 1750167,
+      "sha256": "4fda333e92ef31f7181b94eb5ad57c815c2c9edcda325464e1b65ade7e8a94ee"
+    },
+    {
+      "path": "raw/10.png",
+      "bytes": 1703531,
+      "sha256": "0ccf7879d93a29db42bcc7c86bd3dac421512654c624a43cd8254d2eed73a968"
+    },
+    {
+      "path": "raw/11.png",
+      "bytes": 1393473,
+      "sha256": "0a385a163321bca4c0e85dc527a3a2b77b76dde47d09f423d43b9f1be533b73b"
+    },
+    {
+      "path": "raw/12.png",
+      "bytes": 1560939,
+      "sha256": "031502f9bb9519a86cf3702ee49266f8f74038ec38a35de340e2eb77a5c5a410"
+    },
+    {
+      "path": "raw/13.png",
+      "bytes": 1613754,
+      "sha256": "bcf255177318bc0554217510be50eeccef75613cd8e0dd2100e76d73b676a9f6"
+    },
+    {
+      "path": "raw/14.png",
+      "bytes": 1460970,
+      "sha256": "7cb55bf6ec2c195850bb5fe82ebcb6b3962388af879d40d79a6a8d12db3bc2d1"
+    },
+    {
+      "path": "raw/15.png",
+      "bytes": 1551262,
+      "sha256": "3bedac9281558c2039e030387d9c44ee1a59470ae16bde6deb693344e743ff3f"
+    },
+    {
+      "path": "raw/16.png",
+      "bytes": 1605783,
+      "sha256": "6254942422f86c1c19d6f3ffcc9ebedd6b1e7f0a73e8b41ecbc0644bca87ef07"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2757,
+      "sha256": "4bdb1e3a21682b53fa27b922539c60980f97f257194cade3841e427325ea302d"
+    },
+    {
+      "path": "references/character-original.png",
+      "bytes": 1962117,
+      "sha256": "ad2eee0dab203811b92de81254766702ed85ecf810a2835e1f580eb1c32b5be1"
+    },
+    {
+      "path": "research/调研与制作方法.md",
+      "bytes": 7215,
+      "sha256": "f80c6f310c918fded348b1ef5bfceecaa7837c3145cfc62d202e3ab1b4b34f15"
+    },
+    {
+      "path": "scripts/export.ps1",
+      "bytes": 6305,
+      "sha256": "003c01baa1595f9ef4b605e8b63527b6f1b02edde84950fed20ded1ed2c427dc"
+    },
+    {
+      "path": "validation.json",
+      "bytes": 8598,
+      "sha256": "58d78f08122c914d75bef1f27dfac2d05bab1454dfd025deb13361716986b75e"
+    },
+    {
+      "path": "visual-review.json",
+      "bytes": 962,
+      "sha256": "2f2708addc84543e77547df84377cb368e90933b61d352b8f3888d50171f5fab"
+    },
+    {
+      "path": "使用说明.txt",
+      "bytes": 1167,
+      "sha256": "668fa6da00097911daecca87d8c5293b5cb6aa7bd4925de4c92bb1c3a204cf2e"
+    },
+    {
+      "path": "林小鹰-日常营业-图片包.zip",
+      "bytes": 6236475,
+      "sha256": "b5c50cd3f0d462d536f24cd78f24ed877613d0d82dc6a305c0636515b4c3755d"
+    }
+  ],
+  "original_images_hash_checked": 16,
+  "exports_decoded": 48,
+  "zip_integrity_ok": true,
+  "self_excluded": true
+}
